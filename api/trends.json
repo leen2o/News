@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T16:23:19.452712+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-10-13T16:50:57.553834+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 16时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 16时50分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -47,6 +48,31 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时14分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普称可能供乌战斧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 16时50分]"
+        },
+        {
+          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
+          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时27分 ~ 16时50分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -66,17 +92,19 @@
           "time_info": "[00时29分 ~ 06时39分]"
         },
         {
-          "title": "特朗普称可能供乌战斧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
-          "source": "bilibili 热搜",
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3,
-            4
+            10,
+            9,
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 16时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时42分 ~ 16时50分]"
         },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -97,32 +125,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时29分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
-          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时27分 ~ 16时23分]"
-        },
-        {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时42分 ~ 16时23分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -298,6 +300,28 @@
           "time_info": "[07时37分 ~ 07时38分]"
         },
         {
+          "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
+          "url": "https://flash.jin10.com/detail/20251013161654773800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
+          "url": "https://flash.jin10.com/detail/20251013161646636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
           "title": "特朗普连说三遍战争结束了",
           "url": "https://www.douyin.com/hot/2268110",
           "source": "抖音",
@@ -322,28 +346,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时21分 ~ 13时43分]"
-        },
-        {
-          "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
-          "url": "https://flash.jin10.com/detail/20251013161654773800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美国总统特朗普：哈马斯将遵守解除武装计划。战争结束了。",
-          "url": "https://flash.jin10.com/detail/20251013161646636800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
@@ -573,6 +575,17 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
+          "url": "https://flash.jin10.com/detail/20251013161452130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
           "title": "美国总统特朗普：我不了解加沙里维埃拉的情况，你得先照顾好民众。",
           "url": "https://flash.jin10.com/detail/20251013151731327800",
           "source": "金十数据",
@@ -726,6 +739,17 @@
           "time_info": "[06时15分 ~ 06时39分]"
         },
         {
+          "title": "市场消息：美国总统特朗普进入以色列议会。",
+          "url": "https://flash.jin10.com/detail/20251013161006398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
           "url": "https://flash.jin10.com/detail/20251013052246321800",
           "source": "金十数据",
@@ -785,15 +809,15 @@
           "time_info": "[12时45分 ~ 12时46分]"
         },
         {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
-          "url": "https://flash.jin10.com/detail/20251013161452130800",
-          "source": "金十数据",
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://wallstreetcn.com/livenews/2986659",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "16时50分"
         },
         {
           "title": "特朗普",
@@ -807,6 +831,28 @@
           "time_info": "10时53分"
         },
         {
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E2%80%9C%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%B7%B2%E7%BB%93%E6%9D%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://www.douyin.com/hot/2268670",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "韩国外交部：预计美国总统特朗普将在本月27日至下月1日的2025年亚太经合组织（APEC）领导人会议周期间访韩出席部分会议，并同韩国总统李在明举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20251013145104832800",
           "source": "金十数据",
@@ -816,17 +862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普进入以色列议会。",
-          "url": "https://flash.jin10.com/detail/20251013161006398800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "美国总统特朗普：卡塔尔人确实帮助了我们达成这项协议。",
@@ -851,6 +886,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "泽连斯基与特朗普两天内二度通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31766558",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "市场消息：美国总统特朗普抵达以色列。",
           "url": "https://flash.jin10.com/detail/20251013144148807800",
           "source": "金十数据",
@@ -860,12 +906,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "特朗普笑称自己没法上天堂：坐在空军一号，就是“在天堂了吧”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31768849",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
@@ -917,6 +974,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时27分 ~ 15时17分]"
+        },
+        {
+          "title": "TACO交易？美股纳指期货涨2%，科技股集体走高，数字货币大幅反弹，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -993,6 +1061,28 @@
           "time_info": "[15时39分 ~ 16时01分]"
         },
         {
+          "title": "美股盘前明星科技股普遍走高，AMD(AMD.O)涨超4%，阿斯麦(ASML.O)、英伟达(NVDA.O)、高通(QCOM.O)涨3.5%，英特尔(INTC.O)、甲骨文(ORCL.N)、特斯拉(TSLA.O)涨约2.5%。",
+          "url": "https://flash.jin10.com/detail/20251013160611212800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
+          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251013160329025800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
           "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
           "url": "https://wallstreetcn.com/livenews/2986391",
           "source": "华尔街见闻-快讯",
@@ -1002,28 +1092,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "美股盘前明星科技股普遍走高，AMD(AMD.O)涨超4%，阿斯麦(ASML.O)、英伟达(NVDA.O)、高通(QCOM.O)涨3.5%，英特尔(INTC.O)、甲骨文(ORCL.N)、特斯拉(TSLA.O)涨约2.5%。",
-          "url": "https://flash.jin10.com/detail/20251013160611212800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20251013160329025800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         }
       ]
     },
@@ -1063,8 +1131,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时53分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[10时53分 ~ 16时50分]"
         },
         {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
@@ -1198,11 +1266,12 @@
           "url": "https://wallstreetcn.com/livenews/2986638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时50分]"
         },
         {
           "title": "美股夜盘，英伟达(NVDA.O)涨近3%，特斯拉(TSLA.O)涨2%，苹果(AAPL.O)涨1%，AMD(AMD.O)涨超3%，高通(QCOM.O)涨2.3%。",
@@ -1227,11 +1296,12 @@
           "source": "今日头条",
           "ranks": [
             18,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时00分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时00分 ~ 16时50分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）上海金午盘价为924.55元/克，较国际金价(933.38元/克)，低8.83元/克",
