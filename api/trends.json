@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T15:17:36.802262+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-10-13T15:39:39.908780+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时53分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时53分 ~ 15时39分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 15时39分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 15时39分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -249,6 +249,29 @@
           "time_info": "[10时53分 ~ 13时18分]"
         },
         {
+          "title": "特朗普称可能供乌战斧",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
+          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普释放信号：愿与中国达成协议",
           "url": "https://www.toutiao.com/trending/7560501650729733674/",
           "source": "今日头条",
@@ -269,29 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普称可能供乌战斧",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时17分]"
-        },
-        {
-          "title": "特朗普前往中东参加“和平峰会”，但关键双方都不出席",
-          "url": "https://news.ifeng.com/c/8nPjNVJXMtq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 15时17分]"
         },
         {
           "title": "据英国金融时报：加拿大认为正与美国逐步达成行业贸易协议，并押注于美国总统特朗普在明年中期选举前亟需政绩的需求。",
@@ -533,6 +533,18 @@
           "time_info": "[05时38分 ~ 06时15分]"
         },
         {
+          "title": "特朗普连说三遍战争结束了",
+          "url": "https://www.douyin.com/hot/2268110",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普：有很多口头保证，我相信这些保证。加沙会没事的。",
           "url": "https://flash.jin10.com/detail/20251013050906964800",
           "source": "金十数据",
@@ -700,6 +712,17 @@
           "time_info": "[12时45分 ~ 12时46分]"
         },
         {
+          "title": "美国总统特朗普：我不了解加沙里维埃拉的情况，你得先照顾好民众。",
+          "url": "https://flash.jin10.com/detail/20251013151731327800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26pos%3D8%26cate%3D5001%26band_rank%3D7%26display_time%3D1760324014%26pre_seqid%3D17603240145980372290364",
           "source": "微博",
@@ -711,24 +734,24 @@
           "time_info": "10时53分"
         },
         {
+          "title": "美国总统特朗普：每个人都希望成为和平的一部分。",
+          "url": "https://flash.jin10.com/detail/20251013151629510800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "韩国外交部：预计美国总统特朗普将在本月27日至下月1日的2025年亚太经合组织（APEC）领导人会议周期间访韩出席部分会议，并同韩国总统李在明举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20251013145104832800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "特朗普连说三遍战争结束了",
-          "url": "https://www.douyin.com/hot/2268110",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -739,7 +762,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -750,7 +773,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -761,9 +784,150 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 13时43分]"
+        },
+        {
+          "title": "美股大暴跌,白宫趁机满仓做空",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            23,
+            25,
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 36,
+          "time_info": "[00时29分 ~ 15时39分]"
+        },
+        {
+          "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 15时17分]"
+        },
+        {
+          "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "美股期货高开逾1%，油价走高",
+          "url": "https://wallstreetcn.com/livenews/2986340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 07时38分]"
+        },
+        {
+          "title": "李大霄：美股指夜期已经开始反弹",
+          "url": "https://www.toutiao.com/trending/7560519486990716457/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 12时46分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 10时53分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.toutiao.com/trending/7560480850865835529/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时42分]"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克100指数期货涨幅达2%，道指期货涨1.05%，标普500指数期货涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20251013151409431800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳斯达克100指数期货涨幅达2%，道指期货涨超1%，标普500指数期货涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2986601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2986391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
@@ -803,8 +967,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时53分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时53分 ~ 15时39分]"
         },
         {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
@@ -890,114 +1054,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 13时43分]"
-        },
-        {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            25,
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时29分 ~ 15时17分]"
-        },
-        {
-          "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 15时17分]"
-        },
-        {
-          "title": "美股期货高开逾1%，油价走高",
-          "url": "https://wallstreetcn.com/livenews/2986340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时15分 ~ 07时38分]"
-        },
-        {
-          "title": "李大霄：美股指夜期已经开始反弹",
-          "url": "https://www.toutiao.com/trending/7560519486990716457/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 12时46分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时53分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.toutiao.com/trending/7560480850865835529/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 11时42分]"
-        },
-        {
-          "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2986391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "苹果",
       "match_count": 4,
       "titles": [
@@ -1034,11 +1090,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时39分]"
         },
         {
           "title": "美股夜盘，英伟达(NVDA.O)涨近3%，特斯拉(TSLA.O)涨2%，苹果(AAPL.O)涨1%，AMD(AMD.O)涨超3%，高通(QCOM.O)涨2.3%。",
@@ -1055,8 +1112,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2025年10月13日（周一）上海金午盘价为924.55元/克，较国际金价(933.38元/克)，低8.83元/克",
+          "url": "https://flash.jin10.com/detail/20251013150400772800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
         {
           "title": "金价亚洲早盘上涨 货币贬值担忧成推手",
           "url": "https://flash.jin10.com/detail/20251013075228577800",
