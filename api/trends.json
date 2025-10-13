@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-13T12:46:05.510680+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2025-10-13T13:18:03.441290+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 51,
       "titles": [
+        {
+          "title": "关于中国，特朗普和万斯嘴软了",
+          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
+        },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
           "url": "https://wallstreetcn.com/livenews/2986328",
@@ -41,15 +52,15 @@
           "time_info": "[00时29分 ~ 06时39分]"
         },
         {
-          "title": "关于中国，特朗普和万斯嘴软了",
-          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
-          "source": "凤凰网",
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 13时18分]"
         },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -153,11 +164,12 @@
             19,
             16,
             21,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 12时46分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 13时18分]"
         },
         {
           "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
@@ -196,15 +208,30 @@
           "time_info": "[09时15分 ~ 12时21分]"
         },
         {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
+          "title": "130万美军欠薪特朗普阅兵狂欢",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26pos%3D6%26cate%3D5001%26band_rank%3D6%26display_time%3D1760324014%26pre_seqid%3D17603240145980372290364",
+          "source": "微博",
           "ranks": [
-            5
+            6,
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 12时46分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普强调了三遍：战争结束了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
         },
         {
           "title": "特朗普释放信号：愿与中国达成协议",
@@ -229,39 +256,16 @@
           "time_info": "[07时37分 ~ 07时38分]"
         },
         {
-          "title": "130万美军欠薪特朗普阅兵狂欢",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26pos%3D6%26cate%3D5001%26band_rank%3D6%26display_time%3D1760324014%26pre_seqid%3D17603240145980372290364",
-          "source": "微博",
+          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
+          "url": "https://www.cls.cn/detail/2166955",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
-        },
-        {
-          "title": "据英国金融时报：加拿大认为正与美国逐步达成行业贸易协议，并押注于美国总统特朗普在明年中期选举前亟需政绩的需求。",
-          "url": "https://flash.jin10.com/detail/20251013120543573800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普强调了三遍：战争结束了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E4%BA%86%E4%B8%89%E9%81%8D%EF%BC%9A%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
@@ -289,16 +293,16 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
-          "title": "特朗普最新表态：若俄乌冲突无法解决 或向乌克兰提供“战斧”",
-          "url": "https://www.cls.cn/detail/2166955",
-          "source": "财联社热门",
+          "title": "据英国金融时报：加拿大认为正与美国逐步达成行业贸易协议，并押注于美国总统特朗普在明年中期选举前亟需政绩的需求。",
+          "url": "https://flash.jin10.com/detail/20251013120543573800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "特朗普：（最新的）诺贝尔奖是颁给2024年的。",
@@ -693,8 +697,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
         },
         {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
@@ -773,6 +777,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
+        },
+        {
           "title": "美股大暴跌,白宫趁机满仓做空",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
           "source": "贴吧",
@@ -785,20 +801,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 12时46分]"
-        },
-        {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
+          "appearance_count": 30,
+          "time_info": "[00时29分 ~ 13时18分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -876,11 +880,12 @@
             7,
             9,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 12时46分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 13时18分]"
         },
         {
           "title": "郭明錤：苹果折叠屏iPhone铰链成本低于预期，立讯精密有望成供应商",
@@ -972,8 +977,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时45分 ~ 12时46分]"
+          "appearance_count": 22,
+          "time_info": "[02时45分 ~ 13时18分]"
         }
       ]
     }
