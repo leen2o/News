@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T23:18:20.691847+08:00",
-  "total_titles_processed": 2207,
+  "generated_at": "2025-10-13T23:40:12.097929+08:00",
+  "total_titles_processed": 2238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时19分 ~ 23时18分]"
+          "appearance_count": 18,
+          "time_info": "[17时19分 ~ 23时40分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -104,8 +104,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[11时42分 ~ 23时18分]"
+          "appearance_count": 35,
+          "time_info": "[11时42分 ~ 23时40分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -167,8 +167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时45分 ~ 23时18分]"
+          "appearance_count": 14,
+          "time_info": "[18时45分 ~ 23时40分]"
         },
         {
           "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
@@ -364,6 +364,18 @@
           "time_info": "[16时50分 ~ 19时15分]"
         },
         {
+          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[21时28分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普释放信号：愿与中国达成协议",
           "url": "https://www.toutiao.com/trending/7560501650729733674/",
           "source": "今日头条",
@@ -401,6 +413,19 @@
           "time_info": "[17时19分 ~ 19时15分]"
         },
         {
+          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
+          "url": "https://www.zhihu.com/question/1961110110400116359",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时17分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普连说三遍战争结束了",
           "url": "https://www.douyin.com/hot/2268110",
           "source": "抖音",
@@ -436,18 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
-        },
-        {
-          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时28分 ~ 23时18分]"
         },
         {
           "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
@@ -539,28 +552,6 @@
           "time_info": "19时38分"
         },
         {
-          "title": "美国总统特朗普：希望埃及总统塞西加入加沙委员会。",
-          "url": "https://flash.jin10.com/detail/20251013230649629800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "特朗普称若伊朗肯谈判他乐意取消制裁",
-          "url": "https://wallstreetcn.com/livenews/2986894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
           "url": "https://flash.jin10.com/detail/20251013040501467800",
           "source": "金十数据",
@@ -583,17 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        },
-        {
-          "title": "埃及总统塞西：确信美国总统特朗普是唯一能够结束加沙战争的人。",
-          "url": "https://flash.jin10.com/detail/20251013230633425800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：这是伟大的一天，这是全新的开始。",
@@ -643,15 +623,26 @@
           "time_info": "22时44分"
         },
         {
-          "title": "美国中东特使威维特科夫：应特朗普总统指示，我们将在此（埃及）停留相当长一段时间。",
-          "url": "https://flash.jin10.com/detail/20251013230436111800",
+          "title": "埃及总统塞西希望美国总统特朗普出席加沙重建会议。",
+          "url": "https://flash.jin10.com/detail/20251013230947232800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "23时40分"
+        },
+        {
+          "title": "特朗普以色列议会演讲遭抗议者打断",
+          "url": "https://news.ifeng.com/c/8nQTTCdGw6p",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时17分 ~ 23时40分]"
         },
         {
           "title": "泽连斯基与特朗普两天内二度通话",
@@ -727,6 +718,18 @@
           "time_info": "[20时33分 ~ 21时29分]"
         },
         {
+          "title": "美国总统特朗普：希望埃及总统塞西加入加沙委员会。",
+          "url": "https://flash.jin10.com/detail/20251013230649629800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
           "title": "美两党围绕“停摆”继续缠斗甩锅 特朗普抽身访中东",
           "url": "https://wallstreetcn.com/livenews/2986740",
           "source": "华尔街见闻-快讯",
@@ -740,6 +743,18 @@
           "time_info": "[18时45分 ~ 19时38分]"
         },
         {
+          "title": "特朗普称若伊朗肯谈判他乐意取消制裁",
+          "url": "https://wallstreetcn.com/livenews/2986894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普：与以色列总理内塔尼亚胡的关系良好。内塔尼亚胡做得“非常出色”。",
           "url": "https://flash.jin10.com/detail/20251013051159612800",
           "source": "金十数据",
@@ -750,6 +765,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时15分]"
+        },
+        {
+          "title": "埃及总统塞西：确信美国总统特朗普是唯一能够结束加沙战争的人。",
+          "url": "https://flash.jin10.com/detail/20251013230633425800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
         },
         {
           "title": "特朗普称“加沙战争已结束”",
@@ -803,6 +830,18 @@
           "time_info": "[14时27分 ~ 14时54分]"
         },
         {
+          "title": "美国中东特使威维特科夫：应特朗普总统指示，我们将在此（埃及）停留相当长一段时间。",
+          "url": "https://flash.jin10.com/detail/20251013230436111800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
           "title": "威胁对华加税后特朗普和万斯嘴软了",
           "url": "https://www.toutiao.com/trending/7560543106609712678/",
           "source": "今日头条",
@@ -816,6 +855,19 @@
           "time_info": "[14时27分 ~ 15时17分]"
         },
         {
+          "title": "希拉里罕见赞扬特朗普",
+          "url": "https://www.toutiao.com/trending/7560298822572982314/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时44分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普：考虑向乌克兰提供“战斧”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%80%83%E8%99%91%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D",
           "source": "百度热搜",
@@ -826,18 +878,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
-          "url": "https://www.zhihu.com/question/1961110110400116359",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：供应“战斧”导弹可能对所有人都会带来严重后果，而其中最严重的，将是美国总统特朗普本人。",
@@ -876,17 +916,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普以色列议会演讲遭抗议者打断",
-          "url": "https://news.ifeng.com/c/8nQTTCdGw6p",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
@@ -1118,6 +1147,18 @@
           "time_info": "[05时38分 ~ 06时15分]"
         },
         {
+          "title": "美国总统特朗普：（谈加沙协议第二阶段）已经开始，加沙计划的各个阶段相互交织，加沙需要大量清理工作。",
+          "url": "https://flash.jin10.com/detail/20251013230059184800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及加沙）战争已结束。停火将得以维持。",
           "url": "https://flash.jin10.com/detail/20251013050425694800",
           "source": "金十数据",
@@ -1140,6 +1181,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 06时39分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗愿意谈判，我非常愿意解除对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20251013225921240800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
+          "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
+          "url": "https://www.cls.cn/detail/2168105",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "市场消息：美国国防部长赫格塞思、美国国务卿鲁比奥、中情局局长拉特克利夫和参谋长联席会议主席丹·凯恩将乘坐空军一号参加特朗普的中东之行。",
@@ -1175,6 +1239,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 16时50分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗需要帮助，伊朗会加入我们。",
+          "url": "https://flash.jin10.com/detail/20251013225909915800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
+          "title": "德国总理默茨：我将与美国总统特朗普讨论我们的共同努力，以帮助结束乌克兰的战争。今天证明，当国际社会团结一致时，和平是可以实现的。",
+          "url": "https://flash.jin10.com/detail/20251013225713529800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
         },
         {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
@@ -1225,6 +1313,18 @@
           "time_info": "[06时15分 ~ 06时39分]"
         },
         {
+          "title": "白宫高级官员：美国总统特朗普将于周五与乌克兰总统泽连斯基共进工作午餐。",
+          "url": "https://flash.jin10.com/detail/20251013225353522800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
+        },
+        {
           "title": "特朗普：若冲突无法解决或供乌战斧",
           "url": "https://www.toutiao.com/trending/7560177870652604458/",
           "source": "今日头条",
@@ -1236,16 +1336,16 @@
           "time_info": "[12时45分 ~ 12时46分]"
         },
         {
-          "title": "希拉里罕见赞扬特朗普",
-          "url": "https://www.toutiao.com/trending/7560298822572982314/",
-          "source": "今日头条",
+          "title": "特朗普抵达加沙和平峰会地点。",
+          "url": "https://flash.jin10.com/detail/20251013224715962800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            24
+            20,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时18分]"
+          "time_info": "[23时18分 ~ 23时40分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -1293,17 +1393,6 @@
           "time_info": "19时38分"
         },
         {
-          "title": "美国总统特朗普：（谈加沙协议第二阶段）已经开始，加沙计划的各个阶段相互交织，加沙需要大量清理工作。",
-          "url": "https://flash.jin10.com/detail/20251013230059184800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
           "title": "美国总统特朗普：我们已向以色列提供了大量武器。",
           "url": "https://flash.jin10.com/detail/20251013192635164800",
           "source": "金十数据",
@@ -1315,17 +1404,6 @@
           "time_info": "19时38分"
         },
         {
-          "title": "美国总统特朗普：如果伊朗愿意谈判，我非常愿意解除对伊朗的制裁。",
-          "url": "https://flash.jin10.com/detail/20251013225921240800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
           "title": "韩国外交部：预计美国总统特朗普将在本月27日至下月1日的2025年亚太经合组织（APEC）领导人会议周期间访韩出席部分会议，并同韩国总统李在明举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20251013145104832800",
           "source": "金十数据",
@@ -1335,17 +1413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需要帮助，伊朗会加入我们。",
-          "url": "https://flash.jin10.com/detail/20251013225909915800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-13）",
@@ -1370,17 +1437,6 @@
           "time_info": "19时38分"
         },
         {
-          "title": "德国总理默茨：我将与美国总统特朗普讨论我们的共同努力，以帮助结束乌克兰的战争。今天证明，当国际社会团结一致时，和平是可以实现的。",
-          "url": "https://flash.jin10.com/detail/20251013225713529800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
           "title": "埃及总统府：美国总统特朗普与埃及总统塞西通电话。",
           "url": "https://flash.jin10.com/detail/20251013171642816800",
           "source": "金十数据",
@@ -1401,17 +1457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
-        },
-        {
-          "title": "白宫高级官员：美国总统特朗普将于周五与乌克兰总统泽连斯基共进工作午餐。",
-          "url": "https://flash.jin10.com/detail/20251013225353522800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
         },
         {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃，尤其是特朗普",
@@ -1511,17 +1556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
-        },
-        {
-          "title": "特朗普抵达加沙和平峰会地点。",
-          "url": "https://flash.jin10.com/detail/20251013224715962800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
         },
         {
           "title": "美国总统特朗普：我们将建立新的友谊纽带，以色列、美国和中东各国将很快更加安全。",
@@ -1662,11 +1696,12 @@
             2,
             5,
             8,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时28分 ~ 23时18分]"
+          "appearance_count": 8,
+          "time_info": "[21时28分 ~ 23时40分]"
         },
         {
           "title": "2025 乒乓球亚锦赛团体赛，中国 vs 伊朗第一局中，林诗栋 2-3 不敌本雅明，如何评价本场比赛？",
@@ -1680,6 +1715,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[21时28分 ~ 22时44分]"
+        },
+        {
+          "title": "亚锦赛男团中国3比1伊朗晋级四强",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD3%E6%AF%941%E4%BC%8A%E6%9C%97%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时44分 ~ 23时40分]"
         },
         {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
@@ -1762,18 +1810,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时15分]"
-        },
-        {
-          "title": "亚锦赛男团中国3比1伊朗晋级四强",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD3%E6%AF%941%E4%BC%8A%E6%9C%97%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时18分]"
         },
         {
           "title": "亚锦赛男团中国vs伊朗",
@@ -1879,11 +1915,12 @@
           "url": "https://wallstreetcn.com/livenews/2986893",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时40分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）上海金午盘价为924.55元/克，较国际金价(933.38元/克)，低8.83元/克",
@@ -2061,6 +2098,95 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 VIVO OPPO 小米",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "vivo X300新品发布会",
+          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时14分 ~ 21时48分]"
+        },
+        {
+          "title": "vivo X300系列旗舰手机发布，售价4399元起。 截至2025年9月28日，vivo以超过17%的市场份额位列中国智能手机市场首位。",
+          "url": "https://wallstreetcn.com/livenews/2986900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "如何看待最新发布的 vivo X300 系列，影像大小王都有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1961025670319706312",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时17分 ~ 23时40分]"
+        },
+        {
+          "title": "UP主陪看vivo发布会",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%99%AA%E7%9C%8Bvivo%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 20时33分]"
+        },
+        {
+          "title": "vivo发布会来了这么多科技圈大佬",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9D%A5%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E4%BD%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D13%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26q%3D%2523vivo%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%25E6%259D%25A5%25E4%25BA%2586%25E8%25BF%2599%25E4%25B9%2588%25E5%25A4%259A%25E7%25A7%2591%25E6%258A%2580%25E5%259C%2588%25E5%25A4%25A7%25E4%25BD%25AC%2523%26dgr%3D0%26realpos%3D14%26band_rank%3D14%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26display_time%3D1760361908%26pre_seqid%3D17603619088270376834397",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时28分 ~ 22时44分]"
+        },
+        {
+          "title": "vivo发布会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dvivo%E5%8F%91%E5%B8%83%E4%BC%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3Dvivo%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%26dgr%3D0%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D9%26flag%3D1%26pos%3D10%26lcate%3D5001%26cate%3D5001%26display_time%3D1760354662%26pre_seqid%3D17603546623210372983865",
+          "source": "微博",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 20时33分]"
+        },
+        {
+          "title": "vivoX300系列发布会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23vivoX300%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26band_rank%3D10%26realpos%3D10%26pos%3D10%26flag%3D1%26c_type%3D31%26q%3D%2523vivoX300%25E7%25B3%25BB%25E5%2588%2597%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26cate%3D5001%26display_time%3D1760358271%26pre_seqid%3D17603582712630374287303",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 20时33分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果",
       "match_count": 7,
       "titles": [
@@ -2156,86 +2282,21 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 VIVO OPPO 小米",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "vivo X300新品发布会",
-          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时14分 ~ 21时48分]"
-        },
-        {
-          "title": "UP主陪看vivo发布会",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%99%AA%E7%9C%8Bvivo%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 20时33分]"
-        },
-        {
-          "title": "vivo发布会来了这么多科技圈大佬",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9D%A5%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E4%BD%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D13%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26q%3D%2523vivo%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%25E6%259D%25A5%25E4%25BA%2586%25E8%25BF%2599%25E4%25B9%2588%25E5%25A4%259A%25E7%25A7%2591%25E6%258A%2580%25E5%259C%2588%25E5%25A4%25A7%25E4%25BD%25AC%2523%26dgr%3D0%26realpos%3D14%26band_rank%3D14%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26display_time%3D1760361908%26pre_seqid%3D17603619088270376834397",
-          "source": "微博",
-          "ranks": [
-            14,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时28分 ~ 22时44分]"
-        },
-        {
-          "title": "vivo发布会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dvivo%E5%8F%91%E5%B8%83%E4%BC%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3Dvivo%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%26dgr%3D0%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D9%26flag%3D1%26pos%3D10%26lcate%3D5001%26cate%3D5001%26display_time%3D1760354662%26pre_seqid%3D17603546623210372983865",
-          "source": "微博",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 20时33分]"
-        },
-        {
-          "title": "如何看待最新发布的 vivo X300 系列，影像大小王都有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1961025670319706312",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 23时18分]"
-        },
-        {
-          "title": "vivoX300系列发布会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23vivoX300%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26band_rank%3D10%26realpos%3D10%26pos%3D10%26flag%3D1%26c_type%3D31%26q%3D%2523vivoX300%25E7%25B3%25BB%25E5%2588%2597%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26cate%3D5001%26display_time%3D1760358271%26pre_seqid%3D17603582712630374287303",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone",
       "match_count": 5,
       "titles": [
+        {
+          "title": "库克抖音官宣iPhone Air中国发售",
+          "url": "https://www.douyin.com/hot/2268904",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时44分 ~ 23时40分]"
+        },
         {
           "title": "国行iPhoneAir再现曙光：联通eSIM预约通道正式开放",
           "url": "https://wallstreetcn.com/livenews/2986557",
@@ -2271,18 +2332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时29分 ~ 21时48分]"
-        },
-        {
-          "title": "库克抖音官宣iPhone Air中国发售",
-          "url": "https://www.douyin.com/hot/2268904",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时18分]"
         },
         {
           "title": "库克抖音直播：iPhone Air将开启预订",
@@ -2328,6 +2377,34 @@
       ]
     },
     {
+      "keyword_group": "铂金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货铂金上涨5%，报1667.25美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251013231138185800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "现货铂金上涨3%，至1,634.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251013084133622800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -2361,23 +2438,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时32分 ~ 21时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "铂金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货铂金上涨3%，至1,634.75美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251013084133622800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
         }
       ]
     },
