@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T12:21:38.542322+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-10-14T12:42:51.931607+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -139,8 +139,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 12时42分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -153,8 +153,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 12时42分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -164,8 +164,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时11分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[09时11分 ~ 12时42分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -428,6 +428,18 @@
           "time_info": "[01时39分 ~ 02时47分]"
         },
         {
+          "title": "和平峰会特朗普挨个点名各国领导人",
+          "url": "https://www.toutiao.com/trending/7559963608768086059/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时42分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普分享了关于乌克兰所需“战斧”导弹数量的“愿景”，并将于周五讨论具体细节。",
           "url": "https://flash.jin10.com/detail/20251014000056293800",
           "source": "金十数据",
@@ -454,6 +466,19 @@
           "time_info": "[04时41分 ~ 06时15分]"
         },
         {
+          "title": "特朗普马克龙上演26秒掰手腕式握手",
+          "url": "https://www.toutiao.com/trending/7560319512873058355/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
           "url": "https://flash.jin10.com/detail/20251014000030649800",
           "source": "金十数据",
@@ -464,6 +489,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时47分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
         },
         {
           "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
@@ -506,30 +544,16 @@
           "time_info": "[05时36分 ~ 06时39分]"
         },
         {
-          "title": "特朗普马克龙上演26秒掰手腕式握手",
-          "url": "https://www.toutiao.com/trending/7560319512873058355/",
-          "source": "今日头条",
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            12,
-            9
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：我们可能会扩大和平委员会。",
@@ -602,6 +626,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普又把英国首相当众耍了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E6%8A%8A%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%BD%93%E4%BC%97%E8%80%8D%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26pos%3D15%26cate%3D5001%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%2588%25E6%258A%258A%25E8%258B%25B1%25E5%259B%25BD%25E9%25A6%2596%25E7%259B%25B8%25E5%25BD%2593%25E4%25BC%2597%25E8%2580%258D%25E4%25BA%2586%26realpos%3D14%26stream_entry_id%3D31%26display_time%3D1760415628%26pre_seqid%3D17604156285970373803079",
+          "source": "微博",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时42分]"
         },
         {
           "title": "内塔尼亚胡赠特朗普金色鸽子雕塑",
@@ -693,28 +729,6 @@
           "time_info": "00时47分"
         },
         {
-          "title": "特朗普又把英国首相当众耍了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E6%8A%8A%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%BD%93%E4%BC%97%E8%80%8D%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26pos%3D15%26cate%3D5001%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%2588%25E6%258A%258A%25E8%258B%25B1%25E5%259B%25BD%25E9%25A6%2596%25E7%259B%25B8%25E5%25BD%2593%25E4%25BC%2597%25E8%2580%258D%25E4%25BA%2586%26realpos%3D14%26stream_entry_id%3D31%26display_time%3D1760415628%26pre_seqid%3D17604156285970373803079",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "和平峰会特朗普挨个点名各国领导人",
-          "url": "https://www.toutiao.com/trending/7559963608768086059/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "埃及总统塞西：我们完全相信特朗普的领导能力能够完成这一计划。",
           "url": "https://flash.jin10.com/detail/20251014005441810800",
           "source": "金十数据",
@@ -746,17 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "埃及总统塞西希望美国总统特朗普出席加沙重建会议。",
@@ -915,8 +918,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 12时42分]"
         },
         {
           "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
@@ -949,6 +952,19 @@
           "time_info": "[00时20分 ~ 02时47分]"
         },
         {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
+        },
+        {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
           "url": "https://www.cls.cn/detail/2168170",
           "source": "财联社热门",
@@ -975,19 +991,6 @@
           "time_info": "[03时38分 ~ 05时14分]"
         },
         {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
-        },
-        {
           "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
           "url": "https://flash.jin10.com/detail/20251014055122671800",
           "source": "金十数据",
@@ -999,6 +1002,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 07时38分]"
+        },
+        {
+          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
+          "url": "https://www.cls.cn/detail/2168234",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时42分]"
         },
         {
           "title": "Arm(ARM.O)盘后直线拉升涨超8%，据悉OpenAI正为博通AI芯片研发而与Arm合作。",
@@ -1023,18 +1039,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时38分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
-          "url": "https://www.cls.cn/detail/2168234",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时21分]"
         },
         {
           "title": "Arm控股美股盘后上涨超8.7%。据The Information报道，OpenAI正为了博通人工智能（AI）芯片研发而与日本软银集团旗下Arm控股合作。",
@@ -1248,11 +1252,12 @@
           "ranks": [
             25,
             16,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
         },
         {
           "title": "林诗栋不敌伊朗15岁小将",
@@ -1264,8 +1269,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时11分 ~ 12时42分]"
         },
         {
           "title": "乒乓球亚锦赛中国男队3:1伊朗",
@@ -1276,8 +1281,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时42分]"
         },
         {
           "title": "林诗栋不敌15岁伊朗小将",
@@ -1308,8 +1313,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 12时42分]"
         },
         {
           "title": "苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定，你会入手吗？",
@@ -1319,8 +1324,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
         },
         {
           "title": "国行iPhone Air于10月17日开启预购",
@@ -1393,11 +1398,24 @@
           "source": "微博",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 12时42分]"
+        },
+        {
+          "title": "韩国几十年后或将种不了苹果",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%96%E5%B0%86%E7%A7%8D%E4%B8%8D%E4%BA%86%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时42分]"
         },
         {
           "title": "苹果CEO库克在抖音完成直播带货首秀",
@@ -1410,17 +1428,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时38分]"
-        },
-        {
-          "title": "韩国几十年后或将种不了苹果",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%96%E5%B0%86%E7%A7%8D%E4%B8%8D%E4%BA%86%E8%8B%B9%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "苹果宣布向清华大学提供新一笔捐赠",
@@ -1448,7 +1455,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "目前的金价，你还敢追吗？",
@@ -1499,6 +1506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "金价离10000美元不远了吗",
+          "url": "https://www.toutiao.com/trending/7560904267347791369/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
