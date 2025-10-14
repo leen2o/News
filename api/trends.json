@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T09:11:51.998211+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-10-14T10:45:17.653117+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 68,
       "titles": [
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -18,21 +18,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[03时38分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
-          "url": "https://www.zhihu.com/question/1961110110400116359",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 09时11分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -49,6 +34,22 @@
           "time_info": "[00时20分 ~ 07时38分]"
         },
         {
+          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
+          "url": "https://www.zhihu.com/question/1961110110400116359",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2,
+            1,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 10时45分]"
+        },
+        {
           "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
           "url": "https://www.cls.cn/detail/2168105",
           "source": "财联社热门",
@@ -60,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 09时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 10时45分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
@@ -136,8 +137,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 09时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 10时45分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -145,11 +146,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 09时11分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 10时45分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -192,6 +194,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 04时41分]"
+        },
+        {
+          "title": "以色列送了特朗普一个特别的礼物",
+          "url": "https://news.ifeng.com/c/8nR9cG7cgW3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 10时45分]"
         },
         {
           "title": "美国总统特朗普：加沙将有许多资金和建筑物。",
@@ -294,15 +307,15 @@
           "time_info": "00时47分"
         },
         {
-          "title": "以色列送了特朗普一个特别的礼物",
-          "url": "https://news.ifeng.com/c/8nR9cG7cgW3",
-          "source": "凤凰网",
+          "title": "特朗普政府拟拨款5亿美元加强无人机威胁防御",
+          "url": "https://flash.jin10.com/detail/20251014101136943800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "10时45分"
         },
         {
           "title": "美国总统特朗普：活着的人质已按时获释。",
@@ -536,6 +549,30 @@
           "time_info": "[01时39分 ~ 02时23分]"
         },
         {
+          "title": "特朗普的100%关税威胁是政治表演吗",
+          "url": "https://www.toutiao.com/trending/7560845798087331364/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 10时45分]"
+        },
+        {
+          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 10时45分]"
+        },
+        {
           "title": "内塔尼亚胡赠特朗普金色鸽子雕塑",
           "url": "https://www.toutiao.com/trending/7560680303766290471/",
           "source": "今日头条",
@@ -559,6 +596,28 @@
           "time_info": "00时47分"
         },
         {
+          "title": "特朗普马克龙上演26秒掰手腕式握手",
+          "url": "https://www.toutiao.com/trending/7560319512873058355/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "市场消息：美国总统特朗普与乌克兰总统泽连斯基将于周五就防空和武器问题进行会谈，还将讨论与俄罗斯可能展开的谈判。",
           "url": "https://flash.jin10.com/detail/20251013235259219800",
           "source": "金十数据",
@@ -576,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -587,7 +646,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -612,28 +671,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普的100%关税威胁是政治表演吗",
-          "url": "https://www.toutiao.com/trending/7560845798087331364/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         },
         {
           "title": "埃及总统塞西：我们完全相信特朗普的领导能力能够完成这一计划。",
@@ -667,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "埃及总统塞西希望美国总统特朗普出席加沙重建会议。",
@@ -719,9 +767,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "美国总统特朗普：我认为巴基斯坦和印度将会和平共处。",
@@ -793,7 +852,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -878,11 +937,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 09时11分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 10时45分]"
+        },
+        {
+          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
+          "url": "https://www.cls.cn/detail/2168170",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 10时45分]"
         },
         {
           "title": "Arm(ARM.O)盘后直线拉升涨超8%，据悉OpenAI正为博通AI芯片研发而与Arm合作。",
@@ -921,15 +992,15 @@
           "time_info": "[07时14分 ~ 07时38分]"
         },
         {
-          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
-          "url": "https://www.cls.cn/detail/2168170",
-          "source": "财联社热门",
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时11分"
+          "time_info": "10时45分"
         },
         {
           "title": "中信证券：OpenAI“采购合同+股权”的合作模式，有利于整个AI生态的闭环",
@@ -938,7 +1009,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -1078,7 +1149,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "亚锦赛男团中国3比1伊朗晋级四强",
@@ -1119,9 +1190,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 10时45分]"
         },
         {
           "title": "林诗栋不敌伊朗15岁小将",
@@ -1130,9 +1201,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "乒乓亚锦赛伊朗教练现场手改球衣",
+          "url": "https://www.toutiao.com/trending/7560608993027342375/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "林诗栋不敌15岁伊朗小将",
@@ -1149,7 +1231,7 @@
     },
     {
       "keyword_group": "iphone",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "库克抖音官宣iPhone Air中国发售",
@@ -1158,11 +1240,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 09时11分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 10时45分]"
         },
         {
           "title": "国行iPhone Air于10月17日开启预购",
@@ -1175,6 +1258,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时14分]"
+        },
+        {
+          "title": "苹果 CEO 库克宣布 iPhone Air 国行版 10 月 17 日开启预定，你会入手吗？",
+          "url": "https://www.zhihu.com/question/1961173701857907085",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "苹果官网确认iPhoneAir非合约机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E7%A1%AE%E8%AE%A4iPhoneAir%E9%9D%9E%E5%90%88%E7%BA%A6%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26cate%3D5001%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%25AE%2598%25E7%25BD%2591%25E7%25A1%25AE%25E8%25AE%25A4iPhoneAir%25E9%259D%259E%25E5%2590%2588%25E7%25BA%25A6%25E6%259C%25BA%2523%26realpos%3D24%26stream_entry_id%3D31%26pos%3D24%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1760409868%26pre_seqid%3D176040986811603741349133",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "库克宣布iPhoneAir上市时间",
@@ -1191,7 +1296,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果或迎特努斯时代",
@@ -1206,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 03时38分]"
+        },
+        {
+          "title": "韩国几十年后或将种不了苹果",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%96%E5%B0%86%E7%A7%8D%E4%B8%8D%E4%BA%86%E8%8B%B9%E6%9E%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D4%26cate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%2587%25A0%25E5%258D%2581%25E5%25B9%25B4%25E5%2590%258E%25E6%2588%2596%25E5%25B0%2586%25E7%25A7%258D%25E4%25B8%258D%25E4%25BA%2586%25E8%258B%25B9%25E6%259E%259C%2523%26realpos%3D4%26stream_entry_id%3D31%26pos%3D4%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1760409868%26pre_seqid%3D176040986811603741349133",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "苹果CEO库克在抖音完成直播带货首秀",
@@ -1226,15 +1342,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "港股泡泡玛特一度涨逾6%，为8月20日以来盘中最大升幅。10月13日下午，苹果CEO库克现身上海THE MONSTERS十周年巡展，并与泡泡玛特创始人王宁等进行了互动。",
+          "url": "https://wallstreetcn.com/livenews/2987126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "目前的金价，你还敢追吗？",
@@ -1249,6 +1376,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
+          "url": "https://flash.jin10.com/detail/20251014102105537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
@@ -1271,7 +1409,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
