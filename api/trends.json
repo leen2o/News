@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T22:45:33.087070+08:00",
-  "total_titles_processed": 2382,
+  "generated_at": "2025-10-14T23:19:10.880811+08:00",
+  "total_titles_processed": 2440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时43分 ~ 22时45分]"
+          "appearance_count": 14,
+          "time_info": "[17时43分 ~ 23时19分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -114,11 +114,12 @@
             14,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时45分 ~ 22时45分]"
+          "appearance_count": 29,
+          "time_info": "[10时45分 ~ 23时19分]"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -128,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时17分 ~ 22时45分]"
+          "appearance_count": 12,
+          "time_info": "[18时17分 ~ 23时19分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
@@ -222,11 +223,12 @@
             27,
             25,
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[10时45分 ~ 22时17分]"
+          "appearance_count": 30,
+          "time_info": "[10时45分 ~ 23时19分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -263,8 +265,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 49,
-          "time_info": "[00时20分 ~ 22时45分]"
+          "appearance_count": 51,
+          "time_info": "[00时20分 ~ 23时19分]"
         },
         {
           "title": "特朗普指着阿联酋副总统：钱多得没边",
@@ -273,11 +275,12 @@
           "ranks": [
             23,
             13,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时17分 ~ 22时45分]"
+          "appearance_count": 11,
+          "time_info": "[18时17分 ~ 23时18分]"
         },
         {
           "title": "特朗普马克龙26秒“掰手腕式握手”",
@@ -301,11 +304,25 @@
             22,
             20,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时17分 ~ 22时45分]"
+          "appearance_count": 12,
+          "time_info": "[18时17分 ~ 23时19分]"
+        },
+        {
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时34分 ~ 23时19分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -428,17 +445,15 @@
           "time_info": "01时17分"
         },
         {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
+          "title": "据英国金融时报：必和必拓(BHP.N)首席执行官表示，特朗普任内采取的举措促使公司加大了在美国的勘探力度，并推动了对亚利桑那州相关选项的重新评估。",
+          "url": "https://flash.jin10.com/detail/20251014231559742800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            18,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
@@ -480,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
-          "url": "https://wallstreetcn.com/livenews/2987599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "美国总统特朗普：加沙战争已经结束。",
@@ -660,6 +664,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时39分 ~ 02时47分]"
+        },
+        {
+          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
+          "url": "https://wallstreetcn.com/livenews/2987599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时19分]"
         },
         {
           "title": "美国总统特朗普：许多国家表示愿意帮助加沙重建，我们都同意加沙的重建必须是非军事化的。",
@@ -1029,6 +1045,17 @@
           "time_info": "18时17分"
         },
         {
+          "title": "美国众议院议长约翰逊：美国总统特朗普政府有权调动资金支付士兵费用。",
+          "url": "https://flash.jin10.com/detail/20251014224038063800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "埃及总统塞西：我们完全相信特朗普的领导能力能够完成这一计划。",
           "url": "https://flash.jin10.com/detail/20251014005441810800",
           "source": "金十数据",
@@ -1145,7 +1172,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1233,8 +1260,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时45分 ~ 22时45分]"
+          "appearance_count": 31,
+          "time_info": "[10时45分 ~ 23时19分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -1444,6 +1471,20 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时14分 ~ 23时19分]"
+        },
+        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -1472,21 +1513,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时49分 ~ 22时45分]"
-        },
-        {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时14分 ~ 22时45分]"
+          "appearance_count": 22,
+          "time_info": "[14时49分 ~ 23时19分]"
         },
         {
           "title": "业内：黄金价格仍然有上涨冲动",
@@ -1527,6 +1555,18 @@
           "time_info": "10时45分"
         },
         {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26c_type%3D31%26band_rank%3D22%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26pos%3D23%26display_time%3D1760453008%26pre_seqid%3D1760453008961016065781",
+          "source": "微博",
+          "ranks": [
+            22,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时19分]"
+        },
+        {
           "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
           "url": "https://wallstreetcn.com/livenews/2986893",
           "source": "华尔街见闻-快讯",
@@ -1539,6 +1579,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 01时39分]"
+        },
+        {
+          "title": "金价飙升带火洗沙盘",
+          "url": "https://www.toutiao.com/trending/7561063810480475711/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时19分]"
         },
         {
           "title": "金价离10000美元不远了吗",
@@ -1584,34 +1636,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26c_type%3D31%26band_rank%3D22%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26lcate%3D5001%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26pos%3D23%26display_time%3D1760453008%26pre_seqid%3D1760453008961016065781",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "金价飙升带火洗沙盘",
-          "url": "https://www.toutiao.com/trending/7561063810480475711/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌公司将与印度Andhra Pradesh签署1 GW数据中心协议。",
@@ -1665,11 +1695,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "市场消息：谷歌(GOOG.O)宣布至2027年将在南卡罗来纳州投资90亿美元。",
@@ -1695,6 +1726,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时47分]"
+        },
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "谷歌(GOOG.O)：加密擦除技术助力我们迈向更可持续、循环经济。",
@@ -1848,11 +1890,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "IEA月报：下调俄罗斯和伊朗第四季度原油供应预测。",
@@ -1905,6 +1948,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "大量iPhone17新机无法激活 苹果回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时38分 ~ 23时19分]"
+        },
+        {
           "title": "韩国几十年后或将种不了苹果",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%96%E5%B0%86%E7%A7%8D%E4%B8%8D%E4%BA%86%E8%8B%B9%E6%9E%9C",
           "source": "百度热搜",
@@ -1920,18 +1976,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[12时21分 ~ 16时46分]"
-        },
-        {
-          "title": "大量iPhone17新机无法激活 苹果回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时38分 ~ 22时45分]"
         },
         {
           "title": "韩国几十年后或将种不了苹果",
@@ -1963,6 +2007,18 @@
           "time_info": "[01时17分 ~ 03时38分]"
         },
         {
+          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2987595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时19分]"
+        },
+        {
           "title": "苹果CEO库克在抖音完成直播带货首秀",
           "url": "https://wallstreetcn.com/livenews/2986985",
           "source": "华尔街见闻-快讯",
@@ -1973,17 +2029,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时38分]"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2987595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "iPhone 17系列无法激活？苹果回应",
@@ -2062,8 +2107,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 22时45分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 23时19分]"
         },
         {
           "title": "国行iPhone Air于10月17日开启预购",
@@ -2251,11 +2296,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时45分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时19分]"
         },
         {
           "title": "机构：10年期美债在在当前水平下估值合理",
