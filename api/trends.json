@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T17:18:55.486852+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2025-10-14T17:44:14.371617+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[03时38分 ~ 07时38分]"
+        },
+        {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 17时44分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时11分 ~ 13时40分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 17时18分]"
         },
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -99,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时45分 ~ 17时18分]"
+          "appearance_count": 17,
+          "time_info": "[10时45分 ~ 17时44分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
@@ -195,8 +196,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时45分 ~ 17时18分]"
+          "appearance_count": 19,
+          "time_info": "[10时45分 ~ 17时44分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -212,8 +213,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时20分 ~ 17时18分]"
+          "appearance_count": 39,
+          "time_info": "[00时20分 ~ 17时44分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -228,11 +229,12 @@
             20,
             21,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时20分 ~ 17时18分]"
+          "appearance_count": 39,
+          "time_info": "[00时20分 ~ 17时44分]"
         },
         {
           "title": "特朗普马克龙26秒“掰手腕式握手”",
@@ -244,8 +246,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 17时44分]"
         },
         {
           "title": "特朗普在以色列议会演讲被打断",
@@ -316,6 +318,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
+          "url": "https://news.ifeng.com/c/8nRppITbDH3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普：加沙将有许多资金和建筑物。",
@@ -759,6 +772,18 @@
           "time_info": "[09时11分 ~ 10时45分]"
         },
         {
+          "title": "特朗普抱怨时代周刊封面图史上最差",
+          "url": "https://wallstreetcn.com/livenews/2987394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时44分]"
+        },
+        {
           "title": "内塔尼亚胡赠特朗普金色鸽子雕塑",
           "url": "https://www.toutiao.com/trending/7560680303766290471/",
           "source": "今日头条",
@@ -769,6 +794,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 09时11分]"
+        },
+        {
+          "title": "特朗普扬言对华加关税后为何立即改口",
+          "url": "https://www.toutiao.com/trending/7560995682748747302/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
+        },
+        {
+          "title": "特朗普将卡尼误称为总统",
+          "url": "https://www.douyin.com/hot/2269224",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 17时44分]"
         },
         {
           "title": "美国总统特朗普：（谈加沙协议）文件将明确规则和条例，文件是非常全面的。",
@@ -846,17 +893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普抱怨时代周刊封面图史上最差",
-          "url": "https://wallstreetcn.com/livenews/2987394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
         },
         {
           "title": "埃及总统塞西：我们完全相信特朗普的领导能力能够完成这一计划。",
@@ -1041,8 +1077,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时45分 ~ 17时18分]"
+          "appearance_count": 19,
+          "time_info": "[10时45分 ~ 17时44分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -1055,8 +1091,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时14分 ~ 17时18分]"
+          "appearance_count": 19,
+          "time_info": "[07时14分 ~ 17时44分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -1346,20 +1382,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "目前的金价，你还敢追吗？",
-          "url": "https://www.zhihu.com/question/1960053472419378672",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时23分 ~ 07时14分]"
-        },
-        {
           "title": "金价银价跳水",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D28%26pos%3D28%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26band_rank%3D28%26display_time%3D1760424410%26pre_seqid%3D17604244102530377602169",
           "source": "微博",
@@ -1372,8 +1394,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时49分 ~ 17时18分]"
+          "appearance_count": 10,
+          "time_info": "[14时49分 ~ 17时44分]"
+        },
+        {
+          "title": "目前的金价，你还敢追吗？",
+          "url": "https://www.zhihu.com/question/1960053472419378672",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -1857,8 +1893,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 17时44分]"
         }
       ]
     },
@@ -1876,6 +1912,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机构：10年期美债在在当前水平下估值合理",
+          "url": "https://flash.jin10.com/detail/20251014172023709800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     }
