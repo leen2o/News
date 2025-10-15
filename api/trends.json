@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:25:22.621779+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-10-15T14:51:09.237310+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时22分 ~ 14时25分]"
+          "appearance_count": 31,
+          "time_info": "[00时22分 ~ 14时51分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 14时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 14时51分]"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -56,6 +56,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 03时37分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 14时51分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -136,19 +149,6 @@
           "time_info": "[00时22分 ~ 12时44分]"
         },
         {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 14时25分]"
-        },
-        {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
           "url": "https://flash.jin10.com/detail/20251015021625057800",
           "source": "金十数据",
@@ -180,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         },
         {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
@@ -506,6 +517,18 @@
           "time_info": "[01时15分 ~ 02时48分]"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 14时51分]"
+        },
+        {
           "title": "富国银行收涨7.1%，创特朗普赢得2024年大选以来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2987697",
           "source": "华尔街见闻-快讯",
@@ -805,17 +828,6 @@
           "time_info": "07时38分"
         },
         {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -1009,8 +1021,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 14时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 14时51分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -1022,8 +1034,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 14时51分]"
         },
         {
           "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
@@ -1318,7 +1330,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
@@ -1329,8 +1341,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 14时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 14时51分]"
         },
         {
           "title": "工信部部长会见苹果公司CEO库克",
@@ -1341,8 +1353,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 14时51分]"
+        },
+        {
+          "title": "工信部部长会见苹果CEO库克",
+          "url": "https://www.douyin.com/hot/2270610",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 14时51分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -1355,17 +1378,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 01时38分]"
-        },
-        {
-          "title": "工信部部长会见苹果CEO库克",
-          "url": "https://www.douyin.com/hot/2270610",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时25分]"
         },
         {
           "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
@@ -1392,6 +1404,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时44分 ~ 13时42分]"
+        },
+        {
+          "title": "国际数据公司（IDC）：苹果第三季度出货量达1080万部，同比增长0.6%。",
+          "url": "https://flash.jin10.com/detail/20251015143342284800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
@@ -1487,6 +1510,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 14时51分]"
+        },
+        {
+          "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+          "url": "https://wallstreetcn.com/articles/3757146",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
         }
       ]
     },
@@ -1607,27 +1662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 14时25分]"
         }
       ]
     }
