@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T21:51:24.551403+08:00",
-  "total_titles_processed": 2328,
+  "generated_at": "2025-10-15T22:18:08.070913+08:00",
+  "total_titles_processed": 2396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[17时23分 ~ 22时18分]"
+        },
+        {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[17时23分 ~ 21时51分]"
+          "time_info": "[18时18分 ~ 22时18分]"
         },
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[09时11分 ~ 17时49分]"
-        },
-        {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时18分 ~ 21时51分]"
         },
         {
           "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
@@ -95,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时23分 ~ 21时51分]"
+          "appearance_count": 16,
+          "time_info": "[16时23分 ~ 22时18分]"
         },
         {
           "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
@@ -120,8 +120,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时49分 ~ 21时51分]"
+          "appearance_count": 12,
+          "time_info": "[17时49分 ~ 22时18分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -274,6 +274,20 @@
           "time_info": "[00时22分 ~ 12时44分]"
         },
         {
+          "title": "中方回应特朗普拟禁中美航班过境俄",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
           "title": "外交部回应特朗普拟禁中美航班过境俄",
           "url": "https://www.toutiao.com/trending/7560715346903236644/",
           "source": "今日头条",
@@ -311,20 +325,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时44分 ~ 18时18分]"
-        },
-        {
-          "title": "中方回应特朗普拟禁中美航班过境俄",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 21时51分]"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -1115,7 +1115,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
         },
@@ -1309,6 +1309,239 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "工信部部长会见苹果公司CEO库克",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时16分 ~ 18时18分]"
+        },
+        {
+          "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31779117",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[09时11分 ~ 22时18分]"
+        },
+        {
+          "title": "工信部部长会见苹果CEO库克",
+          "url": "https://www.douyin.com/hot/2270610",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时44分 ~ 18时45分]"
+        },
+        {
+          "title": "大量iPhone17新机无法激活 苹果回应",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 01时38分]"
+        },
+        {
+          "title": "买手机你选苹果还是华为小米",
+          "url": "https://www.toutiao.com/trending/7561054463373508644/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时18分]"
+        },
+        {
+          "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/2987918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时42分]"
+        },
+        {
+          "title": "苹果首席运营官到访蓝思精密",
+          "url": "https://wallstreetcn.com/livenews/2988120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 18时45分]"
+        },
+        {
+          "title": "苹果华为OPPO将推出eSIM手机",
+          "url": "https://wallstreetcn.com/livenews/2987917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时42分]"
+        },
+        {
+          "title": "理想汽车CEO李想：到2030年可能会出现超越苹果iPhone规模的智能汽车企业",
+          "url": "https://wallstreetcn.com/livenews/2988158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时16分]"
+        },
+        {
+          "title": "苹果推出搭载M5芯片的新款iPad Pro，推出搭载M5芯片的全新14英寸MacBook Pro。",
+          "url": "https://wallstreetcn.com/livenews/2988265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时51分]"
+        },
+        {
+          "title": "苹果游说印度修改税法，避免因持有iPhone生产设备被征税",
+          "url": "https://wallstreetcn.com/livenews/2988139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时18分]"
+        },
+        {
+          "title": "国际数据公司（IDC）：苹果第三季度出货量达1080万部，同比增长0.6%。",
+          "url": "https://flash.jin10.com/detail/20251015143342284800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "苹果公司首席运营官Sabih Khan到访瑞声科技",
+          "url": "https://wallstreetcn.com/livenews/2988299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "苹果(AAPL.O)搭载M5芯片的14英寸MacBook Pro起售价1599美元，11英寸iPad Pro WI-FI版起售价999美元。",
+          "url": "https://flash.jin10.com/detail/20251015210317163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "苹果(AAPL.O)推出搭载M5芯片的全新14英寸MacBook Pro。",
+          "url": "https://flash.jin10.com/detail/20251015210205715800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "苹果(AAPL.O)新款iPad Pro从今天开始接受预订，并将于10月22日星期三开始发售。",
+          "url": "https://flash.jin10.com/detail/20251015210149979800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "苹果(AAPL.O)推出搭载M5芯片的全新强大iPad Pro。",
+          "url": "https://flash.jin10.com/detail/20251015210111488800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
+          "url": "https://wallstreetcn.com/livenews/2987763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2987595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 19,
       "titles": [
@@ -1340,6 +1573,20 @@
           "time_info": "[00时22分 ~ 07时38分]"
         },
         {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
@@ -1355,19 +1602,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时46分]"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 21时51分]"
         },
         {
           "title": "花旗旗下研究机构Citi Research将其铂金和钯金三个月目标价分别上调至1550美元和1350美元，理由是金价反弹以及美国对关键矿产调查截止日期前有大量资金流入。",
@@ -1418,6 +1652,19 @@
           "time_info": "[12时21分 ~ 13时42分]"
         },
         {
+          "title": "金价新高！多家银行提示风险",
+          "url": "https://wallstreetcn.com/livenews/2988269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时18分]"
+        },
+        {
           "title": "金价又创新高 何时会下跌",
           "url": "https://www.toutiao.com/trending/7561245865755561535/",
           "source": "今日头条",
@@ -1441,18 +1688,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时15分]"
-        },
-        {
-          "title": "金价新高！多家银行提示风险",
-          "url": "https://wallstreetcn.com/livenews/2988269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时51分]"
         },
         {
           "title": "英国央行行长贝利：更高的不确定性与市场碎片化风险推动金价上涨。",
@@ -1541,227 +1776,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "工信部部长会见苹果公司CEO库克",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%83%A8%E9%95%BF%E4%BC%9A%E8%A7%81%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%93%E5%85%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时16分 ~ 18时18分]"
-        },
-        {
-          "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31779117",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时11分 ~ 21时51分]"
-        },
-        {
-          "title": "工信部部长会见苹果CEO库克",
-          "url": "https://www.douyin.com/hot/2270610",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时44分 ~ 18时45分]"
-        },
-        {
-          "title": "大量iPhone17新机无法激活 苹果回应",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%87%8FiPhone17%E6%96%B0%E6%9C%BA%E6%97%A0%E6%B3%95%E6%BF%80%E6%B4%BB+%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时38分]"
-        },
-        {
-          "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
-          "url": "https://wallstreetcn.com/livenews/2987918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
-        },
-        {
-          "title": "苹果首席运营官到访蓝思精密",
-          "url": "https://wallstreetcn.com/livenews/2988120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 18时45分]"
-        },
-        {
-          "title": "苹果华为OPPO将推出eSIM手机",
-          "url": "https://wallstreetcn.com/livenews/2987917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
-        },
-        {
-          "title": "理想汽车CEO李想：到2030年可能会出现超越苹果iPhone规模的智能汽车企业",
-          "url": "https://wallstreetcn.com/livenews/2988158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时16分]"
-        },
-        {
-          "title": "苹果推出搭载M5芯片的新款iPad Pro，推出搭载M5芯片的全新14英寸MacBook Pro。",
-          "url": "https://wallstreetcn.com/livenews/2988265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时51分]"
-        },
-        {
-          "title": "苹果游说印度修改税法，避免因持有iPhone生产设备被征税",
-          "url": "https://wallstreetcn.com/livenews/2988139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 18时18分]"
-        },
-        {
-          "title": "买手机你选苹果还是华为小米",
-          "url": "https://www.toutiao.com/trending/7561054463373508644/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时51分"
-        },
-        {
-          "title": "国际数据公司（IDC）：苹果第三季度出货量达1080万部，同比增长0.6%。",
-          "url": "https://flash.jin10.com/detail/20251015143342284800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "苹果(AAPL.O)搭载M5芯片的14英寸MacBook Pro起售价1599美元，11英寸iPad Pro WI-FI版起售价999美元。",
-          "url": "https://flash.jin10.com/detail/20251015210317163800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "苹果(AAPL.O)推出搭载M5芯片的全新14英寸MacBook Pro。",
-          "url": "https://flash.jin10.com/detail/20251015210205715800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "苹果(AAPL.O)新款iPad Pro从今天开始接受预订，并将于10月22日星期三开始发售。",
-          "url": "https://flash.jin10.com/detail/20251015210149979800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "苹果(AAPL.O)推出搭载M5芯片的全新强大iPad Pro。",
-          "url": "https://flash.jin10.com/detail/20251015210111488800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
-          "url": "https://wallstreetcn.com/livenews/2987763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2987595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
         }
       ]
     },
