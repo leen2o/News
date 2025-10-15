@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T04:19:28.112007+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2025-10-16T04:43:51.601798+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 52,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -24,11 +24,24 @@
           "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
           "source": "凤凰网",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
+          "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
+          "source": "凤凰网",
+          "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时52分 ~ 04时43分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -41,11 +54,12 @@
             20,
             22,
             6,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 04时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 04时43分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -77,22 +91,12 @@
           "ranks": [
             26,
             24,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时25分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
-          "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时52分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[02时25分 ~ 04时43分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -117,6 +121,28 @@
           "time_info": "[03时16分 ~ 03时37分]"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
+          "url": "https://flash.jin10.com/detail/20251016043753123800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2988376",
           "source": "华尔街见闻-快讯",
@@ -134,9 +160,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普谈及股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/2988413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -154,6 +191,28 @@
           "time_info": "[00时46分 ~ 02时53分]"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://flash.jin10.com/detail/20251016043129250800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
+          "url": "https://wallstreetcn.com/livenews/2988411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "市场消息：美国法官阻止特朗普政府在政府停摆期间解雇30多个机构的员工。",
           "url": "https://flash.jin10.com/detail/20251016023631067800",
           "source": "金十数据",
@@ -166,15 +225,40 @@
           "time_info": "[02时53分 ~ 03时37分]"
         },
         {
-          "title": "美国总统特朗普谈贩毒集团：我们确实在关注在陆地上采取行动。",
-          "url": "https://flash.jin10.com/detail/20251016040445266800",
+          "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
+          "url": "https://flash.jin10.com/detail/20251016043033249800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：哈马斯曾得到伊朗支持，现在伊朗只求生存。",
+          "url": "https://flash.jin10.com/detail/20251016042649911800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "04时43分"
+        },
+        {
+          "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
+          "url": "https://wallstreetcn.com/livenews/2988378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
         },
         {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
@@ -191,30 +275,30 @@
           "time_info": "[02时53分 ~ 04时19分]"
         },
         {
-          "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
-          "url": "https://wallstreetcn.com/livenews/2988378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时19分]"
-        },
-        {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员",
           "url": "https://wallstreetcn.com/livenews/2988376",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             10,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "美国总统特朗普谈贩毒集团：我们确实在关注在陆地上采取行动。",
+          "url": "https://flash.jin10.com/detail/20251016040445266800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时43分]"
         },
         {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
@@ -310,15 +394,158 @@
           "time_info": "[00时20分 ~ 00时46分]"
         },
         {
+          "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
+          "url": "https://flash.jin10.com/detail/20251016042358046800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：莫迪保证印度不会购买俄罗斯石油",
+          "url": "https://wallstreetcn.com/livenews/2988405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：我们希望哈马斯解除武装。",
+          "url": "https://flash.jin10.com/detail/20251016042320401800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：哈马斯正在挖掘，他们发现了很多尸体。",
+          "url": "https://flash.jin10.com/detail/20251016042311229800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：我们不喜欢的民主党计划将被永久终止。",
+          "url": "https://flash.jin10.com/detail/20251016042241719800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：印度停止从俄罗斯购买石油需要时间。",
+          "url": "https://flash.jin10.com/detail/20251016042204121800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：在短期内，印度将不会购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251016042137885800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京可能（就乌克兰问题）达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20251016042136953800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普：莫迪是个伟大的人，他爱特朗普。",
+          "url": "https://flash.jin10.com/detail/20251016042133606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装",
+          "url": "https://wallstreetcn.com/livenews/2988407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普：乌克兰希望在与俄罗斯的冲突中采取攻势。",
+          "url": "https://flash.jin10.com/detail/20251016041408778800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "市场消息：特朗普确认他授权中情局在委内瑞拉开展行动。",
+          "url": "https://flash.jin10.com/detail/20251016041402754800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
           "title": "美国总统特朗普：现在将建议政府官员开始调查旧金山的犯罪问题。",
           "url": "https://flash.jin10.com/detail/20251016035216971800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普：委内瑞拉正感受到压力。",
+          "url": "https://flash.jin10.com/detail/20251016041042297800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "美国总统特朗普：将很快前往其他城市打击犯罪。",
@@ -327,9 +554,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普：“他（印度总理莫迪）今天向我保证”，印度不会从俄罗斯购买石油。",
+          "url": "https://flash.jin10.com/detail/20251016041016189800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
@@ -338,9 +576,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普：与印度总理莫迪“关系良好”。",
+          "url": "https://flash.jin10.com/detail/20251016040924144800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "一名美国法官表示，她很可能会阻止特朗普政府在政府停摆期间实施大规模裁员。",
@@ -360,7 +609,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         }
@@ -378,8 +627,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -391,11 +640,12 @@
             23,
             17,
             18,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -439,8 +689,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -454,8 +704,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -466,8 +716,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时43分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -475,11 +725,12 @@
           "source": "微博",
           "ranks": [
             30,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 04时19分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 04时43分]"
         }
       ]
     },
@@ -543,31 +794,74 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "美元指数15日下跌",
-          "url": "https://flash.jin10.com/detail/20251016040508196800",
+          "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
+          "url": "https://flash.jin10.com/detail/20251016043045817800",
           "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "04时43分"
         },
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
         {
           "title": "周三（10月15日）纽约尾盘，ICE美元指数跌0.29%，报98.762点，日内交投区间为99.078-98.655点，全天持续走低，北京时间23:00过后出现一波加速下挫的行情。 彭博美元指数跌0.28%，报1211.05点，日内交投区间为1214.69-1210.10点。",
           "url": "https://wallstreetcn.com/livenews/2988387",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时43分]"
+        },
+        {
+          "title": "美元指数15日下跌",
+          "url": "https://flash.jin10.com/detail/20251016040508196800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时19分]"
+          "time_info": "[04时19分 ~ 04时43分]"
         },
         {
           "title": "新兴市场股票指数和外汇指数双双有望创6月以来最佳单日表现，美元走软和强劲的业绩报告都利好风险偏好情绪。",
@@ -586,35 +880,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
-          "url": "https://wallstreetcn.com/livenews/2988383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -624,11 +889,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时43分]"
         }
       ]
     },
