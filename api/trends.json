@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T12:21:36.428490+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-10-15T12:44:57.816199+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时44分]"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -116,11 +116,12 @@
           "source": "贴吧",
           "ranks": [
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 12时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时22分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -143,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 02时48分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：我们在南美洲取得了巨大进展。",
@@ -203,6 +215,18 @@
           "time_info": "01时15分"
         },
         {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时44分]"
+        },
+        {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
           "url": "https://wallstreetcn.com/livenews/2987654",
           "source": "华尔街见闻-快讯",
@@ -248,17 +272,6 @@
           "time_info": "[01时15分 ~ 03时15分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 12时21分]"
-        },
-        {
           "title": "美国总统特朗普赞赏当前的石油和汽油价格。",
           "url": "https://wallstreetcn.com/livenews/2987673",
           "source": "华尔街见闻-快讯",
@@ -283,17 +296,6 @@
           "time_info": "02时25分"
         },
         {
-          "title": "特朗普抱怨称中国故意不买美国大豆",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D4%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26realpos%3D4%26display_time%3D1760502018%26pre_seqid%3D17605020181960244121107",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
           "url": "https://wallstreetcn.com/livenews/2987664",
           "source": "华尔街见闻-快讯",
@@ -306,29 +308,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 03时37分]"
-        },
-        {
-          "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
-          "url": "https://wallstreetcn.com/livenews/2987910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
@@ -383,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普抱怨称中国故意不买美国大豆",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D4%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26realpos%3D4%26display_time%3D1760502018%26pre_seqid%3D17605020181960244121107",
+          "source": "微博",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普赞扬了当前的石油和汽油价格。",
@@ -456,6 +447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
+          "url": "https://wallstreetcn.com/livenews/2987910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普：周五将掌握一份关于被关闭政府部门的清单。",
@@ -941,6 +944,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普呼吁赦免内塔尼亚胡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "美国总统特朗普：我们希望看到阿根廷取得成功。",
           "url": "https://flash.jin10.com/detail/20251015021749199800",
           "source": "金十数据",
@@ -980,19 +994,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时44分]"
         },
         {
-          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2987912",
-          "source": "华尔街见闻-快讯",
+          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
+          "url": "https://flash.jin10.com/detail/20251015120826259800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
@@ -1006,15 +1020,17 @@
           "time_info": "11时36分"
         },
         {
-          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
-          "url": "https://flash.jin10.com/detail/20251015120826259800",
-          "source": "金十数据",
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 12时44分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1030,17 +1046,38 @@
           "time_info": "[05时14分 ~ 06时17分]"
         },
         {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
+          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            11
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 12时21分]"
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
+          "url": "https://flash.jin10.com/detail/20251015120340138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
+          "url": "https://flash.jin10.com/detail/20251015120332275800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -1055,37 +1092,15 @@
           "time_info": "[03时37分 ~ 04时19分]"
         },
         {
-          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
-          "url": "https://flash.jin10.com/detail/20251015120340138800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
-          "url": "https://flash.jin10.com/detail/20251015120332275800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
           "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
           "url": "https://flash.jin10.com/detail/20251015120232496800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "据英国金融时报：OpenAI正计划达成协议，为政府和企业提供更多定制化产品。",
@@ -1094,9 +1109,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         },
         {
           "title": "据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。",
@@ -1105,9 +1120,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
         }
       ]
     },
@@ -1220,6 +1235,18 @@
           "time_info": "[00时22分 ~ 01时15分]"
         },
         {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 12时44分]"
+        },
+        {
           "title": "英国央行行长贝利：更高的不确定性与市场碎片化风险推动金价上涨。",
           "url": "https://flash.jin10.com/detail/20251015012957081800",
           "source": "金十数据",
@@ -1262,23 +1289,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
-        },
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果CEO库克上海两日行：看LABUBU，首次“直播带货”，直言“太爱中国人和中国文化”",
@@ -1289,8 +1305,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时44分]"
         },
         {
           "title": "大量iPhone17新机无法激活 苹果回应",
@@ -1303,6 +1319,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 01时38分]"
+        },
+        {
+          "title": "工信部部长李乐成会见美国苹果公司首席执行官蒂姆·库克",
+          "url": "https://wallstreetcn.com/livenews/2987918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "苹果华为OPPO将推出eSIM手机",
+          "url": "https://wallstreetcn.com/livenews/2987917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "工信部部长会见苹果CEO库克",
+          "url": "https://www.douyin.com/hot/2270610",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "苹果将在越南生产新家用设备。苹果正与比亚迪合作在越南组装设备。",
@@ -1478,8 +1527,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时35分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 12时44分]"
         }
       ]
     },
@@ -1536,8 +1585,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时11分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时11分 ~ 12时44分]"
         }
       ]
     }
