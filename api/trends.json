@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T05:37:10.403158+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2025-10-16T06:15:47.139088+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 05时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
@@ -40,8 +40,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时52分 ~ 05时37分]"
+          "appearance_count": 12,
+          "time_info": "[02时52分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D26%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D26%26display_time%3D1760552724%26pre_seqid%3D176055272487700608134",
+          "source": "微博",
+          "ranks": [
+            26,
+            24,
+            18,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时25分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 06时15分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -60,23 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D26%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D26%26display_time%3D1760552724%26pre_seqid%3D176055272487700608134",
-          "source": "微博",
-          "ranks": [
-            26,
-            24,
-            18,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时25分 ~ 05时37分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 06时15分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 02时25分]"
-        },
-        {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 05时37分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -172,15 +173,15 @@
           "time_info": "[00时46分 ~ 02时53分]"
         },
         {
-          "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
-          "url": "https://wallstreetcn.com/livenews/2988432",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称其可能出席最高法院关税案辩论",
+          "url": "https://flash.jin10.com/detail/20251016055644949800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时15分"
         },
         {
           "title": "市场消息：美国法官阻止特朗普政府在政府停摆期间解雇30多个机构的员工。",
@@ -195,15 +196,32 @@
           "time_info": "[02时53分 ~ 03时37分]"
         },
         {
-          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
-          "url": "https://flash.jin10.com/detail/20251016052515297800",
-          "source": "金十数据",
+          "title": "美国总统特朗普谈及股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/2988413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            12,
+            20,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 06时15分]"
+        },
+        {
+          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
+          "url": "https://wallstreetcn.com/livenews/2988411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 06时15分]"
         },
         {
           "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
@@ -248,30 +266,43 @@
           "time_info": "[03时16分 ~ 04时43分]"
         },
         {
-          "title": "美国总统特朗普谈及股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/2988413",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
+          "url": "https://flash.jin10.com/detail/20251016050809195800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            12,
-            20
+            2,
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 05时37分]"
+          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
-          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
-          "url": "https://wallstreetcn.com/livenews/2988411",
+          "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
+          "url": "https://wallstreetcn.com/livenews/2988423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13,
-            21
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 05时37分]"
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
@@ -286,6 +317,18 @@
           "time_info": "[04时43分 ~ 05时14分]"
         },
         {
+          "title": "美国总统特朗普的交通部长Duffy威胁加州的4000万美元（拨款）。 加利福尼亚州对卡车司机有英语标准。",
+          "url": "https://wallstreetcn.com/livenews/2988432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时15分]"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://flash.jin10.com/detail/20251016043129250800",
           "source": "金十数据",
@@ -296,42 +339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
-          "url": "https://flash.jin10.com/detail/20251016050809195800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
-          "url": "https://wallstreetcn.com/livenews/2988423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时37分]"
-        },
-        {
-          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
-          "url": "https://wallstreetcn.com/livenews/2988422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时37分]"
         },
         {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
@@ -368,6 +375,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
+        },
+        {
+          "title": "美国运输部：特朗普政府因卡车司机英语水平规定扣留加州的4000万美元资金。",
+          "url": "https://flash.jin10.com/detail/20251016052515297800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时15分]"
         },
         {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
@@ -409,6 +428,19 @@
           "time_info": "[04时43分 ~ 05时37分]"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://wallstreetcn.com/livenews/2988414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
           "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
           "url": "https://flash.jin10.com/detail/20251016042358046800",
           "source": "金十数据",
@@ -419,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
+        },
+        {
+          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
+          "url": "https://flash.jin10.com/detail/20251016052451289800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时15分]"
         },
         {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
@@ -501,18 +545,6 @@
           "time_info": "[03时16分 ~ 03时37分]"
         },
         {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://wallstreetcn.com/livenews/2988414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时37分]"
-        },
-        {
           "title": "美国财长贝森特：如果美国最高法院裁定反对国际紧急经济权力法（IEEPA）下的关税，特朗普政府可转而采取其他关税措施。",
           "url": "https://flash.jin10.com/detail/20251016000816972800",
           "source": "金十数据",
@@ -534,17 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
-        },
-        {
-          "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
-          "url": "https://flash.jin10.com/detail/20251016052451289800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "特朗普：我们不喜欢的民主党计划将被永久终止。",
@@ -737,8 +758,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 05时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -764,8 +785,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 05时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -778,8 +799,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 05时37分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 06时15分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -787,11 +808,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时14分 ~ 06时15分]"
         }
       ]
     },
@@ -807,8 +829,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 05时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -825,8 +847,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 05时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -906,11 +928,12 @@
           "url": "https://wallstreetcn.com/livenews/2988428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时15分]"
         }
       ]
     },
