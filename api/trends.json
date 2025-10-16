@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T14:25:06.912088+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-10-16T14:49:26.654925+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -209,17 +209,6 @@
           "time_info": "04时19分"
         },
         {
-          "title": "特朗普称印度承诺停止购买俄罗斯石油，印方回应：优先考虑消费者利益",
-          "url": "https://wallstreetcn.com/livenews/2988743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
           "url": "https://wallstreetcn.com/livenews/2988341",
           "source": "华尔街见闻-快讯",
@@ -321,6 +310,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 14时49分]"
         },
         {
           "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
@@ -446,6 +448,18 @@
           "time_info": "[04时43分 ~ 05时14分]"
         },
         {
+          "title": "特朗普称印度承诺停止购买俄罗斯石油，印方回应：优先考虑消费者利益",
+          "url": "https://wallstreetcn.com/livenews/2988743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时49分]"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://flash.jin10.com/detail/20251016043129250800",
           "source": "金十数据",
@@ -468,19 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 14时25分]"
         },
         {
           "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
@@ -969,8 +970,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时20分 ~ 14时25分]"
+          "appearance_count": 30,
+          "time_info": "[00时20分 ~ 14时49分]"
         },
         {
           "title": "如何评价苹果 10 月 15 日发布的全新 14 英寸 MacBook Pro 、 iPad Pro？",
@@ -1026,11 +1027,12 @@
             17,
             14,
             11,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[10时47分 ~ 14时49分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -1185,6 +1187,18 @@
           "time_info": "[00时20分 ~ 12时42分]"
         },
         {
+          "title": "金店老板：金价跌起来像泄洪",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%EF%BC%9A%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时12分 ~ 14时49分]"
+        },
+        {
           "title": "金价暴涨 买黄金还是黄金股",
           "url": "https://www.toutiao.com/trending/7561421312267439654/",
           "source": "今日头条",
@@ -1215,29 +1229,31 @@
           "time_info": "[01时15分 ~ 07时38分]"
         },
         {
-          "title": "金店老板：金价跌起来像泄洪",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%EF%BC%9A%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 14时25分]"
-        },
-        {
           "title": "金价除以10=历史性的1979年牛市？",
           "url": "https://www.cls.cn/detail/2171118",
           "source": "财联社热门",
           "ranks": [
             11,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 14时49分]"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 14时49分]"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -1249,18 +1265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时25分]"
         },
         {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
@@ -1363,8 +1367,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 14时49分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1411,8 +1415,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时42分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 14时49分]"
         }
       ]
     },
@@ -1546,6 +1550,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗说国际原子能机构未履行义务致合作无法开展",
+          "url": "https://flash.jin10.com/detail/20251016000340650800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 00时46分]"
+        },
+        {
+          "title": "外媒曝伊朗油轮罕见公开航行位置",
+          "url": "https://news.ifeng.com/c/8nUtscOqDDN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "违纪 被查 违法",
       "match_count": 1,
       "titles": [
@@ -1614,23 +1646,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗说国际原子能机构未履行义务致合作无法开展",
-          "url": "https://flash.jin10.com/detail/20251016000340650800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时46分]"
         }
       ]
     }
