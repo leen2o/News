@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T13:42:50.398513+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2025-10-16T14:25:06.912088+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -44,6 +44,18 @@
           "time_info": "[00时20分 ~ 06时39分]"
         },
         {
+          "title": "特朗普宣布一个大消息，印度人都不敢相信",
+          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
           "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
           "source": "凤凰网",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[02时52分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息，印度人都不敢相信",
-          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 13时42分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -207,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普称印度承诺停止购买俄罗斯石油，印方回应：优先考虑消费者利益",
+          "url": "https://wallstreetcn.com/livenews/2988743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -459,6 +470,19 @@
           "time_info": "[04时43分 ~ 05时14分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 14时25分]"
+        },
+        {
           "title": "共和党高层罕见对特朗普说不 要求撤销部分财政部裁员计划",
           "url": "https://flash.jin10.com/detail/20251016052451289800",
           "source": "金十数据",
@@ -574,6 +598,17 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "特朗普挪用五角大楼资金发军饷",
+          "url": "https://news.ifeng.com/c/8nUnwVIdU3i",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
           "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
           "url": "https://flash.jin10.com/detail/20251016042358046800",
           "source": "金十数据",
@@ -653,18 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 03时37分]"
-        },
-        {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时42分]"
         },
         {
           "title": "据CNN：美国总统特朗普表示，如果哈马斯不遵守停火协议，以色列军队将“随时听候我的命令”在加沙地带恢复战斗。",
@@ -946,8 +969,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 13时42分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "如何评价苹果 10 月 15 日发布的全新 14 英寸 MacBook Pro 、 iPad Pro？",
@@ -996,6 +1019,20 @@
           "time_info": "[09时12分 ~ 12时42分]"
         },
         {
+          "title": "苹果发布多款搭载M5芯片新品",
+          "url": "https://www.douyin.com/hot/2271270",
+          "source": "抖音",
+          "ranks": [
+            17,
+            14,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 14时25分]"
+        },
+        {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
           "url": "https://wallstreetcn.com/livenews/2988338",
           "source": "华尔街见闻-快讯",
@@ -1021,19 +1058,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "苹果发布多款搭载M5芯片新品",
-          "url": "https://www.douyin.com/hot/2271270",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时47分 ~ 13时42分]"
         },
         {
           "title": "苹果AI部门再失大将 Siri核心改版负责人跳槽",
@@ -1199,8 +1223,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 14时25分]"
+        },
+        {
+          "title": "金价除以10=历史性的1979年牛市？",
+          "url": "https://www.cls.cn/detail/2171118",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 14时25分]"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -1212,6 +1249,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 14时25分]"
         },
         {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
@@ -1264,17 +1313,6 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时42分]"
-        },
-        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -1286,18 +1324,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时47分 ~ 12时19分]"
-        },
-        {
-          "title": "金价除以10=历史性的1979年牛市？",
-          "url": "https://www.cls.cn/detail/2171118",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时42分]"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
@@ -1327,6 +1353,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 14时25分]"
+        },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
@@ -1364,27 +1403,16 @@
           "time_info": "[04时43分 ~ 05时14分]"
         },
         {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时42分]"
-        },
-        {
           "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 14时25分]"
         }
       ]
     },
