@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T19:39:25.385702+08:00",
-  "total_titles_processed": 2047,
+  "generated_at": "2025-10-16T20:35:39.530894+08:00",
+  "total_titles_processed": 2150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -32,6 +32,17 @@
           "time_info": "[04时43分 ~ 10时47分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 20时35分]"
+        },
+        {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
           "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
           "source": "凤凰网",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时12分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 19时39分]"
         },
         {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
@@ -177,8 +177,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时49分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[16时49分 ~ 20时35分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -325,6 +325,19 @@
           "time_info": "07时38分"
         },
         {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时35分]"
+        },
+        {
           "title": "市场消息：美国法官阻止特朗普政府在政府停摆期间解雇30多个机构的员工。",
           "url": "https://flash.jin10.com/detail/20251016023631067800",
           "source": "金十数据",
@@ -354,21 +367,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        },
-        {
-          "title": "特朗普中东行有何成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时39分]"
         },
         {
           "title": "特朗普称其可能出席最高法院关税案辩论",
@@ -635,6 +636,18 @@
           "time_info": "[07时15分 ~ 07时38分]"
         },
         {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时35分]"
+        },
+        {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
           "url": "https://wallstreetcn.com/livenews/2988335",
           "source": "华尔街见闻-快讯",
@@ -693,17 +706,6 @@
           "ranks": [
             8,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时39分]"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -907,6 +909,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "油价应声走高，特朗普：莫迪保证印度停买俄油",
+          "url": "https://wallstreetcn.com/articles/3757265",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "特朗普：印度停止从俄罗斯购买石油需要时间。",
@@ -1116,6 +1129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "美联储理事沃勒：我与贝森特的面试非常顺利，进行得很快。 尚未与特朗普总统通话，不清楚是否会通话。 再次降息是正确的做法，过去六周内情况没有太大变化。 私营部门数据持续反映劳动力市场疲软。 避免犯错的方法是谨慎行事。 我们可以先降息25个基点，观察效果，从而获得更清晰的判断。",
+          "url": "https://wallstreetcn.com/livenews/2988970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "印度外交部：未获悉印度总理莫迪与美国总统特朗普周三有任何会谈。",
+          "url": "https://flash.jin10.com/detail/20251016194041723800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国白宫：特朗普将延长联邦雇员招聘冻结期",
@@ -1334,6 +1369,19 @@
           "time_info": "[18时45分 ~ 19时39分]"
         },
         {
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时35分]"
+        },
+        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -1345,18 +1393,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时47分 ~ 12时19分]"
-        },
-        {
-          "title": "专家：金价到5000美元将比预期快",
-          "url": "https://www.douyin.com/hot/2272129",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 19时39分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金午盘价为967.46元/克，较国际金价(969.66元/克)，低2.2元/克",
@@ -1651,7 +1687,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
@@ -1668,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[12时42分 ~ 19时39分]"
+        },
+        {
+          "title": "市场消息：赛富时与谷歌扩大合作。",
+          "url": "https://flash.jin10.com/detail/20251016200048549800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1716,6 +1763,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时42分 ~ 14时49分]"
+        },
+        {
+          "title": "Salesforce与谷歌扩大合作，将Gemini模型引入Agentforce 360平台。",
+          "url": "https://wallstreetcn.com/livenews/2988983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
