@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T18:18:45.386888+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2025-10-16T18:45:45.987214+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -68,6 +68,17 @@
           "time_info": "[02时52分 ~ 07时38分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时22分 ~ 18时45分]"
+        },
+        {
           "title": "特朗普威胁更换2028年奥运举办地",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D26%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D26%26display_time%3D1760552724%26pre_seqid%3D176055272487700608134",
           "source": "微博",
@@ -84,17 +95,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[02时25分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 18时18分]"
         },
         {
           "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
@@ -164,8 +164,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 18时18分]"
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时45分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -226,6 +226,17 @@
           "time_info": "[03时16分 ~ 03时37分]"
         },
         {
+          "title": "特朗普政府批准16亿美元贷款担保 支持电网升级",
+          "url": "https://flash.jin10.com/detail/20251016184111812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2988376",
           "source": "华尔街见闻-快讯",
@@ -248,6 +259,18 @@
           "time_info": "04时19分"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时45分]"
+        },
+        {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
           "url": "https://wallstreetcn.com/livenews/2988341",
           "source": "华尔街见闻-快讯",
@@ -261,6 +284,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 02时53分]"
+        },
+        {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "特朗普称泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -449,15 +483,17 @@
           "time_info": "[03时16分 ~ 04时43分]"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
           "ranks": [
-            20
+            20,
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时49分 ~ 18时18分]"
+          "time_info": "[17时19分 ~ 18时45分]"
         },
         {
           "title": "特朗普称印度承诺停止购买俄罗斯石油，印方回应：优先考虑消费者利益",
@@ -597,18 +633,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 02时25分]"
-        },
-        {
-          "title": "特朗普称对西班牙很不爽",
-          "url": "https://www.toutiao.com/trending/7560714140441509924/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 18时18分]"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -812,6 +836,17 @@
           "time_info": "[15时17分 ~ 15时40分]"
         },
         {
+          "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
+          "url": "https://flash.jin10.com/detail/20251016181333778800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "特朗普：我们不喜欢的民主党计划将被永久终止。",
           "url": "https://flash.jin10.com/detail/20251016042241719800",
           "source": "金十数据",
@@ -823,6 +858,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "特朗普：印度停止从俄罗斯购买石油需要时间。",
           "url": "https://flash.jin10.com/detail/20251016042204121800",
           "source": "金十数据",
@@ -832,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016181128488800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "特朗普：在短期内，印度将不会购买俄罗斯石油。",
@@ -1032,6 +1089,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "特朗普下月或亲赴美最高法院“督战”",
+          "url": "https://www.toutiao.com/trending/7561326265605898276/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "美国白宫：特朗普将延长联邦雇员招聘冻结期",
           "url": "https://flash.jin10.com/detail/20251016031912641800",
           "source": "金十数据",
@@ -1057,7 +1125,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -1128,8 +1196,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时12分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[09时12分 ~ 18时45分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1162,17 +1230,6 @@
           "time_info": "[01时15分 ~ 07时38分]"
         },
         {
-          "title": "世界黄金协会研究负责人：今年金价已创45次新高，但市场尚未饱和",
-          "url": "https://wallstreetcn.com/livenews/2988904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
           "url": "https://flash.jin10.com/detail/20251016084128181800",
           "source": "金十数据",
@@ -1182,6 +1239,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "世界黄金协会研究负责人：今年金价已创45次新高，但市场尚未饱和",
+          "url": "https://wallstreetcn.com/livenews/2988904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 18时45分]"
         },
         {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
@@ -1247,6 +1316,17 @@
           "time_info": "[10时47分 ~ 12时19分]"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "金十图示：2025年10月16日（周四）上海金午盘价为967.46元/克，较国际金价(969.66元/克)，低2.2元/克",
           "url": "https://flash.jin10.com/detail/20251016152708628800",
           "source": "金十数据",
@@ -1289,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "金价会掉头向下吗",
+          "url": "https://www.toutiao.com/trending/7561745310884564523/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "多家银行就金价紧急提醒",
@@ -1344,11 +1435,12 @@
             11,
             15,
             19,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时47分 ~ 17时43分]"
+          "appearance_count": 14,
+          "time_info": "[10时47分 ~ 18时45分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -1537,11 +1629,12 @@
             7,
             9,
             10,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时42分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[12时42分 ~ 18时45分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
