@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T11:36:16.904601+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-10-16T12:19:19.094967+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -125,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时19分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 03时37分]"
+        },
+        {
+          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
+          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时19分]"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -272,17 +283,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时15分 ~ 07时38分]"
-        },
-        {
-          "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
-          "url": "https://news.ifeng.com/c/8nUfvzJIjxX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         },
         {
           "title": "美国总统特朗普谈及股市上涨。",
@@ -434,6 +434,19 @@
           "time_info": "[04时43分 ~ 05时14分]"
         },
         {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时19分]"
+        },
+        {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
           "url": "https://flash.jin10.com/detail/20251016043033249800",
           "source": "金十数据",
@@ -546,18 +559,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
-          "url": "https://www.cls.cn/detail/2170822",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时36分]"
         },
         {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
@@ -923,7 +924,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果发布多款搭载M5芯片新品",
@@ -933,8 +934,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 11时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 12时19分]"
         },
         {
           "title": "苹果宣布推出M5芯片",
@@ -960,11 +961,25 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时19分]"
+        },
+        {
+          "title": "如何评价苹果 10 月 15 日发布的全新 14 英寸 MacBook Pro 、 iPad Pro？",
+          "url": "https://www.zhihu.com/question/1961916264155951943",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 12时19分]"
         },
         {
           "title": "苹果公司推出iPad Pro、Vision Pro、入门级MacBook Pro，配置新款M5芯片。美国即将迎来假日销售季。",
@@ -981,18 +996,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 02时53分]"
-        },
-        {
-          "title": "如何评价苹果 10 月 15 日发布的全新 14 英寸 MacBook Pro 、 iPad Pro？",
-          "url": "https://www.zhihu.com/question/1961916264155951943",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 11时36分]"
         },
         {
           "title": "道指和标普500指数先后转跌，纳指涨幅收窄至0.1%，半导体指数目前涨2%，银行指数涨0.3%，小盘股指目前涨约0.6%。特斯拉涨0.5%，苹果涨0.4%。 标普工业、原材料、能源、可选消费板块至多跌超0.9%，科技板块涨0.1%，房地产板块涨超1.1%。",
@@ -1028,6 +1031,19 @@
           "time_info": "07时38分"
         },
         {
+          "title": "苹果发布多款搭载M5芯片新品",
+          "url": "https://www.douyin.com/hot/2271270",
+          "source": "抖音",
+          "ranks": [
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 12时19分]"
+        },
+        {
           "title": "机构密集调研苹果产业链公司",
           "url": "https://wallstreetcn.com/livenews/2988458",
           "source": "华尔街见闻-快讯",
@@ -1038,18 +1054,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 07时38分]"
-        },
-        {
-          "title": "苹果发布多款搭载M5芯片新品",
-          "url": "https://www.douyin.com/hot/2271270",
-          "source": "抖音",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 11时36分]"
         },
         {
           "title": "报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
@@ -1072,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。沪银涨超4%，沪金、丁二烯橡胶涨超2%。跌幅方面，集运指数（欧线）、生猪跌超3%，铁矿石、苹果跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251016113048682800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "刚升职就跳槽！报道：苹果负责类ChatGPT业务的AI研究主管Ke Yang将跳槽至Meta",
@@ -1099,7 +1114,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -1126,8 +1141,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 11时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 12时19分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1192,8 +1207,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时19分]"
         },
         {
           "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
@@ -1214,22 +1229,35 @@
           "source": "今日头条",
           "ranks": [
             20,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 12时19分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
           "url": "https://flash.jin10.com/detail/20251016110308601800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时19分]"
+        },
+        {
+          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
+          "url": "https://flash.jin10.com/detail/20251016114935655800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "12时19分"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
@@ -1438,8 +1466,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 12时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抢购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价飙升日本散户蜂拥抢购金条 小克重产品库存告急被迫停售",
+          "url": "https://www.cls.cn/detail/2170784",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
@@ -1454,7 +1499,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
