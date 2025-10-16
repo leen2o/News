@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T06:15:15.884032+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2025-10-17T06:39:39.282445+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 06时39分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -27,8 +27,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 06时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普：将与普京在布达佩斯举行会晤",
+          "url": "https://news.ifeng.com/c/8nVihEC18zq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时15分 ~ 06时39分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 04时41分]"
-        },
-        {
-          "title": "特朗普：将与普京在布达佩斯举行会晤",
-          "url": "https://news.ifeng.com/c/8nVihEC18zq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 06时15分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -72,11 +72,12 @@
             26,
             27,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时50分 ~ 06时15分]"
+          "appearance_count": 12,
+          "time_info": "[02时50分 ~ 06时39分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -201,6 +202,19 @@
           "time_info": "[02时50分 ~ 04时18分]"
         },
         {
+          "title": "欧洲央行管委Scicluna：将需要（通过证据来）确信央行还需再次降息。 欧洲央行需要时间来决定下一步行动。 美国（总统特朗普挑起的）关税对（欧元区的）价格影响仍然并不明朗。 我们将在12月份掌握大量数据。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2989210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 06时39分]"
+        },
+        {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
           "url": "https://flash.jin10.com/detail/20251017021120489800",
           "source": "金十数据",
@@ -211,18 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 02时50分]"
-        },
-        {
-          "title": "欧洲央行管委Scicluna：将需要（通过证据来）确信央行还需再次降息。 欧洲央行需要时间来决定下一步行动。 美国（总统特朗普挑起的）关税对（欧元区的）价格影响仍然并不明朗。 我们将在12月份掌握大量数据。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/2989210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时15分]"
         },
         {
           "title": "克里姆林宫官员：特朗普与普京的通话持续了近2.5小时。两国将迅速为峰会做好准备。",
@@ -263,6 +265,20 @@
           "time_info": "[01时42分 ~ 02时24分]"
         },
         {
+          "title": "美国总统特朗普：预计汽油价格将（反弹并）达到2美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/2989199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 06时39分]"
+        },
+        {
           "title": "美国总统特朗普：我认为与俄罗斯总统普京的这次通话不错。",
           "url": "https://wallstreetcn.com/livenews/2989179",
           "source": "华尔街见闻-快讯",
@@ -287,19 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 03时39分]"
-        },
-        {
-          "title": "美国总统特朗普：预计汽油价格将（反弹并）达到2美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/2989199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
@@ -520,6 +523,17 @@
           "time_info": "[04时18分 ~ 04时41分]"
         },
         {
+          "title": "特朗普声称“施展了魔法” 达成降低牛肉价格的协议",
+          "url": "https://flash.jin10.com/detail/20251017055917375800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
+        },
+        {
           "title": "特朗普谈关于对俄罗斯实施制裁的法案：时机或许不太恰当。",
           "url": "https://flash.jin10.com/detail/20251017044015852800",
           "source": "金十数据",
@@ -554,6 +568,18 @@
           "time_info": "[05时16分 ~ 05时38分]"
         },
         {
+          "title": "Stellantis盘后涨超4%，报道称特朗普政府将宣布汽车关税减免计划",
+          "url": "https://wallstreetcn.com/livenews/2989209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
+        },
+        {
           "title": "美国总统特朗普：生育药物价格将大幅下降。",
           "url": "https://flash.jin10.com/detail/20251017034806271800",
           "source": "金十数据",
@@ -563,6 +589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 04时41分]"
+        },
+        {
+          "title": "涉嫌不当处理机密信息 曾任特朗普助理的博尔顿遭起诉",
+          "url": "https://flash.jin10.com/detail/20251017054511515800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
         },
         {
           "title": "美国总统特朗普：我们将大幅削减试管婴儿的成本。",
@@ -618,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时38分]"
+        },
+        {
+          "title": "巴西外长：卢拉与特朗普的会晤可能于11月举行",
+          "url": "https://flash.jin10.com/detail/20251017053117307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
         },
         {
           "title": "特朗普：美国也需要战斧导弹。",
@@ -699,17 +747,6 @@
           "time_info": "[05时16分 ~ 05时38分]"
         },
         {
-          "title": "特朗普声称“施展了魔法” 达成降低牛肉价格的协议",
-          "url": "https://flash.jin10.com/detail/20251017055917375800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -719,28 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "Stellantis盘后涨超4%，报道称特朗普政府将宣布汽车关税减免计划",
-          "url": "https://wallstreetcn.com/livenews/2989209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "涉嫌不当处理机密信息 曾任特朗普助理的博尔顿遭起诉",
-          "url": "https://flash.jin10.com/detail/20251017054511515800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "白宫新闻秘书莱维特：俄罗斯总统普京承诺将与美国总统特朗普坐下来会谈。",
@@ -840,17 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "巴西外长：卢拉与特朗普的会晤可能于11月举行",
-          "url": "https://flash.jin10.com/detail/20251017053117307800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：初步会议将由国务卿鲁比奥主持，会面地点待定。",
@@ -965,72 +969,8 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
-          "url": "https://wallstreetcn.com/livenews/2989159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时50分 ~ 04时18分]"
-        },
-        {
-          "title": "商务部部长王文涛会见美国苹果公司首席执行官库克",
-          "url": "https://news.ifeng.com/c/8nVWwd4gKH2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 06时15分]"
-        },
-        {
-          "title": "苹果(AAPL.O)最新下跌1.2%。",
-          "url": "https://flash.jin10.com/detail/20251017025129601800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时39分]"
-        },
-        {
-          "title": "苹果计划推出搭载触控屏和M6芯片的Mac电脑",
-          "url": "https://flash.jin10.com/detail/20251017024902777800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时39分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)划于2026年末或2027年初推出首款触摸屏Mac电脑。",
-          "url": "https://flash.jin10.com/detail/20251017024558862800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1094,9 +1034,84 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道：苹果准备在2026年后期、或2027年年初发布首款触摸屏Mac",
+          "url": "https://wallstreetcn.com/livenews/2989159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 04时18分]"
+        },
+        {
+          "title": "商务部部长王文涛会见美国苹果公司首席执行官库克",
+          "url": "https://news.ifeng.com/c/8nVWwd4gKH2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时38分 ~ 06时39分]"
+        },
+        {
+          "title": "苹果(AAPL.O)最新下跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20251017025129601800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时39分]"
+        },
+        {
+          "title": "苹果计划推出搭载触控屏和M6芯片的Mac电脑",
+          "url": "https://flash.jin10.com/detail/20251017024902777800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时39分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)划于2026年末或2027年初推出首款触摸屏Mac电脑。",
+          "url": "https://flash.jin10.com/detail/20251017024558862800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 03时39分]"
         }
       ]
     },
@@ -1113,19 +1128,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时24分 ~ 06时15分]"
+          "appearance_count": 13,
+          "time_info": "[02时24分 ~ 06时39分]"
         },
         {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
           "url": "https://wallstreetcn.com/livenews/2989216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
@@ -1204,9 +1220,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
         }
       ]
     },
