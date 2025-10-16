@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:22:58.817161+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-10-16T16:49:31.568053+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 85,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -86,6 +86,20 @@
           "time_info": "[02时25分 ~ 07时38分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 16时49分]"
+        },
+        {
           "title": "中方回应特朗普指责停止进口美大豆",
           "url": "https://www.toutiao.com/trending/7561238900635762751/",
           "source": "今日头条",
@@ -129,19 +143,6 @@
           "time_info": "[00时20分 ~ 02时25分]"
         },
         {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 16时22分]"
-        },
-        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时49分]"
         },
         {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
@@ -295,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         },
         {
           "title": "特朗普称其可能出席最高法院关税案辩论",
@@ -460,6 +461,19 @@
           "time_info": "[05时37分 ~ 06时39分]"
         },
         {
+          "title": "特朗普称泽连斯基将阐述进攻俄理由",
+          "url": "https://www.toutiao.com/trending/7561700543823924745/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时49分]"
+        },
+        {
           "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
           "url": "https://flash.jin10.com/detail/20251016043753123800",
           "source": "金十数据",
@@ -482,18 +496,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普称泽连斯基将阐述进攻俄理由",
-          "url": "https://www.toutiao.com/trending/7561700543823924745/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
@@ -894,6 +896,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
           "url": "https://flash.jin10.com/detail/20251016034449123800",
           "source": "金十数据",
@@ -960,6 +973,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "白宫公布特朗普官方日程称，特朗普将于当地时间周四下午3点宣布消息。",
           "url": "https://wallstreetcn.com/livenews/2988569",
           "source": "华尔街见闻-快讯",
@@ -977,7 +1001,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -1040,11 +1064,12 @@
             11,
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时17分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[13时17分 ~ 16时49分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -1071,11 +1096,12 @@
             12,
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 16时49分]"
         },
         {
           "title": "金店老板：金价跌起来像泄洪",
@@ -1083,11 +1109,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时12分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时12分 ~ 16时49分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1262,8 +1289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时20分 ~ 16时22分]"
+          "appearance_count": 35,
+          "time_info": "[00时20分 ~ 16时49分]"
         },
         {
           "title": "如何评价苹果 10 月 15 日发布的全新 14 英寸 MacBook Pro 、 iPad Pro？",
@@ -1473,8 +1500,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 16时49分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1656,6 +1683,37 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "杰富瑞：美债收益率下行空间有限",
+          "url": "https://flash.jin10.com/detail/20251016163546486800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "两年期美债收益率涨2个基点",
+          "url": "https://wallstreetcn.com/livenews/2988388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 05时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -1668,8 +1726,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时49分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 16时49分]"
         },
         {
           "title": "伊朗说国际原子能机构未履行义务致合作无法开展",
@@ -1747,29 +1805,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率涨2个基点",
-          "url": "https://wallstreetcn.com/livenews/2988388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时14分]"
         }
       ]
     }
