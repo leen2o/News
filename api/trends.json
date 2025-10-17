@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T05:38:01.088245+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-10-18T06:15:23.919380+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
+          "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时41分 ~ 06时15分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -43,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "特朗普又被告",
@@ -56,11 +67,12 @@
             2,
             19,
             18,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -74,19 +86,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 04时42分]"
-        },
-        {
-          "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
-          "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时41分 ~ 05时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -111,8 +112,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "普京特朗普通话细节",
@@ -124,8 +125,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -178,16 +179,76 @@
           "time_info": "[02时23分 ~ 02时46分]"
         },
         {
+          "title": "泽连斯基建议用乌克兰无人机换取美制“战斧”导弹，特朗普称美国也需要“战斧”",
+          "url": "https://wallstreetcn.com/livenews/2989922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "Salesforce的首席执行官（CEO）为自己说“美国总统特朗普应当向旧金山派遣国民警卫队”道歉。",
           "url": "https://wallstreetcn.com/livenews/2989900",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时42分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 06时15分]"
+        },
+        {
+          "title": "市场消息：特朗普政府请求美国最高法院介入，以推动向伊利诺伊州部署国民警卫队的行动。",
+          "url": "https://flash.jin10.com/detail/20251018040701072800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
+        },
+        {
+          "title": "市场消息：特朗普与泽连斯基的会晤在白宫结束，泽连斯基在与特朗普会面后离开白宫。",
+          "url": "https://flash.jin10.com/detail/20251018035936473800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
+        },
+        {
+          "title": "市场消息：“海军陆战队一号” 直升机停在白宫准备送特朗普离开，但在起飞时其并未载上总统本人。",
+          "url": "https://flash.jin10.com/detail/20251018035516283800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
+        },
+        {
+          "title": "“停摆”持续 特朗普政府再冻结110亿美元基建资金",
+          "url": "https://flash.jin10.com/detail/20251018035009858800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
         },
         {
           "title": "特朗普重新起诉《纽约时报》",
@@ -268,63 +329,16 @@
           "time_info": "[04时26分 ~ 05时38分]"
         },
         {
-          "title": "市场消息：特朗普政府请求美国最高法院介入，以推动向伊利诺伊州部署国民警卫队的行动。",
-          "url": "https://flash.jin10.com/detail/20251018040701072800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
-        },
-        {
-          "title": "市场消息：特朗普与泽连斯基的会晤在白宫结束，泽连斯基在与特朗普会面后离开白宫。",
-          "url": "https://flash.jin10.com/detail/20251018035936473800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
-        },
-        {
-          "title": "市场消息：“海军陆战队一号” 直升机停在白宫准备送特朗普离开，但在起飞时其并未载上总统本人。",
-          "url": "https://flash.jin10.com/detail/20251018035516283800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
-        },
-        {
-          "title": "“停摆”持续 特朗普政府再冻结110亿美元基建资金",
-          "url": "https://flash.jin10.com/detail/20251018035009858800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
-        },
-        {
           "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
           "url": "https://wallstreetcn.com/livenews/2989907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普：马杜罗“已向美国提供了一切”。",
@@ -516,6 +530,17 @@
           "time_info": "[02时23分 ~ 02时46分]"
         },
         {
+          "title": "特朗普见泽连斯基，排除美俄乌三方会",
+          "url": "https://wallstreetcn.com/livenews/2989921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "特朗普贸易顾问纳瓦罗：我们不认为关税会提高制造业成本。",
           "url": "https://flash.jin10.com/detail/20251017223116931800",
           "source": "金十数据",
@@ -562,11 +587,12 @@
             9,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "金价",
@@ -579,8 +605,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 04时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 06时15分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -659,11 +685,12 @@
             10,
             7,
             9,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -675,8 +702,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -691,8 +718,37 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 03时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 06时15分]"
+        },
+        {
+          "title": "两年期美债收益率本周跌超4个基点",
+          "url": "https://wallstreetcn.com/livenews/2989920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -732,20 +788,19 @@
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
+          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
+          "url": "https://wallstreetcn.com/articles/3757376",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4
+            10
           ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 05时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -762,8 +817,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
         }
       ]
     },
@@ -780,8 +835,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 05时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 06时15分]"
         }
       ]
     }
