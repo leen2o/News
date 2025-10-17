@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T15:17:38.202690+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-10-17T15:39:13.667805+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 116,
+      "match_count": 119,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时38分 ~ 15时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时38分 ~ 15时39分]"
         },
         {
           "title": "普京三板斧，轻松搞定特朗普",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 15时39分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -93,8 +93,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时15分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[07时15分 ~ 15时39分]"
+        },
+        {
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 15时39分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -105,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -135,8 +148,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 15时39分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -158,8 +171,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -183,8 +196,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -215,18 +228,6 @@
           "time_info": "[02时50分 ~ 07时15分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 15时17分]"
-        },
-        {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
           "url": "https://wallstreetcn.com/livenews/2989147",
           "source": "华尔街见闻-快讯",
@@ -254,6 +255,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时46分 ~ 12时43分]"
+        },
+        {
+          "title": "据国际文传电讯社：俄罗斯总统普京在与美国总统特朗普通话后召开了安全会议。",
+          "url": "https://flash.jin10.com/detail/20251017151720760800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
@@ -414,6 +426,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时38分 ~ 11时33分]"
+        },
+        {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 15时39分]"
         },
         {
           "title": "欧洲央行管委Scicluna：将需要（通过证据来）确信央行还需再次降息。 欧洲央行需要时间来决定下一步行动。 美国（总统特朗普挑起的）关税对（欧元区的）价格影响仍然并不明朗。 我们将在12月份掌握大量数据。（彭博电视）",
@@ -593,17 +616,6 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时17分]"
-        },
-        {
           "title": "俄罗斯国家电视台记者：克里姆林宫确认总统普京与美国总统特朗普正在通电话。",
           "url": "https://wallstreetcn.com/livenews/2989109",
           "source": "华尔街见闻-快讯",
@@ -615,6 +627,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "你如何看待特朗普建凯旋门",
+          "url": "https://www.toutiao.com/trending/7561714764305907758/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 15时39分]"
         },
         {
           "title": "特朗普普京会晤地点为何定在匈牙利",
@@ -1053,6 +1077,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "诺和诺德欧股股价下跌5%，此前特朗普称减肥药物价格将下调。",
+          "url": "https://flash.jin10.com/detail/20251017151140981800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "特朗普推进降低药品价格的努力，最新举措意在支持体外受精",
           "url": "https://wallstreetcn.com/livenews/2989235",
           "source": "华尔街见闻-快讯",
@@ -1086,6 +1121,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "德国防务股下挫，莱茵金属、亨索尔特、伦克跌幅介于3%-5.7%，消息面上特朗普与普京将举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251017150729396800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "为了降低不孕群体的生育成本，白宫宣布：“特朗普”网站现在囊括了试管婴儿药物定价协议",
           "url": "https://wallstreetcn.com/livenews/2989235",
           "source": "华尔街见闻-快讯",
@@ -1095,17 +1141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "你如何看待特朗普建凯旋门",
-          "url": "https://www.toutiao.com/trending/7561714764305907758/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "美十余州检察长就太阳能项目资金被撤起诉特朗普政府",
@@ -1397,8 +1432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时38分 ~ 15时17分]"
+          "appearance_count": 16,
+          "time_info": "[07时38分 ~ 15时39分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -1407,11 +1442,12 @@
           "ranks": [
             8,
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 15时39分]"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1588,8 +1624,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 15时39分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1614,8 +1650,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -1696,8 +1732,24 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13,
+            21,
+            17,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 15时39分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1713,36 +1765,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 15时17分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            13,
-            21,
-            17,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 15时17分]"
-        },
-        {
-          "title": "iPhoneAir正式开售",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D5%26flag%3D1%26lcate%3D5001%26band_rank%3D5%26stream_entry_id%3D31%26q%3D%2523iPhoneAir%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D5%26display_time%3D1760669139%26pre_seqid%3D17606691397650173839114",
-          "source": "微博",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 11时33分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 15时39分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -1755,8 +1779,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 15时39分]"
+        },
+        {
+          "title": "iPhoneAir正式开售",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D5%26flag%3D1%26lcate%3D5001%26band_rank%3D5%26stream_entry_id%3D31%26q%3D%2523iPhoneAir%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26realpos%3D5%26display_time%3D1760669139%26pre_seqid%3D17606691397650173839114",
+          "source": "微博",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 11时33分]"
         }
       ]
     },
@@ -1825,6 +1861,56 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "新西兰外长宣布恢复对伊朗的制裁",
+          "url": "https://flash.jin10.com/detail/20251017151505959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书访俄并会见俄总统 磋商双边关系",
+          "url": "https://flash.jin10.com/detail/20251017010225561800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "据俄新社：伊朗国家安全委员会秘书向俄罗斯总统普京转达了伊朗最高领导人的口信。",
+          "url": "https://flash.jin10.com/detail/20251017004846441800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "俄罗斯新闻机构报道称，伊朗国家安全委员会秘书周四在莫斯科与俄罗斯总统普京举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251017004304222800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1863,45 +1949,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 06时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗最高国家安全委员会秘书访俄并会见俄总统 磋商双边关系",
-          "url": "https://flash.jin10.com/detail/20251017010225561800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "据俄新社：伊朗国家安全委员会秘书向俄罗斯总统普京转达了伊朗最高领导人的口信。",
-          "url": "https://flash.jin10.com/detail/20251017004846441800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "俄罗斯新闻机构报道称，伊朗国家安全委员会秘书周四在莫斯科与俄罗斯总统普京举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251017004304222800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         }
       ]
     },
@@ -1948,8 +1995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 15时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 15时39分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
