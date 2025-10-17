@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T17:24:33.230928+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2025-10-17T17:41:35.072020+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 124,
+      "match_count": 128,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时40分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时40分 ~ 17时41分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -111,8 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -177,8 +177,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -203,8 +203,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -242,8 +242,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 17时24分]"
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 17时41分]"
+        },
+        {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时41分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -273,17 +284,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时46分 ~ 12时43分]"
-        },
-        {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯总统普京在与美国总统特朗普通话后召开了安全会议。",
@@ -358,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "据AXIOS网站：一项研究指出，特朗普的移民政策计划可能到2035年导致多达1500万个岗位消失。",
+          "url": "https://flash.jin10.com/detail/20251017172015809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国总统特朗普：美国不会从任何方式上遵守全球碳税。",
@@ -609,6 +620,18 @@
           "time_info": "[02时50分 ~ 03时39分]"
         },
         {
+          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
+          "url": "https://www.cls.cn/detail/2172177",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时41分]"
+        },
+        {
           "title": "克里姆林宫官员：俄罗斯总统普京告诉美国总统特朗普，\"战斧\"导弹不会改变战场局势，但会损害美俄关系及和平进程。",
           "url": "https://flash.jin10.com/detail/20251017021451678800",
           "source": "金十数据",
@@ -759,18 +782,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普关税谁买单？标普全球：三分之二成本由消费者承担",
-          "url": "https://www.cls.cn/detail/2172177",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：我们不会容忍美国消费者承受更高的价格，也不会容忍建立一个新的绿色骗局官僚机构，把钱花在他们的绿色梦想上。",
@@ -1119,6 +1130,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "诺和诺德欧股股价下跌5%，此前特朗普称减肥药物价格将下调。",
           "url": "https://flash.jin10.com/detail/20251017151140981800",
           "source": "金十数据",
@@ -1130,6 +1152,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "匈牙利外长西雅尔多：匈牙利总理欧尔班与美国总统特朗普的双边会晤将是一次单独的会晤。",
+          "url": "https://flash.jin10.com/detail/20251017170424754800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "特朗普推进降低药品价格的努力，最新举措意在支持体外受精",
           "url": "https://wallstreetcn.com/livenews/2989235",
           "source": "华尔街见闻-快讯",
@@ -1139,6 +1172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "匈牙利外长西雅尔多：如果美俄外长下周举行预备会晤，那么我们就可以讨论特朗普与普京会晤的日期。",
+          "url": "https://flash.jin10.com/detail/20251017170107381800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美十余州检察长就太阳能项目资金被撤起诉特朗普政府",
@@ -1680,7 +1724,7 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1690,8 +1734,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时10分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[09时10分 ~ 17时41分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1718,8 +1762,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -1772,6 +1816,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
           "url": "https://flash.jin10.com/detail/20251017015227360800",
           "source": "金十数据",
@@ -1786,7 +1841,7 @@
     },
     {
       "keyword_group": "iphone",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国行iPhone Air上手体验",
@@ -1800,8 +1855,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -1819,8 +1874,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 17时24分]"
+          "appearance_count": 15,
+          "time_info": "[12时21分 ~ 17时41分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1837,8 +1892,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时46分 ~ 17时24分]"
+          "appearance_count": 18,
+          "time_info": "[10时46分 ~ 17时41分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -1853,8 +1908,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时40分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时40分 ~ 17时41分]"
+        },
+        {
+          "title": "京东：iPhone Air 成交额1秒钟破亿",
+          "url": "https://wallstreetcn.com/livenews/2989636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "iPhoneAir正式开售",
@@ -2069,8 +2135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时10分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[09时10分 ~ 17时41分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -2105,8 +2171,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时32分 ~ 17时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时32分 ~ 17时41分]"
         }
       ]
     },
