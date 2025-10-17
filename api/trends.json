@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T18:44:12.580496+08:00",
-  "total_titles_processed": 1928,
+  "generated_at": "2025-10-17T19:16:00.769299+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 136,
+      "match_count": 139,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -68,11 +68,12 @@
             5,
             1,
             11,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 18时44分]"
+          "appearance_count": 16,
+          "time_info": "[13时40分 ~ 19时16分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -84,6 +85,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时15分 ~ 07时15分]"
+        },
+        {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 19时16分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -113,8 +126,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -179,8 +192,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -206,8 +219,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -217,8 +230,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时26分 ~ 18时44分]"
+          "appearance_count": 14,
+          "time_info": "[14时26分 ~ 19时16分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -249,18 +262,6 @@
           "time_info": "[02时50分 ~ 07时15分]"
         },
         {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 18时44分]"
-        },
-        {
           "title": "特朗普：美国也需要，不能把家底掏空",
           "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
           "source": "凤凰网",
@@ -268,8 +269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 19时16分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -287,26 +288,16 @@
           "time_info": "[01时42分 ~ 03时39分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-17）",
-          "url": "https://flash.jin10.com/detail/20251017181319099800",
-          "source": "金十数据",
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
           "ranks": [
-            3
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时44分]"
-        },
-        {
-          "title": "市场消息：福克斯商业频道采访特朗普的片段将于周日播出。",
-          "url": "https://flash.jin10.com/detail/20251017180918455800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时44分]"
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 19时16分]"
         },
         {
           "title": "牛弹琴：普京三板斧轻松搞定特朗普",
@@ -334,15 +325,15 @@
           "time_info": "15时39分"
         },
         {
-          "title": "俄方证实普京与特朗普或于两周内举行会晤",
-          "url": "https://wallstreetcn.com/livenews/2989678",
-          "source": "华尔街见闻-快讯",
+          "title": "知情人士透露，特朗普前国家安全顾问博尔顿预计将于周五自首，并将首次出庭受审。",
+          "url": "https://flash.jin10.com/detail/20251017184628451800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时44分"
+          "time_info": "19时16分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
@@ -419,6 +410,18 @@
           "time_info": "17时41分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017181319099800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：美国不会从任何方式上遵守全球碳税。",
           "url": "https://wallstreetcn.com/livenews/2989158",
           "source": "华尔街见闻-快讯",
@@ -456,6 +459,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时24分 ~ 03时39分]"
+        },
+        {
+          "title": "市场消息：福克斯商业频道采访特朗普的片段将于周日播出。",
+          "url": "https://flash.jin10.com/detail/20251017180918455800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "美国多个监管部门撤销气候相关融资风险标准。 美联储称，贷款机构应该对一系列因素具有韧性。 10月16日稍早，该国总统特朗普宣称，美国不会从任何方式上遵守全球碳税。",
@@ -553,6 +568,18 @@
           "time_info": "[02时24分 ~ 02时50分]"
         },
         {
+          "title": "俄方证实普京与特朗普或于两周内举行会晤",
+          "url": "https://wallstreetcn.com/livenews/2989678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 19时16分]"
+        },
+        {
           "title": "克里姆林宫官员：特朗普与普京的通话持续了近2.5小时。两国将迅速为峰会做好准备。",
           "url": "https://flash.jin10.com/detail/20251017021026332800",
           "source": "金十数据",
@@ -575,18 +602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时41分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 18时44分]"
         },
         {
           "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
@@ -666,6 +681,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 13时41分]"
+        },
+        {
+          "title": "克里姆林宫：特朗普与普京峰会前，俄罗斯外长拉夫罗夫和美国国务卿鲁比奥仍需首先解决许多问题。",
+          "url": "https://flash.jin10.com/detail/20251017180745398800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
@@ -785,17 +812,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时38分]"
-        },
-        {
-          "title": "克里姆林宫：特朗普与普京峰会前，俄罗斯外长拉夫罗夫和美国国务卿鲁比奥仍需首先解决许多问题。",
-          "url": "https://flash.jin10.com/detail/20251017180745398800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时44分]"
         },
         {
           "title": "特朗普推鼓励生育措施 药企降价换关税豁免",
@@ -1289,6 +1305,28 @@
           "time_info": "09时10分"
         },
         {
+          "title": "评论普京与特朗普通话，马斯克用了一个词：“令人鼓舞”",
+          "url": "https://wallstreetcn.com/livenews/2989681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧盟发言人：如果美国总统特朗普与俄罗斯总统普京的拟议会晤有助于乌克兰的和平，我们表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251017182147274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -1622,7 +1660,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -1725,11 +1763,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -1792,6 +1831,17 @@
           "time_info": "[06时39分 ~ 07时15分]"
         },
         {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "专家：金价到5000美元将比预期快",
           "url": "https://www.douyin.com/hot/2272129",
           "source": "抖音",
@@ -1839,8 +1889,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时10分 ~ 18时44分]"
+          "appearance_count": 24,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1867,8 +1917,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
+        },
+        {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 19时16分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -1892,18 +1954,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 15时17分]"
-        },
-        {
-          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 18时44分]"
         },
         {
           "title": "美联储人员发现 开曼群岛对冲基金的美债持仓数据出入达1.4万亿美元",
@@ -1962,8 +2012,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -1979,11 +2029,12 @@
             25,
             18,
             23,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时21分 ~ 18时44分]"
+          "appearance_count": 20,
+          "time_info": "[12时21分 ~ 19时16分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1998,11 +2049,12 @@
             18,
             17,
             10,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时46分 ~ 18时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时46分 ~ 19时16分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -2014,11 +2066,12 @@
             14,
             17,
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 18时44分]"
+          "appearance_count": 16,
+          "time_info": "[13时40分 ~ 19时16分]"
         },
         {
           "title": "iPhoneAir正式开售",
@@ -2124,6 +2177,59 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "周四（10月16日）纽约尾盘，ICE美元指数跌0.46%，报98.338点，日内交投区间为98.701-98.208点，全天处于下跌状态，北京时间20:00以来持续走低。 彭博美元指数跌0.30%，报1207.28点，日内交投区间为1210.51-1206.81点。",
+          "url": "https://wallstreetcn.com/livenews/2989175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 05时16分]"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20251017053531218800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时39分]"
+        },
+        {
+          "title": "避险情绪主导市场 美元指数一度跌至七月来最低",
+          "url": "https://flash.jin10.com/detail/20251017183415838800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -2174,48 +2280,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "周四（10月16日）纽约尾盘，ICE美元指数跌0.46%，报98.338点，日内交投区间为98.701-98.208点，全天处于下跌状态，北京时间20:00以来持续走低。 彭博美元指数跌0.30%，报1207.28点，日内交投区间为1210.51-1206.81点。",
-          "url": "https://wallstreetcn.com/livenews/2989175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 05时16分]"
-        },
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20251017053531218800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时39分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 VIVO OPPO 小米",
       "match_count": 2,
       "titles": [
@@ -2258,8 +2322,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时10分 ~ 18时44分]"
+          "appearance_count": 24,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
