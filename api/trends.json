@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T14:26:18.859413+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2025-10-17T14:48:37.251546+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时38分 ~ 14时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时38分 ~ 14时48分]"
         },
         {
           "title": "普京三板斧，轻松搞定特朗普",
@@ -26,11 +26,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 14时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 14时48分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -40,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -92,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时15分 ~ 14时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时15分 ~ 14时48分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -104,8 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -134,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 14时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 14时48分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -157,8 +158,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -178,11 +179,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -221,8 +223,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 14时48分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -828,6 +830,17 @@
           "time_info": "[05时38分 ~ 06时15分]"
         },
         {
+          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
+          "url": "https://www.zhihu.com/question/1962439324869047516",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时48分]"
+        },
+        {
           "title": "特朗普被问及对俄罗斯的制裁时表示：我会和众议院议长约翰逊与参议院共和党领袖图恩讨论关于普京的通话，并作出正确决定。",
           "url": "https://flash.jin10.com/detail/20251017044001207800",
           "source": "金十数据",
@@ -1062,17 +1075,6 @@
           "time_info": "09时10分"
         },
         {
-          "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
-          "url": "https://www.zhihu.com/question/1962439324869047516",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
           "url": "https://flash.jin10.com/detail/20251017014525419800",
           "source": "金十数据",
@@ -1178,7 +1180,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1384,8 +1386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时38分 ~ 14时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时38分 ~ 14时48分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -1396,8 +1398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 14时48分]"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1574,8 +1576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 14时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 14时48分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1600,8 +1602,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
@@ -1619,11 +1621,12 @@
           "url": "https://flash.jin10.com/detail/20251017140925500800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时48分]"
         },
         {
           "title": "美联储人员发现 开曼群岛对冲基金的美债持仓数据出入达1.4万亿美元",
@@ -1680,8 +1683,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -1693,11 +1696,12 @@
             13,
             8,
             15,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时48分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -1708,11 +1712,12 @@
             13,
             21,
             17,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 14时48分]"
         },
         {
           "title": "iPhoneAir正式开售",
@@ -1732,11 +1737,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 14时48分]"
         }
       ]
     },
@@ -1928,8 +1934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 14时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 14时48分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -1962,8 +1968,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时32分 ~ 14时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时32分 ~ 14时48分]"
         }
       ]
     }
