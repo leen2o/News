@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T19:39:13.619865+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2025-10-17T20:32:25.394841+08:00",
+  "total_titles_processed": 2133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 140,
+      "match_count": 143,
       "titles": [
         {
           "title": "特朗普：可能会在未来两周内与普京会面",
@@ -21,6 +21,18 @@
           "time_info": "[07时38分 ~ 16时47分]"
         },
         {
+          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
+          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 20时32分]"
+        },
+        {
           "title": "普京三板斧，轻松搞定特朗普",
           "url": "https://news.ifeng.com/c/8nW9pmO1Xsq",
           "source": "凤凰网",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[09时10分 ~ 16时47分]"
-        },
-        {
-          "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
-          "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时24分 ~ 19时39分]"
         },
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -83,21 +83,15 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
-          "title": "普京特朗普通话细节",
-          "url": "https://www.douyin.com/hot/2272619",
-          "source": "抖音",
+          "title": "特朗普：美国也需要，不能把家底掏空",
+          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            5,
-            1,
-            11,
-            10,
-            20,
-            18
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时40分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 20时32分]"
         },
         {
           "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
@@ -115,15 +109,22 @@
           "time_info": "[07时15分 ~ 15时39分]"
         },
         {
-          "title": "特朗普：美国也需要，不能把家底掏空",
-          "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
-          "source": "凤凰网",
+          "title": "普京特朗普通话细节",
+          "url": "https://www.douyin.com/hot/2272619",
+          "source": "抖音",
           "ranks": [
-            1
+            2,
+            5,
+            1,
+            11,
+            10,
+            20,
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时43分 ~ 19时39分]"
+          "appearance_count": 19,
+          "time_info": "[13时40分 ~ 20时32分]"
         },
         {
           "title": "特朗普与普京约定在匈牙利会面",
@@ -136,11 +137,12 @@
             13,
             26,
             24,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时46分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时46分 ~ 20时32分]"
         },
         {
           "title": "博尔顿遭起诉，特朗普：他是个坏人",
@@ -180,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时26分 ~ 19时39分]"
+          "appearance_count": 17,
+          "time_info": "[14时26分 ~ 20时32分]"
         },
         {
           "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
@@ -208,6 +210,20 @@
           "time_info": "[00时22分 ~ 04时41分]"
         },
         {
+          "title": "泽连斯基可能得再次从头说服特朗普",
+          "url": "https://www.toutiao.com/trending/7561736617245838889/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时41分 ~ 20时32分]"
+        },
+        {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
           "url": "https://wallstreetcn.com/articles/3757333",
           "source": "华尔街见闻",
@@ -217,8 +233,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时46分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时46分 ~ 20时32分]"
         },
         {
           "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
@@ -241,11 +257,12 @@
             16,
             14,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时46分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时46分 ~ 20时32分]"
         },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
@@ -274,19 +291,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[02时50分 ~ 07时15分]"
-        },
-        {
-          "title": "泽连斯基可能得再次从头说服特朗普",
-          "url": "https://www.toutiao.com/trending/7561736617245838889/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时41分 ~ 19时39分]"
         },
         {
           "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
@@ -438,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "如何看待特朗普表示，必须要给美国军人发工资？",
+          "url": "https://www.zhihu.com/question/1960659087441264793",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
@@ -1274,7 +1289,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -1455,6 +1470,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国白宫经济委员会主任Hassett：预计三次降息只是一个开始。 没有理由无法持续4%的增长。 如果周末后政府继续停摆，特朗普将加大行动力度。",
+          "url": "https://wallstreetcn.com/livenews/2989738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：总统特朗普认为与俄罗斯总统普京的通话取得了进展。",
           "url": "https://flash.jin10.com/detail/20251017011514598800",
           "source": "金十数据",
@@ -1475,6 +1501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：如果停摆持续到本周末之后，可以预计美国总统特朗普将加大行动力度。",
+          "url": "https://flash.jin10.com/detail/20251017193839202800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "克里姆林宫证实普京与特朗普的通话正在进行中。",
@@ -1678,7 +1715,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -1752,6 +1789,17 @@
           "time_info": "[00时47分 ~ 02时50分]"
         },
         {
+          "title": "金价暴涨时4万5黄金订单蒸发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26band_rank%3D4%26display_time%3D1760704127%26pre_seqid%3D176070412752302735355159",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "金十图示：2025年10月17日（周五）上海金早盘价为990.35元/克，较国际金价(991.18元/克)，低0.83元/克",
           "url": "https://flash.jin10.com/detail/20251017102909542800",
           "source": "金十数据",
@@ -1761,6 +1809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 20时32分]"
         },
         {
           "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
@@ -1787,17 +1846,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时18分 ~ 19时16分]"
-        },
-        {
-          "title": "金价暴涨有新人用“金包银”省5万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 19时39分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -1837,6 +1885,18 @@
           "time_info": "[13时40分 ~ 14时26分]"
         },
         {
+          "title": "国内金价突破千元大关 机构密集预警",
+          "url": "https://www.toutiao.com/trending/7562135310537068041/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 20时32分]"
+        },
+        {
           "title": "担忧美国地区银行潜在风险 金价有望创5年来最大单周涨幅",
           "url": "https://flash.jin10.com/detail/20251017065150740800",
           "source": "金十数据",
@@ -1858,17 +1918,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时15分]"
-        },
-        {
-          "title": "国内金价突破千元大关 机构密集预警",
-          "url": "https://www.toutiao.com/trending/7562135310537068041/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "专家：金价到5000美元将比预期快",
@@ -1908,7 +1957,7 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1918,8 +1967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时10分 ~ 19时39分]"
+          "appearance_count": 27,
+          "time_info": "[09时10分 ~ 20时32分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1996,6 +2045,17 @@
           "time_info": "[14时26分 ~ 15时17分]"
         },
         {
+          "title": "贸易担忧缓解，美股三大期指短线拉升，富时中国A50涨超0.6%，美股区域银行股盘前走高，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美联储人员发现 开曼群岛对冲基金的美债持仓数据出入达1.4万亿美元",
           "url": "https://wallstreetcn.com/livenews/2989438",
           "source": "华尔街见闻-快讯",
@@ -2052,8 +2112,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时46分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时46分 ~ 20时32分]"
         },
         {
           "title": "超薄iPhoneAir续航如何",
@@ -2073,8 +2133,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时21分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[12时21分 ~ 20时32分]"
         },
         {
           "title": "国行iPhone Air测评",
@@ -2093,8 +2153,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时46分 ~ 19时39分]"
+          "appearance_count": 26,
+          "time_info": "[10时46分 ~ 20时32分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -2401,6 +2461,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[11时32分 ~ 17时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
+          "url": "https://flash.jin10.com/detail/20251017200137863800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
