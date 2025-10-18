@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:41:27.313019+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-10-18T13:15:09.255162+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[00时19分 ~ 04时26分]"
         },
         {
+          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
+          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
           "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
           "source": "凤凰网",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时41分 ~ 09时07分]"
-        },
-        {
-          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
-          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 12时41分]"
         },
         {
           "title": "特朗普又被告",
@@ -83,11 +83,26 @@
             5,
             23,
             22,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时19分 ~ 12时41分]"
+          "appearance_count": 31,
+          "time_info": "[00时19分 ~ 13时15分]"
+        },
+        {
+          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            2,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 13时15分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -173,17 +188,28 @@
           "time_info": "[04时26分 ~ 09时07分]"
         },
         {
-          "title": "泽连斯基穿上正装 特朗普：我很喜欢",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
-          "source": "百度热搜",
+          "title": "可怜的泽连斯基，又被特朗普戏弄了",
+          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            2,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 12时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 13时15分]"
+        },
+        {
+          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
+          "url": "https://www.cls.cn/detail/2173372",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 13时15分]"
         },
         {
           "title": "俄方发起、长2.5小时，俄美总统时隔近两月再通话，特朗普将与普京在布达佩斯会面",
@@ -195,6 +221,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 02时46分]"
+        },
+        {
+          "title": "特朗普为何在对华关税问题上态度变软",
+          "url": "https://www.toutiao.com/trending/7562386513762192937/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 13时15分]"
         },
         {
           "title": "特朗普对进口中型和重型卡车收25%税",
@@ -212,6 +251,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时38分 ~ 12时41分]"
+        },
+        {
+          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 13时15分]"
         },
         {
           "title": "市场消息：“海军陆战队一号” 直升机停在白宫准备送特朗普离开，但在起飞时其并未载上总统本人。",
@@ -259,22 +310,49 @@
           "ranks": [
             1,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时15分]"
         },
         {
-          "title": "可怜的泽连斯基，又被特朗普戏弄了",
-          "url": "https://news.ifeng.com/c/8nXp14yHSEN",
+          "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
+          "url": "https://news.ifeng.com/c/8nXoNWTk2lG",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 13时15分]"
+        },
+        {
+          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
+          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 13时15分]"
+        },
+        {
+          "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
+          "url": "https://flash.jin10.com/detail/20251018091242251800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            11,
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时40分 ~ 12时41分]"
+          "time_info": "[10时40分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -289,6 +367,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
+          "url": "https://wallstreetcn.com/livenews/2989995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 13时15分]"
         },
         {
           "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
@@ -316,18 +408,6 @@
           "time_info": "[02时23分 ~ 02时46分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
-          "url": "https://www.cls.cn/detail/2173372",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 12时41分]"
-        },
-        {
           "title": "美国总统特朗普：我告诉乌克兰总统泽连斯基，是时候（与俄罗斯）达成一份协议了。",
           "url": "https://wallstreetcn.com/livenews/2989907",
           "source": "华尔街见闻-快讯",
@@ -342,43 +422,19 @@
           "time_info": "[05时16分 ~ 07时38分]"
         },
         {
-          "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
-          "url": "https://flash.jin10.com/detail/20251018091242251800",
+          "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
+          "url": "https://flash.jin10.com/detail/20251018084832379800",
           "source": "金十数据",
           "ranks": [
-            5,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 12时41分]"
-        },
-        {
-          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
+            10,
+            13,
+            16,
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
-          "url": "https://wallstreetcn.com/livenews/2989995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 12时41分]"
+          "time_info": "[10时40分 ~ 13时15分]"
         },
         {
           "title": "泽连斯基建议用乌克兰无人机换取美制“战斧”导弹，特朗普称美国也需要“战斧”",
@@ -394,29 +450,6 @@
           "time_info": "[06时15分 ~ 07时38分]"
         },
         {
-          "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
-          "url": "https://news.ifeng.com/c/8nXoNWTk2lG",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普为何在对华关税问题上态度变软",
-          "url": "https://www.toutiao.com/trending/7562386513762192937/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 12时41分]"
-        },
-        {
           "title": "特朗普签署行政令，对进口中型和重型卡车征收25%关税",
           "url": "https://wallstreetcn.com/livenews/2989934",
           "source": "华尔街见闻-快讯",
@@ -427,31 +460,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时07分]"
-        },
-        {
-          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
-          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
-          "url": "https://flash.jin10.com/detail/20251018084832379800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 12时41分]"
         },
         {
           "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -838,7 +846,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -920,8 +928,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 12时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时40分 ~ 13时15分]"
         },
         {
           "title": "金价涨了 金条能变现吗",
@@ -1081,6 +1089,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 13时15分]"
+        },
+        {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
@@ -1091,17 +1110,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时19分 ~ 07时16分]"
-        },
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时38分 ~ 12时41分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
@@ -1131,19 +1139,31 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/livenews/2990011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
         {
           "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
           "url": "https://wallstreetcn.com/livenews/2989997",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时15分]"
         },
         {
           "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
@@ -1155,6 +1175,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
+          "url": "https://flash.jin10.com/detail/20251018034405343800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            28,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时26分 ~ 09时07分]"
+        },
+        {
+          "title": "伊朗说安理会2231号决议按期正式终止",
+          "url": "https://wallstreetcn.com/livenews/2990010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
+          "url": "https://wallstreetcn.com/livenews/2989940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         }
       ]
     },
@@ -1190,36 +1251,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外长：安理会第2231号决议18日到期 既往对伊限制将终止",
-          "url": "https://flash.jin10.com/detail/20251018034405343800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时26分 ~ 09时07分]"
-        },
-        {
-          "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
-          "url": "https://wallstreetcn.com/livenews/2989940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1235,8 +1266,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时15分 ~ 12时41分]"
+          "appearance_count": 14,
+          "time_info": "[06时15分 ~ 13时15分]"
         }
       ]
     },
