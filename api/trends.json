@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-18T16:19:48.618311+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-10-18T16:44:43.206244+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
-        {
-          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
-          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 16时19分]"
-        },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
           "url": "https://news.ifeng.com/c/8nWeYYSYxvH",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时19分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
+          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 16时44分]"
         },
         {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
@@ -97,11 +98,12 @@
             14,
             17,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时26分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时26分 ~ 16时44分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -121,8 +123,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时19分 ~ 16时19分]"
+          "appearance_count": 39,
+          "time_info": "[00时19分 ~ 16时44分]"
         },
         {
           "title": "可怜的泽连斯基，又被特朗普戏弄了",
@@ -174,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时40分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 16时44分]"
         },
         {
           "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
@@ -186,8 +188,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时26分 ~ 16时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时26分 ~ 16时44分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -256,8 +258,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时40分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 16时44分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -392,11 +394,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 16时44分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -452,6 +455,17 @@
           "time_info": "[05时16分 ~ 07时38分]"
         },
         {
+          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
+          "url": "https://news.ifeng.com/c/8nYLhA743YV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
           "url": "https://flash.jin10.com/detail/20251018084832379800",
           "source": "金十数据",
@@ -467,6 +481,17 @@
           "time_info": "[10时40分 ~ 13时15分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 16时44分]"
+        },
+        {
           "title": "泽连斯基建议用乌克兰无人机换取美制“战斧”导弹，特朗普称美国也需要“战斧”",
           "url": "https://wallstreetcn.com/livenews/2989922",
           "source": "华尔街见闻-快讯",
@@ -480,6 +505,17 @@
           "time_info": "[06时15分 ~ 07时38分]"
         },
         {
+          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
+          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 16时44分]"
+        },
+        {
           "title": "特朗普签署行政令，对进口中型和重型卡车征收25%关税",
           "url": "https://wallstreetcn.com/livenews/2989934",
           "source": "华尔街见闻-快讯",
@@ -490,6 +526,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时07分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
+          "url": "https://wallstreetcn.com/livenews/2990025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 16时44分]"
         },
         {
           "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -532,28 +593,6 @@
           "time_info": "[10时40分 ~ 12时19分]"
         },
         {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
-          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
           "title": "英国央行货币政策委员会(MPC)委员Greene：央行货币政策并不具有实质性的限制性。 应当放慢降息周期。 核心通胀和服务通长痘呈现出单边走势。 担心（美国总统特朗普挑起的关税的）第二轮（通胀）效应。 企业对意外的通胀上行变得更加敏感。",
           "url": "https://wallstreetcn.com/livenews/2989829",
           "source": "华尔街见闻-快讯",
@@ -565,19 +604,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时41分]"
-        },
-        {
-          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
-          "url": "https://wallstreetcn.com/livenews/2990025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时19分]"
         },
         {
           "title": "特朗普再次宣称：印度不会购买俄罗斯石油",
@@ -670,6 +696,19 @@
           "time_info": "[09时07分 ~ 11时45分]"
         },
         {
+          "title": "若特朗普关税被判“非法”意味什么",
+          "url": "https://www.toutiao.com/trending/7562451405152194084/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时44分]"
+        },
+        {
           "title": "特朗普不打算给乌战斧导弹意味什么",
           "url": "https://www.toutiao.com/trending/7562388320357977663/",
           "source": "今日头条",
@@ -759,18 +798,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时46分]"
-        },
-        {
-          "title": "若特朗普关税被判“非法”意味什么",
-          "url": "https://www.toutiao.com/trending/7562451405152194084/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时19分]"
         },
         {
           "title": "美国总统特朗普：（谈及从俄罗斯通往阿拉斯加的隧道）我们得考虑一下这个问题。",
@@ -906,6 +933,17 @@
           "time_info": "[02时23分 ~ 02时46分]"
         },
         {
+          "title": "特朗普回应与中国贸易战",
+          "url": "https://www.douyin.com/hot/2274021",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "特朗普贸易顾问纳瓦罗：我们不认为关税会提高制造业成本。",
           "url": "https://flash.jin10.com/detail/20251017223116931800",
           "source": "金十数据",
@@ -975,7 +1013,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价暴涨时4万5黄金订单蒸发",
@@ -1005,8 +1043,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时40分 ~ 16时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时40分 ~ 16时44分]"
         },
         {
           "title": "金价",
@@ -1073,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 10时40分]"
+        },
+        {
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "金价暴涨有新人用“金包银”省5万",
@@ -1200,11 +1249,12 @@
             10,
             15,
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 16时44分]"
         },
         {
           "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
@@ -1230,22 +1280,24 @@
             3,
             8,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 16时44分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 16时44分]"
         },
         {
           "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
@@ -1272,8 +1324,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时38分 ~ 16时19分]"
+          "appearance_count": 18,
+          "time_info": "[07时38分 ~ 16时44分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1340,11 +1392,12 @@
             11,
             16,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 16时44分]"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
