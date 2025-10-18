@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T15:38:23.632400+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-10-18T16:19:48.618311+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 15时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时07分 ~ 16时19分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -96,11 +96,12 @@
             13,
             14,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时26分 ~ 15时38分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 16时19分]"
         },
         {
           "title": "泽连斯基可能得再次从头说服特朗普",
@@ -120,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时19分 ~ 15时38分]"
+          "appearance_count": 38,
+          "time_info": "[00时19分 ~ 16时19分]"
         },
         {
           "title": "可怜的泽连斯基，又被特朗普戏弄了",
@@ -173,8 +174,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 15时38分]"
+          "appearance_count": 15,
+          "time_info": "[10时40分 ~ 16时19分]"
         },
         {
           "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
@@ -185,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 15时38分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 16时19分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -255,8 +256,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 15时38分]"
+          "appearance_count": 15,
+          "time_info": "[10时40分 ~ 16时19分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -390,11 +391,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时19分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -530,6 +532,28 @@
           "time_info": "[10时40分 ~ 12时19分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
+          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 16时19分]"
+        },
+        {
           "title": "英国央行货币政策委员会(MPC)委员Greene：央行货币政策并不具有实质性的限制性。 应当放慢降息周期。 核心通胀和服务通长痘呈现出单边走势。 担心（美国总统特朗普挑起的关税的）第二轮（通胀）效应。 企业对意外的通胀上行变得更加敏感。",
           "url": "https://wallstreetcn.com/livenews/2989829",
           "source": "华尔街见闻-快讯",
@@ -548,11 +572,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时19分]"
         },
         {
           "title": "特朗普再次宣称：印度不会购买俄罗斯石油",
@@ -645,28 +670,6 @@
           "time_info": "[09时07分 ~ 11时45分]"
         },
         {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 15时38分]"
-        },
-        {
-          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
-          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 15时38分]"
-        },
-        {
           "title": "特朗普不打算给乌战斧导弹意味什么",
           "url": "https://www.toutiao.com/trending/7562388320357977663/",
           "source": "今日头条",
@@ -756,6 +759,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时46分]"
+        },
+        {
+          "title": "若特朗普关税被判“非法”意味什么",
+          "url": "https://www.toutiao.com/trending/7562451405152194084/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时19分]"
         },
         {
           "title": "美国总统特朗普：（谈及从俄罗斯通往阿拉斯加的隧道）我们得考虑一下这个问题。",
@@ -946,17 +961,6 @@
           "time_info": "13时40分"
         },
         {
-          "title": "若特朗普关税被判“非法”意味什么",
-          "url": "https://www.toutiao.com/trending/7562451405152194084/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
           "title": "特朗普与泽连斯基再度会面 就美供乌“战斧”等问题表态",
           "url": "https://flash.jin10.com/detail/20251018022430142800",
           "source": "金十数据",
@@ -1001,8 +1005,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时40分 ~ 15时38分]"
+          "appearance_count": 15,
+          "time_info": "[10时40分 ~ 16时19分]"
         },
         {
           "title": "金价",
@@ -1195,11 +1199,12 @@
             4,
             10,
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
@@ -1224,11 +1229,23 @@
           "ranks": [
             3,
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 15时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 16时19分]"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时19分]"
         },
         {
           "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
@@ -1240,17 +1257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         }
       ]
     },
@@ -1266,8 +1272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时38分 ~ 15时38分]"
+          "appearance_count": 17,
+          "time_info": "[07时38分 ~ 16时19分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1333,11 +1339,12 @@
             5,
             11,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 16时19分]"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
