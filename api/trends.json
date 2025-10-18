@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T15:16:16.551437+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-10-18T15:38:23.632400+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时07分 ~ 15时16分]"
+          "appearance_count": 15,
+          "time_info": "[09时07分 ~ 15时38分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -84,6 +84,25 @@
           "time_info": "[09时07分 ~ 14时21分]"
         },
         {
+          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
+          "url": "https://flash.jin10.com/detail/20251018110617886800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            6,
+            7,
+            8,
+            13,
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时26分 ~ 15时38分]"
+        },
+        {
           "title": "泽连斯基可能得再次从头说服特朗普",
           "url": "https://www.toutiao.com/trending/7561736617245838889/",
           "source": "今日头条",
@@ -101,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时19分 ~ 15时16分]"
+          "appearance_count": 37,
+          "time_info": "[00时19分 ~ 15时38分]"
         },
         {
           "title": "可怜的泽连斯基，又被特朗普戏弄了",
@@ -154,26 +173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时40分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
-          "url": "https://flash.jin10.com/detail/20251018110617886800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            6,
-            7,
-            8,
-            13,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 15时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时40分 ~ 15时38分]"
         },
         {
           "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
@@ -184,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时26分 ~ 15时38分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -254,8 +255,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时40分 ~ 15时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时40分 ~ 15时38分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -384,6 +385,18 @@
           "time_info": "[10时40分 ~ 13时40分]"
         },
         {
+          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
+          "url": "https://flash.jin10.com/detail/20251018144513725800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时38分]"
+        },
+        {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
           "url": "https://wallstreetcn.com/livenews/2989865",
           "source": "华尔街见闻-快讯",
@@ -437,17 +450,6 @@
           "time_info": "[05时16分 ~ 07时38分]"
         },
         {
-          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
-          "url": "https://flash.jin10.com/detail/20251018144513725800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
           "url": "https://flash.jin10.com/detail/20251018084832379800",
           "source": "金十数据",
@@ -486,17 +488,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时07分]"
-        },
-        {
-          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
-          "url": "https://wallstreetcn.com/livenews/2990025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -550,6 +541,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时41分]"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
+          "url": "https://wallstreetcn.com/livenews/2990025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时38分]"
         },
         {
           "title": "特朗普再次宣称：印度不会购买俄罗斯石油",
@@ -642,6 +645,28 @@
           "time_info": "[09时07分 ~ 11时45分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 15时38分]"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
+          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 15时38分]"
+        },
+        {
           "title": "特朗普不打算给乌战斧导弹意味什么",
           "url": "https://www.toutiao.com/trending/7562388320357977663/",
           "source": "今日头条",
@@ -652,28 +677,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时18分 ~ 12时41分]"
-        },
-        {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
-        },
-        {
-          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
-          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 15时16分]"
         },
         {
           "title": "特朗普签署行政令 对进口中型和重型卡车征收25%关税",
@@ -943,6 +946,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "若特朗普关税被判“非法”意味什么",
+          "url": "https://www.toutiao.com/trending/7562451405152194084/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "特朗普与泽连斯基再度会面 就美供乌“战斧”等问题表态",
           "url": "https://flash.jin10.com/detail/20251018022430142800",
           "source": "金十数据",
@@ -987,8 +1001,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时40分 ~ 15时16分]"
+          "appearance_count": 14,
+          "time_info": "[10时40分 ~ 15时38分]"
         },
         {
           "title": "金价",
@@ -1170,7 +1184,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -1180,11 +1194,12 @@
             1,
             4,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 15时38分]"
         },
         {
           "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
@@ -1208,11 +1223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 15时38分]"
         },
         {
           "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
@@ -1224,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -1239,8 +1266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时38分 ~ 15时16分]"
+          "appearance_count": 16,
+          "time_info": "[07时38分 ~ 15时38分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -1305,11 +1332,12 @@
             2,
             5,
             11,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 15时38分]"
         },
         {
           "title": "伊朗外长：安理会第2231号决议18日到期，既往对伊限制将终止",
