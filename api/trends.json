@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T18:41:26.242859+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2025-10-18T19:13:01.151504+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时07分 ~ 18时41分]"
+          "appearance_count": 25,
+          "time_info": "[09时07分 ~ 19时13分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -43,6 +43,28 @@
           "time_info": "[00时19分 ~ 04时26分]"
         },
         {
+          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
+          "url": "https://news.ifeng.com/c/8nYLhA743YV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 19时13分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普会见泽连斯基，就美供乌“战斧”等问题表态",
           "url": "https://news.ifeng.com/c/8nXKVRZM8ip",
           "source": "凤凰网",
@@ -53,17 +75,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时41分 ~ 09时07分]"
-        },
-        {
-          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
-          "url": "https://news.ifeng.com/c/8nYLhA743YV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 18时41分]"
         },
         {
           "title": "特朗普为何在对华关税问题上态度变软",
@@ -80,17 +91,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时18分 ~ 15时16分]"
-        },
-        {
-          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
-          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 18时41分]"
         },
         {
           "title": "泽连斯基穿上正装 特朗普：我很喜欢",
@@ -118,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时40分 ~ 18时41分]"
+          "appearance_count": 24,
+          "time_info": "[10时40分 ~ 19时13分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -164,6 +164,17 @@
           "time_info": "[00时19分 ~ 16时44分]"
         },
         {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时15分 ~ 19时13分]"
+        },
+        {
           "title": "可怜的泽连斯基，又被特朗普戏弄了",
           "url": "https://news.ifeng.com/c/8nXp14yHSEN",
           "source": "凤凰网",
@@ -173,17 +184,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时40分 ~ 14时47分]"
-        },
-        {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时15分 ~ 18时41分]"
         },
         {
           "title": "特朗普又被告",
@@ -203,6 +203,25 @@
           "time_info": "[00时19分 ~ 10时40分]"
         },
         {
+          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
+          "url": "https://flash.jin10.com/detail/20251018144513725800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            5,
+            7,
+            11,
+            12,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
           "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
           "source": "凤凰网",
@@ -210,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时15分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[15时15分 ~ 19时13分]"
         },
         {
           "title": "特朗普：美或不提供“战斧”、排除美俄乌三方会晤",
@@ -233,8 +252,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时26分 ~ 18时41分]"
+          "appearance_count": 23,
+          "time_info": "[11时26分 ~ 19时13分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -304,8 +323,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时40分 ~ 18时41分]"
+          "appearance_count": 24,
+          "time_info": "[10时40分 ~ 19时13分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -320,22 +339,16 @@
           "time_info": "[17时16分 ~ 18时17分]"
         },
         {
-          "title": "俄总统代表提议建“普京-特朗普隧道” 乌总统称“不满意”",
-          "url": "https://flash.jin10.com/detail/20251018144513725800",
-          "source": "金十数据",
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
           "ranks": [
-            1,
-            4,
-            5,
-            7,
-            11,
-            12,
-            14,
-            16
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 19时13分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -450,17 +463,6 @@
           "time_info": "[04时26分 ~ 07时38分]"
         },
         {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 18时41分]"
-        },
-        {
           "title": "Salesforce的首席执行官（CEO）为自己说“美国总统特朗普应当向旧金山派遣国民警卫队”道歉。",
           "url": "https://wallstreetcn.com/livenews/2989900",
           "source": "华尔街见闻-快讯",
@@ -492,6 +494,18 @@
           "time_info": "[10时40分 ~ 13时40分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
+          "url": "https://flash.jin10.com/detail/20251018175601637800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时13分]"
+        },
+        {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
           "url": "https://wallstreetcn.com/livenews/2989865",
           "source": "华尔街见闻-快讯",
@@ -504,6 +518,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://wallstreetcn.com/livenews/2990050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "特朗普政府对美国纽约市等多地暂停110亿美元项目拨款。",
@@ -545,17 +573,6 @@
           "time_info": "[05时16分 ~ 07时38分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-18）",
-          "url": "https://flash.jin10.com/detail/20251018175601637800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
           "title": "特朗普呼吁俄乌“就地”停火、各自宣称胜利",
           "url": "https://flash.jin10.com/detail/20251018084832379800",
           "source": "金十数据",
@@ -584,19 +601,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时38分 ~ 17时38分]"
-        },
-        {
-          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://wallstreetcn.com/livenews/2990050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 18时41分]"
         },
         {
           "title": "泽连斯基建议用乌克兰无人机换取美制“战斧”导弹，特朗普称美国也需要“战斧”",
@@ -729,6 +733,18 @@
           "time_info": "[04时26分 ~ 05时38分]"
         },
         {
+          "title": "特朗普回应与中国贸易战",
+          "url": "https://www.douyin.com/hot/2274021",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 19时13分]"
+        },
+        {
           "title": "特朗普见泽连斯基，排除美俄乌三方会",
           "url": "https://wallstreetcn.com/livenews/2989921",
           "source": "华尔街见闻-快讯",
@@ -811,18 +827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 02时46分]"
-        },
-        {
-          "title": "特朗普回应与中国贸易战",
-          "url": "https://www.douyin.com/hot/2274021",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 18时41分]"
         },
         {
           "title": "美国总统特朗普：普京本应该在一周内赢得这场战争。",
@@ -1075,6 +1079,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时44分 ~ 19时13分]"
+        },
+        {
           "title": "金价暴涨时4万5黄金订单蒸发",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26stream_entry_id%3D31%26flag%3D0%26realpos%3D9%26dgr%3D0%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
           "source": "微博",
@@ -1105,19 +1122,6 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[10时40分 ~ 18时41分]"
-        },
-        {
-          "title": "金价银价大跳水 国内金饰价格下调",
-          "url": "https://www.toutiao.com/trending/7562444745599880713/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 18时41分]"
         },
         {
           "title": "金价",
@@ -1175,6 +1179,18 @@
           "time_info": "[00时19分 ~ 01时41分]"
         },
         {
+          "title": "黄金价格“抛物线式”上涨",
+          "url": "https://www.toutiao.com/trending/7562476629914553883/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 19时13分]"
+        },
+        {
           "title": "产量释放与金价红利共振，紫金矿业Q3归母净利润飙升57.14%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3757394",
           "source": "华尔街见闻",
@@ -1184,17 +1200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 10时40分]"
-        },
-        {
-          "title": "黄金价格“抛物线式”上涨",
-          "url": "https://www.toutiao.com/trending/7562476629914553883/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "金价暴涨有新人用“金包银”省5万",
@@ -1237,6 +1242,20 @@
       "titles": [
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 19时13分]"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/livenews/2990011",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -1251,20 +1270,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时15分 ~ 16时44分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时38分 ~ 18时41分]"
         },
         {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
@@ -1305,11 +1310,12 @@
           "ranks": [
             6,
             11,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时13分]"
         },
         {
           "title": "本周，标普反弹约1.6%，道指累涨约1.6%，纳指反弹约2.1%。 周五当天，标普500指数初步收涨0.5%，日用消费品板块涨约1.2%，金融、电信、能源板块至多涨0.9%，科技板块涨0.3%，原材料板块跌0.3%。 纳斯达克100指数初步收涨0.7%，成分股中，吉利德科学初步收涨3.7%，Axon和Workday涨3%，特斯拉、财捷、MSTR涨超2%，苹果涨1.9%，AMD则跌0.5%，亚马逊跌0.7%，博通和恩智浦跌1.3%，核电概念股CEG跌2.3%，Arm控股跌3.1%。 地区银行指数反弹1.9%，费城银行指数涨0.6%。",
@@ -1413,8 +1419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[07时38分 ~ 18时41分]"
+          "appearance_count": 26,
+          "time_info": "[07时38分 ~ 19时13分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
