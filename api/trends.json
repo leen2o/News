@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T18:40:46.811758+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2025-10-19T19:17:32.700304+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时49分 ~ 18时40分]"
+          "appearance_count": 19,
+          "time_info": "[11时49分 ~ 19时17分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -62,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时44分 ~ 18时40分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 19时17分]"
         },
         {
           "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时20分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[09时20分 ~ 19时17分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -111,8 +111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时19分 ~ 18时40分]"
+          "appearance_count": 41,
+          "time_info": "[00时19分 ~ 19时17分]"
         },
         {
           "title": "美国多地爆发反特朗普集会",
@@ -154,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 18时40分]"
+          "appearance_count": 15,
+          "time_info": "[13时40分 ~ 19时17分]"
         },
         {
           "title": "特朗普团队曾商议亚洲行会晤金正恩",
@@ -271,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时19分 ~ 18时40分]"
+          "appearance_count": 41,
+          "time_info": "[00时19分 ~ 19时17分]"
         },
         {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
@@ -379,6 +379,30 @@
           "time_info": "[11时49分 ~ 15时38分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时17分]"
+        },
+        {
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 19时17分]"
+        },
+        {
           "title": "美媒：普京在与特朗普的通话中“要求乌克兰交出关键领土”",
           "url": "https://flash.jin10.com/detail/20251019095513376800",
           "source": "金十数据",
@@ -394,29 +418,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时00分 ~ 14时47分]"
-        },
-        {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 18时40分]"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 18时40分]"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -464,6 +465,18 @@
           "time_info": "[11时00分 ~ 14时22分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普建议俄乌以现在战线为准停火",
           "url": "https://www.toutiao.com/trending/7562417606767853604/",
           "source": "今日头条",
@@ -490,17 +503,6 @@
           "time_info": "14时22分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
-          "url": "https://flash.jin10.com/detail/20251019180608570800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "特朗普政府“调整”关税策略",
           "url": "https://www.toutiao.com/trending/7562753652985695754/",
           "source": "今日头条",
@@ -515,6 +517,19 @@
           "time_info": "[11时00分 ~ 12时44分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 19时17分]"
+        },
+        {
           "title": "特朗普极限施压为何总在中国面前熄火",
           "url": "https://www.toutiao.com/trending/7562720619259760178/",
           "source": "今日头条",
@@ -525,18 +540,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时15分 ~ 15时15分]"
-        },
-        {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 18时40分]"
         },
         {
           "title": "特朗普口中的美军行动有多离谱",
@@ -666,8 +669,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时43分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时43分 ~ 19时17分]"
         },
         {
           "title": "金价狂飙 “租三金”结婚成新选择",
@@ -677,8 +680,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时43分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[16时43分 ~ 19时17分]"
         },
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -689,8 +692,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 19时17分]"
         },
         {
           "title": "金价涨了 印度人节日买金习惯变了",
@@ -698,11 +701,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时17分]"
         }
       ]
     },
@@ -846,11 +850,12 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时19分 ~ 18时40分]"
+          "appearance_count": 41,
+          "time_info": "[00时19分 ~ 19时17分]"
         }
       ]
     },
@@ -870,11 +875,12 @@
             12,
             17,
             25,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 19时17分]"
         }
       ]
     },
