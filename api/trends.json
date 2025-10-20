@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T21:28:57.686090+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2025-10-20T21:47:27.257166+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
@@ -162,6 +162,20 @@
           "time_info": "[00时18分 ~ 06时39分]"
         },
         {
+          "title": "曝特朗普与泽连斯基再度激烈争吵",
+          "url": "https://www.douyin.com/hot/2276127",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时20分 ~ 21时47分]"
+        },
+        {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
           "url": "https://wallstreetcn.com/livenews/2990207",
           "source": "华尔街见闻-快讯",
@@ -211,19 +225,6 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
-          "title": "曝特朗普与泽连斯基再度激烈争吵",
-          "url": "https://www.douyin.com/hot/2276127",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 20时35分]"
-        },
-        {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
           "url": "https://wallstreetcn.com/livenews/2990206",
           "source": "华尔街见闻-快讯",
@@ -260,8 +261,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时15分 ~ 21时28分]"
+          "appearance_count": 28,
+          "time_info": "[09时15分 ~ 21时47分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -272,8 +273,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时51分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[14时51分 ~ 21时47分]"
         },
         {
           "title": "特朗普与泽连斯基再度激烈争吵",
@@ -486,8 +487,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时17分 ~ 21时28分]"
+          "appearance_count": 49,
+          "time_info": "[00时17分 ~ 21时47分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -655,11 +656,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时45分 ~ 21时28分]"
+          "appearance_count": 7,
+          "time_info": "[18时45分 ~ 21时47分]"
         },
         {
           "title": "特朗普专机着陆机场附近现可疑物",
@@ -700,6 +702,17 @@
           "time_info": "[09时15分 ~ 11时49分]"
         },
         {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时47分]"
+        },
+        {
           "title": "据韩国《每日经济新闻》：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20251020171504774800",
           "source": "金十数据",
@@ -709,6 +722,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时44分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时45分 ~ 21时47分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -762,6 +789,18 @@
           "time_info": "[14时25分 ~ 16时22分]"
         },
         {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时47分]"
+        },
+        {
           "title": "特朗普：愿降低关税水平，但中方也需做出让步",
           "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
           "source": "凤凰网",
@@ -771,17 +810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "特朗普对中国列出三大问题，中方表态",
-          "url": "https://news.ifeng.com/c/8nbema1wupK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -797,20 +825,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时38分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时45分 ~ 21时28分]"
         },
         {
           "title": "美国副总统万斯：美国总统特朗普尚未决定向乌克兰提供战斧导弹。",
@@ -833,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
-        },
-        {
-          "title": "特朗普称顿巴斯78%地区已被俄控制",
-          "url": "https://www.toutiao.com/trending/7563092838465241151/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
@@ -970,6 +973,19 @@
           "time_info": "[19时15分 ~ 20时35分]"
         },
         {
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时47分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
           "url": "https://flash.jin10.com/detail/20251020054917939800",
           "source": "金十数据",
@@ -1021,16 +1037,15 @@
           "time_info": "[13时42分 ~ 14时51分]"
         },
         {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://wallstreetcn.com/livenews/2990704",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 21时47分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普会晤后，我的立场是“我们在前线的立场依然坚定”。",
@@ -1088,6 +1103,17 @@
           "time_info": "[09时15分 ~ 09时16分]"
         },
         {
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://flash.jin10.com/detail/20251020204856915800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时47分]"
+        },
+        {
           "title": "美国总统特朗普：我不是国王，我拼命工作，努力让我们的国家变得伟大。仅此而已。我根本就不是国王。（周末美国多地再次举行“不要国王”大规模抗议活动）",
           "url": "https://flash.jin10.com/detail/20251020083819983800",
           "source": "金十数据",
@@ -1130,17 +1156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
-        },
-        {
-          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
-          "url": "https://wallstreetcn.com/livenews/2990704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "美国总统特朗普：印度总理莫迪曾告诉我，他不会参与俄罗斯的石油交易。",
@@ -1253,17 +1268,6 @@
           "time_info": "16时22分"
         },
         {
-          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
-          "url": "https://flash.jin10.com/detail/20251020204856915800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "俄罗斯副外长：俄罗斯现在的主要任务是向美国传达普京和特朗普在阿拉斯加的会晤已经确定了开展工作的框架，没有其他选择。",
           "url": "https://flash.jin10.com/detail/20251020193641757800",
           "source": "金十数据",
@@ -1341,8 +1345,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时49分 ~ 21时28分]"
+          "appearance_count": 24,
+          "time_info": "[11时49分 ~ 21时47分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -1359,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[11时49分 ~ 16时47分]"
+        },
+        {
+          "title": "伊朗北部发生4.4级地震",
+          "url": "https://flash.jin10.com/detail/20251020211508398800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时47分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -1396,17 +1411,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时38分 ~ 09时16分]"
-        },
-        {
-          "title": "伊朗北部发生4.4级地震",
-          "url": "https://flash.jin10.com/detail/20251020211508398800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -1497,7 +1501,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -1510,8 +1514,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时25分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[14时25分 ~ 21时47分]"
         },
         {
           "title": "平台回应骑手取走苹果手机后失联",
@@ -1528,17 +1532,6 @@
           "time_info": "[15时21分 ~ 19时38分]"
         },
         {
-          "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "骑手取走苹果17Promax后失联",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D15%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D15%26lcate%3D5001%26c_type%3D31%26realpos%3D15%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25AA%2591%25E6%2589%258B%25E5%258F%2596%25E8%25B5%25B0%25E8%258B%25B9%25E6%259E%259C17Promax%25E5%2590%258E%25E5%25A4%25B1%25E8%2581%2594%2523%26dgr%3D0%26display_time%3D1760957416%26pre_seqid%3D17609574166230230252855",
           "source": "微博",
@@ -1546,11 +1539,34 @@
             15,
             12,
             11,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 21时47分]"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，美股盘初三大指数集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超2%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "Evercore ISI：将苹果股票纳入战术性跑赢大盘名单。",
@@ -1590,6 +1606,17 @@
           "time_info": "[15时21分 ~ 15时39分]"
         },
         {
+          "title": "苹果股价逼近历史高点 Loop资本看好iPhone需求提振股价",
+          "url": "https://flash.jin10.com/detail/20251020205106252800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时47分]"
+        },
+        {
           "title": "Evercore ISI：将苹果(AAPL.O)股票纳入战术跑赢名单。",
           "url": "https://flash.jin10.com/detail/20251020174944532800",
           "source": "金十数据",
@@ -1599,17 +1626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时45分]"
-        },
-        {
-          "title": "苹果股价逼近历史高点 Loop资本看好iPhone需求提振股价",
-          "url": "https://flash.jin10.com/detail/20251020205106252800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         }
       ]
     },
@@ -1756,8 +1772,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时51分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[14时51分 ~ 21时47分]"
         },
         {
           "title": "摩根大通平仓德债与美债利差交易",
@@ -1811,7 +1827,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
