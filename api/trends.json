@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T22:45:41.849745+08:00",
-  "total_titles_processed": 2040,
+  "generated_at": "2025-10-20T23:17:11.447154+08:00",
+  "total_titles_processed": 2095,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,19 @@
           "time_info": "[00时17分 ~ 19时15分]"
         },
         {
+          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
+          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时45分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
           "url": "https://flash.jin10.com/detail/20251019224545078800",
           "source": "金十数据",
@@ -176,6 +189,17 @@
           "time_info": "[17时20分 ~ 21时47分]"
         },
         {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时28分 ~ 23时17分]"
+        },
+        {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
           "url": "https://wallstreetcn.com/livenews/2990207",
           "source": "华尔街见闻-快讯",
@@ -206,19 +230,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[14时51分 ~ 20时35分]"
-        },
-        {
-          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
-          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时45分 ~ 22时45分]"
         },
         {
           "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
@@ -275,8 +286,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时15分 ~ 22时45分]"
+          "appearance_count": 32,
+          "time_info": "[09时15分 ~ 23时17分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -287,8 +298,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时51分 ~ 22时45分]"
+          "appearance_count": 22,
+          "time_info": "[14时51分 ~ 23时17分]"
         },
         {
           "title": "特朗普与泽连斯基再度激烈争吵",
@@ -354,6 +365,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 06时16分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17,
+            14,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时45分 ~ 23时17分]"
         },
         {
           "title": "特朗普：亚伯拉罕协议将很快扩大。",
@@ -502,8 +529,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 51,
-          "time_info": "[00时17分 ~ 22时45分]"
+          "appearance_count": 53,
+          "time_info": "[00时17分 ~ 23时17分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -653,32 +680,6 @@
           "time_info": "[09时15分 ~ 11时49分]"
         },
         {
-          "title": "特朗普对中国列出三大问题，中方表态",
-          "url": "https://news.ifeng.com/c/8nbema1wupK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时45分]"
-        },
-        {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            17,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时45分 ~ 22时45分]"
-        },
-        {
           "title": "特朗普专机附近疑发现狙击狩猎台",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
           "source": "百度热搜",
@@ -690,6 +691,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时59分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时28分 ~ 23时17分]"
         },
         {
           "title": "特朗普专机着陆机场附近现可疑物",
@@ -730,19 +745,6 @@
           "time_info": "[09时15分 ~ 11时49分]"
         },
         {
-          "title": "特朗普称顿巴斯78%地区已被俄控制",
-          "url": "https://www.toutiao.com/trending/7563092838465241151/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 22时45分]"
-        },
-        {
           "title": "据韩国《每日经济新闻》：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录。",
           "url": "https://flash.jin10.com/detail/20251020171504774800",
           "source": "金十数据",
@@ -752,6 +754,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时44分]"
+        },
+        {
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时35分 ~ 23时17分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -805,6 +821,18 @@
           "time_info": "[14时25分 ~ 16时22分]"
         },
         {
+          "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
+          "url": "https://wallstreetcn.com/livenews/2990750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普：愿降低关税水平，但中方也需做出让步",
           "url": "https://news.ifeng.com/c/8nbdCEcZ0sY",
           "source": "凤凰网",
@@ -814,17 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "阿根廷债券价格回吐涨幅，与特朗普政府的（货币）互换协议没能（持久地）打动投资者。",
-          "url": "https://wallstreetcn.com/livenews/2990750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -870,9 +887,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "曝特朗普与泽连斯基会晤多次对骂",
+          "url": "https://www.toutiao.com/trending/7563305611689987627/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时17分]"
         },
         {
           "title": "特朗普：美方向以施压 加沙停火协议仍然有效",
@@ -912,20 +941,6 @@
           "time_info": "[11时49分 ~ 12时46分]"
         },
         {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时45分]"
-        },
-        {
           "title": "特朗普称努力让美国变得伟大",
           "url": "https://www.toutiao.com/trending/7563119034879754286/",
           "source": "今日头条",
@@ -948,6 +963,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时42分 ~ 14时51分]"
+        },
+        {
+          "title": "泽连斯基与特朗普对骂",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26flag%3D1%26dgr%3D0%26cate%3D5001%26band_rank%3D9%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26stream_entry_id%3D31%26pos%3D10%26c_type%3D31%26display_time%3D1760969664%26pre_seqid%3D17609696639740230523731",
+          "source": "微博",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
@@ -1076,18 +1104,6 @@
           "time_info": "[13时42分 ~ 14时51分]"
         },
         {
-          "title": "泽连斯基与特朗普对骂",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26realpos%3D9%26flag%3D1%26dgr%3D0%26cate%3D5001%26band_rank%3D9%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26stream_entry_id%3D31%26pos%3D10%26c_type%3D31%26display_time%3D1760969664%26pre_seqid%3D17609696639740230523731",
-          "source": "微博",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时45分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普会晤后，我的立场是“我们在前线的立场依然坚定”。",
           "url": "https://flash.jin10.com/detail/20251020150302754800",
           "source": "金十数据",
@@ -1193,7 +1209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1308,17 +1324,6 @@
           "time_info": "09时16分"
         },
         {
-          "title": "曝特朗普与泽连斯基会晤多次对骂",
-          "url": "https://www.toutiao.com/trending/7563305611689987627/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "特朗普：明天将宣布对哥伦比亚的关税税率。",
           "url": "https://wallstreetcn.com/livenews/2990263",
           "source": "华尔街见闻-快讯",
@@ -1377,7 +1382,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -1390,8 +1395,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时25分 ~ 22时45分]"
+          "appearance_count": 23,
+          "time_info": "[14时25分 ~ 23时17分]"
         },
         {
           "title": "平台回应骑手取走苹果手机后失联",
@@ -1406,6 +1411,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[15时21分 ~ 19时38分]"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4330美元，比特币涨超2%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时17分]"
         },
         {
           "title": "纳斯达克100指数涨超1%，成分股安森美涨5.3%，MSTR涨4.7%，Arm控股涨4.1%，美光科技、科磊、Shopify、露露柠檬、微芯科技、TTD、拉姆研究、恩智浦至少涨3.2%，AMD、英特尔、苹果等涨超2%；英伟达目前则跌0.3%，迈威尔科技跌0.9%表现倒数第四，特许通讯跌1.1%，ORLY跌1.5%，Applovin跌5.8%。 费城半导体指数涨约2%；标普500指数上涨0.8%，道指上涨270点涨幅0.6%，纳指涨250点涨幅1.1%。",
@@ -1467,17 +1484,6 @@
           "time_info": "22时16分"
         },
         {
-          "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4330美元，比特币涨超2%",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "苹果股价创历史新高，报259.87美元，现涨约3%。",
           "url": "https://wallstreetcn.com/livenews/2990736",
           "source": "华尔街见闻-快讯",
@@ -1514,6 +1520,19 @@
           "time_info": "[11时49分 ~ 12时46分]"
         },
         {
+          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2990727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "商品期货收盘，沪银主力合约跌近4%，多晶硅跌超3%，玻璃、苯乙烯、纯苯跌超2%，鸡蛋、沪金、对二甲苯跌超1%。生猪、焦煤、苹果涨超2%，焦炭、集运欧线、豆一涨超1%。",
           "url": "https://wallstreetcn.com/livenews/2990483",
           "source": "华尔街见闻-快讯",
@@ -1526,16 +1545,15 @@
           "time_info": "[15时21分 ~ 15时39分]"
         },
         {
-          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2990727",
-          "source": "华尔街见闻-快讯",
+          "title": "55名中国iPhone用户联合投诉苹果",
+          "url": "https://www.baidu.com/s?wd=55%E5%90%8D%E4%B8%AD%E5%9B%BDiPhone%E7%94%A8%E6%88%B7%E8%81%94%E5%90%88%E6%8A%95%E8%AF%89%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时45分]"
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "苹果股价逼近历史高点 Loop资本看好iPhone需求提振股价",
@@ -1566,7 +1584,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1577,9 +1595,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
+        },
+        {
+          "title": "苹果股价创2025年首个盘中历史新高，受iPhone新机需求强劲推动",
+          "url": "https://wallstreetcn.com/livenews/2990736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "苹果(AAPL.O)股价涨幅扩大至3.1%。",
+          "url": "https://flash.jin10.com/detail/20251020223505971800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "美股开盘，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。亚马逊(AMZN.O)开涨0.40%，此前该公司云服务出现大规模故障，致使全球多家企业的网络连接出现问题，不过服务现已多数恢复正常，苹果(AAPL.O)开涨1.83%，有投行看好iPhone需求，将其股票评级上调至“买入”。",
@@ -1648,8 +1688,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时49分 ~ 22时45分]"
+          "appearance_count": 28,
+          "time_info": "[11时49分 ~ 23时17分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -1881,6 +1921,59 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
+          "url": "https://wallstreetcn.com/livenews/2990621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时38分]"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 23时17分]"
+        },
+        {
+          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1963642369963426172",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
+          "title": "DeepSeek新模型 用视觉方式压缩一切",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B+%E7%94%A8%E8%A7%86%E8%A7%89%E6%96%B9%E5%BC%8F%E5%8E%8B%E7%BC%A9%E4%B8%80%E5%88%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1946,8 +2039,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时51分 ~ 22时45分]"
+          "appearance_count": 22,
+          "time_info": "[14时51分 ~ 23时17分]"
         },
         {
           "title": "摩根大通平仓德债与美债利差交易",
@@ -2043,36 +2136,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时42分 ~ 16时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
-          "url": "https://wallstreetcn.com/livenews/2990621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时38分]"
-        },
-        {
-          "title": "DeepSeek开源新模型DeepSeek-OCR",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         }
       ]
     },
