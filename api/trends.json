@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T03:37:28.326385+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-10-21T04:20:17.454654+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
           "url": "https://www.toutiao.com/trending/7563305611689987627/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -37,8 +38,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -52,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -67,21 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
-        },
-        {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -91,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
@@ -102,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -114,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -125,8 +127,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -140,8 +142,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -151,8 +153,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -415,12 +417,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时48分]"
+        },
+        {
+          "title": "美国参议院多数党领袖图恩：俄罗斯制裁法案被推迟至特朗普与普京会谈之后再处理。",
+          "url": "https://flash.jin10.com/detail/20251021033001244800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "市场消息：美国上诉法院允许特朗普向俄勒冈州波特兰市部署军队。",
+          "url": "https://flash.jin10.com/detail/20251021031335905800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美国参议院多数派领导人Thune：对俄罗斯制裁法案将推迟到总统特朗普（于布达佩斯）会见俄罗斯总统普京之后。",
+          "url": "https://wallstreetcn.com/livenews/2990814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "贸易局势、美信贷恐慌缓解，纳指100涨1%，苹果新高，现货金突破4350美元，比特币涨超2%",
@@ -430,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -441,8 +476,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "55名中国iPhone用户联合投诉苹果",
@@ -451,11 +486,23 @@
           "ranks": [
             13,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/2990825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "分析师：苹果Siri 2.0与iPhone等产品布局将提振长期增长",
@@ -463,11 +510,23 @@
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 04时20分]"
+        },
+        {
+          "title": "苹果股价创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时20分]"
         },
         {
           "title": "苹果股价创2025年首个盘中历史新高，受iPhone新机需求强劲推动",
@@ -496,19 +555,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "伊朗外长与联合国秘书长通电话 讨论加沙与也门局势",
           "url": "https://flash.jin10.com/detail/20251021024926380800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时20分]"
         },
         {
           "title": "伊朗副外长：国际原子能机构已要求参观未遭受轰炸的伊朗核设施。",
@@ -527,11 +587,12 @@
           "url": "https://wallstreetcn.com/livenews/2990799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时20分]"
         }
       ]
     },
@@ -549,8 +610,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -579,19 +640,48 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
           "url": "https://wallstreetcn.com/livenews/2990806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 04时20分]"
+        },
+        {
+          "title": "中长期美债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2990816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时37分"
+          "time_info": "04时20分"
         }
       ]
     },
@@ -609,8 +699,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 02时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时20分]"
         }
       ]
     },
@@ -633,19 +723,19 @@
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
-          "url": "https://wallstreetcn.com/articles/3757469",
-          "source": "华尔街见闻",
+          "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
+          "url": "https://wallstreetcn.com/livenews/2990815",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 03时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
