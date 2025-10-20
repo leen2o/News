@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:46:28.417054+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-10-20T13:18:40.707455+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 12时46分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时18分 ~ 06时39分]"
+        },
+        {
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 13时18分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -215,15 +226,20 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
-          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
-          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
-          "source": "凤凰网",
+          "title": "泽连斯基：愿参加特朗普与普京的会晤",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
           "ranks": [
-            1
+            6,
+            16,
+            15,
+            18,
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时46分]"
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 13时18分]"
         },
         {
           "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
@@ -273,8 +289,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 12时46分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 13时18分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -350,8 +366,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 12时46分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -489,6 +505,19 @@
           "time_info": "[02时22分 ~ 06时39分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 13时18分]"
+        },
+        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://news.ifeng.com/c/8naqHMsvJOK",
           "source": "凤凰网",
@@ -499,34 +528,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时15分 ~ 11时49分]"
-        },
-        {
-          "title": "泽连斯基：愿参加特朗普与普京的会晤",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            16,
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 12时46分]"
         },
         {
           "title": "特朗普专机着陆机场附近现可疑物",
@@ -607,6 +608,31 @@
           "time_info": "[05时38分 ~ 07时39分]"
         },
         {
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 13时18分]"
+        },
+        {
           "title": "美国副总统万斯：美国总统特朗普尚未决定向乌克兰提供战斧导弹。",
           "url": "https://flash.jin10.com/detail/20251020070637540800",
           "source": "金十数据",
@@ -639,31 +665,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时49分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普被曝与泽连斯基再度激烈争吵",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时46分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时46分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
@@ -935,8 +936,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时18分]"
         },
         {
           "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
@@ -944,11 +945,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时18分]"
         }
       ]
     },
@@ -1006,8 +1008,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时17分 ~ 12时46分]"
+          "appearance_count": 29,
+          "time_info": "[00时17分 ~ 13时18分]"
         }
       ]
     },
@@ -1067,8 +1069,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时49分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时18分]"
         }
       ]
     }
