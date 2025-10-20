@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T09:16:13.509695+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-10-20T11:00:09.246056+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 09时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 11时00分]"
         },
         {
           "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
@@ -279,6 +279,22 @@
           "time_info": "[00时18分 ~ 06时16分]"
         },
         {
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 11时00分]"
+        },
+        {
           "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
           "url": "https://flash.jin10.com/detail/20251019223834796800",
           "source": "金十数据",
@@ -312,30 +328,16 @@
           "time_info": "[00时18分 ~ 05时38分]"
         },
         {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 09时16分]"
-        },
-        {
           "title": "特朗普对华服软,关税讹诈玩不转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 09时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 11时00分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -474,6 +476,29 @@
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
+          "url": "https://news.ifeng.com/c/8naqHMsvJOK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时00分]"
+        },
+        {
+          "title": "美17州检察长起诉特朗普政府说明啥",
+          "url": "https://www.toutiao.com/trending/7563083390186950170/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时00分]"
+        },
+        {
+          "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://wallstreetcn.com/livenews/2990227",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -488,15 +513,15 @@
           "time_info": "[05时15分 ~ 07时39分]"
         },
         {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -511,26 +536,40 @@
           "time_info": "[00时18分 ~ 03时12分]"
         },
         {
-          "title": "美17州检察长起诉特朗普政府说明啥",
-          "url": "https://www.toutiao.com/trending/7563083390186950170/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
-          "url": "https://news.ifeng.com/c/8naqHMsvJOK",
+          "title": "特朗普专机着陆机场附近现可疑物",
+          "url": "https://news.ifeng.com/c/8nbCKtQ9LFh",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时00分]"
+        },
+        {
+          "title": "泽连斯基：愿参加特朗普与普京的会晤",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 11时00分]"
         },
         {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
@@ -565,21 +604,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "泽连斯基：愿参加特朗普与普京的会晤",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 09时16分]"
         },
         {
           "title": "特朗普发布辣眼AI视频引争议",
@@ -607,6 +634,18 @@
           "time_info": "[06时16分 ~ 07时39分]"
         },
         {
+          "title": "俄美共建白令海峡隧道？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时00分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：特朗普将于今天或明天宣布对哥伦比亚实施重大关税措施。",
           "url": "https://flash.jin10.com/detail/20251020054917939800",
           "source": "金十数据",
@@ -631,15 +670,26 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "俄美共建白令海峡隧道？特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
           "source": "百度热搜",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "遭特朗普指责纵容毒品生产 哥方反驳",
@@ -659,7 +709,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -670,7 +720,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -681,7 +731,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -692,7 +742,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -703,7 +753,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -714,7 +764,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -725,7 +775,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -736,7 +786,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -747,7 +797,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -831,11 +881,12 @@
           "url": "https://news.ifeng.com/c/8naUXXhxDm5",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 09时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 11时00分]"
         },
         {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
@@ -855,7 +906,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价涨了，印度人节日买金习惯变了",
@@ -878,6 +929,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）上海金早盘价为976.81元/克，较国际金价(976.16元/克)，高0.65元/克",
+          "url": "https://flash.jin10.com/detail/20251020101801273800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
@@ -890,11 +952,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345913&amp;topic_name=su7%E6%92%9E%E7%BF%BB%E6%8A%A4%E6%A0%8F%2C%E4%B8%A2%E8%BD%AE%E4%BF%9D%E5%91%BD%E7%A7%80%E7%BB%9D%E6%B4%BB",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 09时16分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 11时00分]"
         }
       ]
     },
