@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T20:33:52.838440+08:00",
-  "total_titles_processed": 1934,
+  "generated_at": "2025-10-21T21:32:04.619723+08:00",
+  "total_titles_processed": 2025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 96,
+      "match_count": 103,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "外交部回应特朗普称将于明年访华",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时39分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[15时39分 ~ 21时32分]"
         },
         {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
@@ -62,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "特朗普：很快将访问日本",
@@ -74,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时25分 ~ 20时33分]"
+          "appearance_count": 17,
+          "time_info": "[14时25分 ~ 21时32分]"
         },
         {
           "title": "中方回应特朗普称明年将访华",
@@ -85,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -97,11 +98,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "外交部回应特朗普称将于明年初访华",
@@ -113,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "特朗普大规模拆除白宫建筑",
@@ -247,8 +249,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时20分 ~ 20时33分]"
+          "appearance_count": 47,
+          "time_info": "[00时20分 ~ 21时32分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -324,8 +326,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时51分 ~ 20时33分]"
+          "appearance_count": 24,
+          "time_info": "[10时51分 ~ 21时32分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -494,6 +496,17 @@
           "time_info": "[14时25分 ~ 14时26分]"
         },
         {
+          "title": "特朗普泽连斯基为何再度争吵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%BA%E4%BD%95%E5%86%8D%E5%BA%A6%E4%BA%89%E5%90%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普夸记者发型不错",
           "url": "https://www.toutiao.com/trending/7562417676297142335/",
           "source": "今日头条",
@@ -519,6 +532,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时17分 ~ 14时50分]"
+        },
+        {
+          "title": "日本首相高市早苗：将采取一切必要措施，应对美国总统特朗普关税的影响。",
+          "url": "https://flash.jin10.com/detail/20251021210654139800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
@@ -571,6 +595,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 01时40分]"
+        },
+        {
+          "title": "美国总统特朗普：如果不这样做，终结哈马斯将是“快速、激烈和残酷的”。",
+          "url": "https://flash.jin10.com/detail/20251021210526940800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美澳签署关键矿产协议 特朗普称稀土和矿物会多到不知所措",
@@ -1032,6 +1067,17 @@
           "time_info": "[12时43分 ~ 13时18分]"
         },
         {
+          "title": "评论员：泽连斯基再度被特朗普侮辱",
+          "url": "https://www.toutiao.com/trending/7563610173114158601/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
           "url": "https://flash.jin10.com/detail/20251020235536033800",
           "source": "金十数据",
@@ -1142,6 +1188,17 @@
           "time_info": "[18时19分 ~ 18时44分]"
         },
         {
+          "title": "美国总统特朗普：哈马斯仍有希望做出正确选择。",
+          "url": "https://flash.jin10.com/detail/20251021210503595800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
@@ -1151,6 +1208,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "美国总统特朗普：盟友已表示，如有需要，他们将携带重兵前往加沙。",
+          "url": "https://flash.jin10.com/detail/20251021210441797800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "日本首相高市早苗：没有政治稳定，就无法实现强劲的经济。 已指示内阁制定一揽子措施，以缓解生活成本上升带来的冲击。 将全力以赴缓解美国加征关税对日本经济带来的冲击。 决心通过外交与安全手段捍卫日本国家利益。 希望通过与特朗普总统的会晤，将日美关系提升到新高度。",
+          "url": "https://wallstreetcn.com/livenews/2991274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美国国务卿鲁比奥正在领导美国总统特朗普对委内瑞拉的施压行动。",
@@ -1192,7 +1271,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1255,8 +1334,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[07时16分 ~ 20时33分]"
+          "appearance_count": 28,
+          "time_info": "[07时16分 ~ 21时32分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -1310,8 +1389,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时50分 ~ 20时33分]"
+          "appearance_count": 15,
+          "time_info": "[14时50分 ~ 21时32分]"
+        },
+        {
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[12时21分 ~ 21时32分]"
         },
         {
           "title": "55名中国iPhone用户联合投诉苹果",
@@ -1328,17 +1421,16 @@
           "time_info": "[00时20分 ~ 07时37分]"
         },
         {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
           "ranks": [
-            10,
-            9,
-            8
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时21分 ~ 20时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 21时32分]"
         },
         {
           "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
@@ -1366,18 +1458,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时52分 ~ 04时44分]"
-        },
-        {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 20时33分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
@@ -1470,7 +1550,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -1528,7 +1608,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1570,6 +1650,29 @@
           "time_info": "[12时21分 ~ 12时43分]"
         },
         {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 21时32分]"
+        },
+        {
+          "title": "国际金价突然大跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
           "url": "https://wallstreetcn.com/livenews/2990806",
           "source": "华尔街见闻-快讯",
@@ -1593,6 +1696,17 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D29%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26pos%3D30%26realpos%3D29%26flag%3D0%26display_time%3D1761053355%26pre_seqid%3D17610533559560230370216",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "金价飙升引发投资潮 韩国银行金条供不应求",
           "url": "https://flash.jin10.com/detail/20251021151749192800",
           "source": "金十数据",
@@ -1602,23 +1716,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
-        },
-        {
-          "title": "金价大涨影响年轻人结婚",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -1630,8 +1733,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 20时33分]"
+          "appearance_count": 12,
+          "time_info": "[16时23分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -1662,8 +1765,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时39分 ~ 20时33分]"
+          "appearance_count": 23,
+          "time_info": "[11时39分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -1675,11 +1778,12 @@
             8,
             6,
             10,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时51分 ~ 20时33分]"
+          "appearance_count": 21,
+          "time_info": "[10时51分 ~ 21时32分]"
         },
         {
           "title": "全球六大顶级AI实盘厮杀 DeepSeek第一",
@@ -1691,6 +1795,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时43分 ~ 18时44分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1911,6 +2026,18 @@
           "time_info": "[14时50分 ~ 15时17分]"
         },
         {
+          "title": "摩根大通美债客户调查显示净多头占比创8月25日以来新低",
+          "url": "https://wallstreetcn.com/livenews/2991245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 21时32分]"
+        },
+        {
           "title": "机构：外资美债需求下滑预示美元走弱",
           "url": "https://flash.jin10.com/detail/20251021185355112800",
           "source": "金十数据",
@@ -1920,17 +2047,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时14分 ~ 19时39分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示净多头占比创8月25日以来新低",
-          "url": "https://wallstreetcn.com/livenews/2991245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         }
       ]
     },
