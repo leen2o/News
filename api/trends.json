@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T12:43:54.116080+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-10-21T13:18:07.602665+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 12时43分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -90,6 +90,18 @@
           "time_info": "[00时20分 ~ 07时37分]"
         },
         {
+          "title": "特朗普被印度气坏了：莫迪向我保证过",
+          "url": "https://news.ifeng.com/c/8ncgfsHRFxN",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时18分]"
+        },
+        {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
           "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
           "source": "凤凰网",
@@ -113,6 +125,18 @@
           "time_info": "[00时20分 ~ 07时37分]"
         },
         {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时18分]"
+        },
+        {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
           "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
           "source": "凤凰网",
@@ -122,17 +146,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时20分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时43分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -187,15 +200,31 @@
           "time_info": "[00时20分 ~ 10时51分]"
         },
         {
-          "title": "特朗普被印度气坏了：莫迪向我保证过",
-          "url": "https://news.ifeng.com/c/8ncgfsHRFxN",
-          "source": "凤凰网",
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
           "ranks": [
+            2,
+            7,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.toutiao.com/trending/7562786425306382375/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -214,6 +243,22 @@
           "time_info": "[00时21分 ~ 03时19分]"
         },
         {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            11,
+            14,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时18分]"
+        },
+        {
           "title": "关键矿物概念股NB涨10.8%，USAR涨6.1%，ETF XME涨3.9%，MP材料则跌1%。 美国总统特朗普声称，将与澳大利亚总理讨论贸易问题。 双方将签订关于关键矿物的协议。 美国将在大约一年之后拥有大量稀土材料。 澳大利亚总理Albanese表示，矿业协议将两国关系推至一个新的水平。",
           "url": "https://wallstreetcn.com/livenews/2990766",
           "source": "华尔街见闻-快讯",
@@ -228,32 +273,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 03时19分]"
-        },
-        {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.toutiao.com/trending/7563455829395902002/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普大规模拆除白宫建筑",
-          "url": "https://www.toutiao.com/trending/7562786425306382375/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
         },
         {
           "title": "特朗普被印度气坏了",
@@ -307,18 +326,31 @@
           "time_info": "[05时19分 ~ 07时37分]"
         },
         {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            10,
-            11,
-            14
+            18,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时43分]"
+          "time_info": "[10时51分 ~ 13时18分]"
+        },
+        {
+          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
+          "url": "https://www.toutiao.com/trending/7563487873530351143/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
@@ -479,30 +511,15 @@
           "time_info": "[04时20分 ~ 05时40分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
+          "url": "https://www.zhihu.com/question/1963059596064166358",
+          "source": "知乎",
           "ranks": [
-            18,
-            17,
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
-        },
-        {
-          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
-          "url": "https://www.toutiao.com/trending/7563487873530351143/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：有多个国家打电话给我，要求我进入加沙解决哈马斯问题。我们不会在加沙部署美国军队，已经有59个国家签署了这项协议。",
@@ -627,15 +644,51 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
-          "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
-          "url": "https://www.zhihu.com/question/1963059596064166358",
-          "source": "知乎",
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91",
+          "source": "百度热搜",
           "ranks": [
-            16
+            14,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时43分]"
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
+          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普与普京举行第二次峰会的前景可能受阻",
+          "url": "https://flash.jin10.com/detail/20251021120742678800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普与普京举行会晤的希望可能会搁浅。",
+          "url": "https://flash.jin10.com/detail/20251021120139588800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时18分]"
         },
         {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
@@ -693,6 +746,17 @@
           "time_info": "[00时21分 ~ 00时48分]"
         },
         {
+          "title": "特朗普警告哈马斯不要违反加沙协议",
+          "url": "https://www.toutiao.com/trending/7562393325043679268/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
+        },
+        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
@@ -713,28 +777,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
-        },
-        {
-          "title": "特朗普与普京举行第二次峰会的前景可能受阻",
-          "url": "https://flash.jin10.com/detail/20251021120742678800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "特朗普与普京举行会晤的希望可能会搁浅。",
-          "url": "https://flash.jin10.com/detail/20251021120139588800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "特朗普计划明年初访华",
@@ -783,8 +825,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 12时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -797,8 +839,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 12时43分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 13时18分]"
         },
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -808,8 +850,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时18分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -838,6 +880,19 @@
           "time_info": "[00时20分 ~ 07时37分]"
         },
         {
+          "title": "苹果股价站上新高 iPhone17“技术普惠”点燃换机潮 这些公司“实锤”进入供应链",
+          "url": "https://www.cls.cn/detail/2175274",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 13时18分]"
+        },
+        {
           "title": "分析师：苹果Siri 2.0与iPhone等产品布局将提振长期增长",
           "url": "https://flash.jin10.com/detail/20251021023534367800",
           "source": "金十数据",
@@ -850,6 +905,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时52分 ~ 04时44分]"
+        },
+        {
+          "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
+          "url": "https://www.cls.cn/detail/2175031",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时18分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信、工业、科技、金融、原材料、保健、可选消费板块至多涨1.5%。 纳斯达克100指数初步收涨1.3%，成分股中，阿斯利康、星巴克、MNST、迈威尔科技、核电概念股Constellation Energy、Applovin至多跌5.5%。 Salesforce和苹果收涨超4%，与联合健康、Merck、摩根大通等领跑道指成分股，麦当劳、英伟达、沃尔玛、家得宝则至多跌约0.6%表现最差。",
@@ -878,28 +946,15 @@
           "time_info": "[04时44分 ~ 06时41分]"
         },
         {
-          "title": "苹果股价站上新高 iPhone17“技术普惠”点燃换机潮 这些公司“实锤”进入供应链",
-          "url": "https://www.cls.cn/detail/2175274",
-          "source": "财联社热门",
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时43分]"
-        },
-        {
-          "title": "沉睡巨头苏醒！苹果股价暴涨创新高 iPhone热销扫阴霾",
-          "url": "https://www.cls.cn/detail/2175031",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
+          "time_info": "[12时21分 ~ 13时18分]"
         },
         {
           "title": "苹果股价创历史新高",
@@ -938,17 +993,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 10时51分]"
-        },
-        {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时43分]"
         },
         {
           "title": "苹果股价创2025年首个盘中历史新高，受iPhone新机需求强劲推动",
@@ -1090,11 +1134,25 @@
             12,
             13,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 12时43分]"
+          "appearance_count": 29,
+          "time_info": "[00时20分 ~ 13时18分]"
+        },
+        {
+          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
+          "url": "https://www.cls.cn/detail/2175165",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时18分]"
         },
         {
           "title": "金价银价大反攻",
@@ -1132,19 +1190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 12时43分]"
-        },
-        {
-          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
-          "url": "https://www.cls.cn/detail/2175165",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时43分]"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
@@ -1197,11 +1242,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 13时18分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1212,8 +1258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 13时18分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1249,6 +1295,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 13时18分]"
+        },
+        {
+          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/2991014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "日立与OpenAI建立战略合作伙伴关系",
+          "url": "https://flash.jin10.com/detail/20251021123730273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "OpenAI在多方压力下收紧Sora监管 承诺加强防范AI深伪内容",
+          "url": "https://www.cls.cn/detail/2175093",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
@@ -1352,49 +1453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时43分]"
-        },
-        {
-          "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
-          "url": "https://wallstreetcn.com/livenews/2991014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时43分]"
-        },
-        {
-          "title": "OpenAI在多方压力下收紧Sora监管 承诺加强防范AI深伪内容",
-          "url": "https://www.cls.cn/detail/2175093",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
         }
       ]
     },
