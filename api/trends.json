@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T02:25:10.389186+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-10-23T02:52:39.188317+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -51,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -98,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -112,8 +112,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -123,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -134,8 +134,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -149,27 +149,17 @@
           "time_info": "[00时21分 ~ 00时51分]"
         },
         {
-          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
-          "url": "https://wallstreetcn.com/livenews/2992038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
           "title": "希拉里痛批特朗普2.5亿美元改造白宫",
           "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%97%9B%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE2.5%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B9%E9%80%A0%E7%99%BD%E5%AE%AB",
           "source": "百度热搜",
           "ranks": [
             29,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 02时52分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我挑起的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -183,15 +173,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
-          "url": "https://wallstreetcn.com/livenews/2992035",
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "02时52分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -200,11 +190,24 @@
           "ranks": [
             5,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 02时52分]"
+        },
+        {
+          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
+          "url": "https://wallstreetcn.com/livenews/2992038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时52分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -212,11 +215,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
+        },
+        {
+          "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
+          "url": "https://wallstreetcn.com/livenews/2992035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时25分]"
+          "time_info": "[02时25分 ~ 02时52分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -232,6 +248,30 @@
           "time_info": "[01时16分 ~ 02时25分]"
         },
         {
+          "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
+          "url": "https://flash.jin10.com/detail/20251023010940373800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
+        },
+        {
+          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
+          "url": "https://www.cls.cn/detail/2177223",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 02时52分]"
+        },
+        {
           "title": "美国众议长约翰逊：（由于特朗普政府关门问题）我们在一些必要的事务上丧失时间。",
           "url": "https://wallstreetcn.com/livenews/2991995",
           "source": "华尔街见闻-快讯",
@@ -245,18 +285,6 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
-          "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
-          "url": "https://flash.jin10.com/detail/20251023010940373800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时25分]"
-        },
-        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -267,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时39分]"
-        },
-        {
-          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
-          "url": "https://www.cls.cn/detail/2177223",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
         },
         {
           "title": "阿根廷股指在早盘迄今呈现出V形反转，在美上市阿根廷ETF目前跌0.5%。 美国贸易代表格利尔对媒体表示，阿根廷牛肉不会大量涌入美国，尽管特朗普政府在这个问题上与阿方存在争议。",
@@ -339,6 +356,19 @@
           "time_info": "[00时22分 ~ 01时39分]"
         },
         {
+          "title": "马斯克对谷歌CEO桑达尔·皮查伊表示：“恭喜。看起来量子计算正在变得越来越重要。”",
+          "url": "https://flash.jin10.com/detail/20251023011201131800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时52分]"
+        },
+        {
           "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
           "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
@@ -350,18 +380,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 01时39分]"
-        },
-        {
-          "title": "马斯克对谷歌CEO桑达尔·皮查伊表示：“恭喜。看起来量子计算正在变得越来越重要。”",
-          "url": "https://flash.jin10.com/detail/20251023011201131800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时25分]"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -433,8 +451,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "苹果M5芯片锐评",
@@ -458,8 +476,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 02时52分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
@@ -496,11 +514,12 @@
           "url": "https://flash.jin10.com/detail/20251023014159591800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时52分]"
         },
         {
           "title": "全新苹果(AAPL.O)iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
@@ -528,8 +547,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -540,11 +559,12 @@
             25,
             28,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "金价",
@@ -552,11 +572,12 @@
           "source": "微博",
           "ranks": [
             26,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -567,11 +588,12 @@
             7,
             15,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 02时52分]"
         },
         {
           "title": "黄金价格大跳水 金价到顶了吗",
@@ -599,8 +621,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         },
         {
           "title": "华为鸿蒙6正式发布",
@@ -609,11 +631,12 @@
           "ranks": [
             26,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 01时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 02时52分]"
         }
       ]
     },
@@ -639,11 +662,12 @@
           "url": "https://www.douyin.com/hot/2278309",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 02时52分]"
         }
       ]
     },
@@ -656,11 +680,12 @@
           "url": "https://flash.jin10.com/detail/20251023015158188800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时52分]"
         },
         {
           "title": "现货铂金上涨3%，至每盎司1,598.41美元。",
@@ -686,11 +711,12 @@
           "url": "https://flash.jin10.com/detail/20251023013924127800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 02时52分]"
         }
       ]
     },
@@ -707,8 +733,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 02时52分]"
         }
       ]
     }
