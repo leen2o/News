@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T03:39:52.094228+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-10-23T04:20:51.648424+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -49,11 +49,12 @@
             5,
             14,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -64,11 +65,12 @@
             5,
             17,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -79,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -90,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -101,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -115,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -126,8 +128,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -137,8 +139,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "希拉里痛批特朗普2.5亿美元改造白宫",
@@ -150,8 +152,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 03时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 04时20分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -180,6 +182,32 @@
           "time_info": "[01时16分 ~ 03时39分]"
         },
         {
+          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
+          "url": "https://www.cls.cn/detail/2177223",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 04时20分]"
+        },
+        {
+          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
+          "url": "https://wallstreetcn.com/livenews/2992038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 04时20分]"
+        },
+        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -194,31 +222,6 @@
           "time_info": "[01时39分 ~ 03时39分]"
         },
         {
-          "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
-          "url": "https://www.cls.cn/detail/2177223",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 03时39分]"
-        },
-        {
-          "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
-          "url": "https://wallstreetcn.com/livenews/2992038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 03时39分]"
-        },
-        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我挑起的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -228,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
-          "url": "https://wallstreetcn.com/livenews/2992048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
         },
         {
           "title": "哥伦比亚比索兑美元跌幅收窄至0.35%，报3907.27比索。 这个南美洲国家的总统Gustavo Petro称，哥伦比亚向美国提议，特朗普政府应该对其出口到美国的粮食和农产品免征关税。",
@@ -259,11 +251,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 04时20分]"
+        },
+        {
+          "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
+          "url": "https://wallstreetcn.com/livenews/2992048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时20分]"
         },
         {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
@@ -461,7 +466,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -473,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 03时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 04时20分]"
         },
         {
           "title": "苹果M5芯片锐评",
@@ -497,8 +502,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
@@ -545,6 +550,17 @@
           "time_info": "[02时25分 ~ 03时39分]"
         },
         {
+          "title": "标普500指数初步收跌0.6%，工业、可选消费、电信板块至少跌约1%，科技板块跌0.8%，能源板块涨1.5%。 纳斯达克100指数初步收跌1%，成分股中，奈飞跌10%，MSTR跌7%，德州仪器和安森美半导体跌超5%，Applovin涨2.5%，达芬奇手术机器人涨13.9%。 新思科技初步收跌0.2%，铿腾电子跌0.9%。 Salesforce、亚马逊、卡特彼勒、高盛、安进、苹果至少跌超1.5%，领跌道指成分股，英伟达跌0.6%，雪佛龙则涨1.3%，IBM涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/2992059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "全新苹果(AAPL.O)iPad Pro、14英寸MacBook Pro及Apple Vision Pro现已上市。",
           "url": "https://flash.jin10.com/detail/20251022230443509800",
           "source": "金十数据",
@@ -570,8 +586,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -586,8 +602,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "金价",
@@ -600,8 +616,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -634,6 +650,48 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI发首款AI浏览器",
+          "url": "https://www.douyin.com/hot/2278309",
+          "source": "抖音",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 04时20分]"
+        },
+        {
+          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
+          "url": "https://flash.jin10.com/detail/20251023005554826800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 02时25分]"
+        },
+        {
+          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
+          "url": "https://wallstreetcn.com/livenews/2992057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 VIVO OPPO 小米",
       "match_count": 2,
       "titles": [
@@ -645,11 +703,12 @@
             3,
             5,
             16,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 03时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "华为鸿蒙6正式发布",
@@ -665,37 +724,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 03时39分]"
-        },
-        {
-          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
-          "url": "https://flash.jin10.com/detail/20251023005554826800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时25分]"
         }
       ]
     },
@@ -733,6 +761,35 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 03时14分]"
+        },
+        {
+          "title": "周三（10月22日）纽约尾盘，ICE美元指数跌0.04%，报98.897点，日内交投区间为99.139-98.786点，全天冲高回落。 彭博美元指数跌0.03%，报1212.28点，日内交投区间为1214.18-1211.38点。",
+          "url": "https://wallstreetcn.com/livenews/2992055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone",
       "match_count": 1,
       "titles": [
@@ -752,20 +809,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债 -杰富瑞",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
+          "title": "短中期美债收益率跌超1个基点",
+          "url": "https://wallstreetcn.com/livenews/2992056",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            14
           ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     }
