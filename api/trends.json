@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T06:15:26.674058+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2025-10-23T06:38:47.813312+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "分歧太大，匈牙利“特普会”取消了，特朗普称“不想浪费时间”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -55,20 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
-        },
-        {
-          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -85,8 +73,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
+        },
+        {
+          "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31817642",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -96,8 +97,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
@@ -108,8 +109,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时24分 ~ 06时15分]"
+          "appearance_count": 13,
+          "time_info": "[02时24分 ~ 06时38分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -119,8 +120,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -133,30 +146,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31822497",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "希拉里痛批特朗普2.5亿美元改造白宫",
@@ -263,15 +266,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "特朗普宣布：取消与普京在布达佩斯的会面",
-          "url": "https://wallstreetcn.com/livenews/2992095",
+          "title": "特朗普称即日起停止所有向哥伦比亚的付款",
+          "url": "https://wallstreetcn.com/livenews/2992108",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "06时38分"
         },
         {
           "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
@@ -306,11 +309,25 @@
           "ranks": [
             3,
             13,
-            17
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时14分 ~ 06时38分]"
+        },
+        {
+          "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
+          "url": "https://wallstreetcn.com/livenews/2992088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时14分 ~ 06时15分]"
+          "time_info": "[05时38分 ~ 06时38分]"
         },
         {
           "title": "美国总统特朗普：我没有允许乌克兰（使用导弹）深入俄罗斯。他们使用的是欧洲导弹，不是我们的，我对此无能为力。我控制着美国的导弹，但他们并没有深入俄罗斯。",
@@ -349,18 +366,6 @@
           "time_info": "[05时38分 ~ 06时15分]"
         },
         {
-          "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
-          "url": "https://wallstreetcn.com/livenews/2992088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时15分]"
-        },
-        {
           "title": "美国总统特朗普：希望制裁能让普京更加理性。",
           "url": "https://flash.jin10.com/detail/20251023053144821800",
           "source": "金十数据",
@@ -371,6 +376,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普宣布：取消与普京在布达佩斯的会面",
+          "url": "https://wallstreetcn.com/livenews/2992095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹 特朗普：假新闻！",
@@ -461,6 +478,18 @@
           "time_info": "[05时14分 ~ 05时38分]"
         },
         {
+          "title": "比特币跌0.5%，失守10.68万美元。 美国总统特朗普宣称，在乌克兰和俄罗斯方面进展顺利。 “我认为这两个国家都希望和平”。 感觉不对劲，取消了会见俄罗斯总统普京的计划，未来仍然可能会面。 赶紧，是时候对俄罗斯施加制裁了。",
+          "url": "https://wallstreetcn.com/livenews/2992090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -471,6 +500,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时39分]"
+        },
+        {
+          "title": "美国总统特朗普：可能将就关税案诉诸最高法院。",
+          "url": "https://flash.jin10.com/detail/20251023054747357800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：一直觉得普京想占领整个乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251023054638718800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：我们目前没有向乌克兰出售任何武器。",
+          "url": "https://flash.jin10.com/detail/20251023054541176800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京提到了核裁军，我对此表示赞同。",
+          "url": "https://flash.jin10.com/detail/20251023054132621800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：普京曾向我提及核问题以缓和紧张局势。",
+          "url": "https://flash.jin10.com/detail/20251023054127631800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
         },
         {
           "title": "阿根廷股指在早盘迄今呈现出V形反转，在美上市阿根廷ETF目前跌0.5%。 美国贸易代表格利尔对媒体表示，阿根廷牛肉不会大量涌入美国，尽管特朗普政府在这个问题上与阿方存在争议。",
@@ -485,15 +574,28 @@
           "time_info": "[00时22分 ~ 00时51分]"
         },
         {
-          "title": "比特币跌0.5%，失守10.68万美元。 美国总统特朗普宣称，在乌克兰和俄罗斯方面进展顺利。 “我认为这两个国家都希望和平”。 感觉不对劲，取消了会见俄罗斯总统普京的计划，未来仍然可能会面。 赶紧，是时候对俄罗斯施加制裁了。",
-          "url": "https://wallstreetcn.com/livenews/2992090",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：将迅速采取措施降低牛肉价格。",
+          "url": "https://flash.jin10.com/detail/20251023053903230800",
+          "source": "金十数据",
           "ranks": [
-            6
+            23,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
+        },
+        {
+          "title": "美国总统特朗普：美国可能对哥伦比亚采取非常严厉的行动。",
+          "url": "https://flash.jin10.com/detail/20251023053409345800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时38分]"
         },
         {
           "title": "美国总统特朗普：每次与普京谈话，谈话都是积极的，但没有取得进展。",
@@ -562,17 +664,6 @@
           "time_info": "05时38分"
         },
         {
-          "title": "美国总统特朗普：可能将就关税案诉诸最高法院。",
-          "url": "https://flash.jin10.com/detail/20251023054747357800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "美国总统特朗普：战斧导弹的问题在于学会使用它需要6个月到1年的时间。他们（乌克兰）唯一能做的就是由我们（美国）来发射，而我们不会那样做。",
           "url": "https://flash.jin10.com/detail/20251023051638665800",
           "source": "金十数据",
@@ -582,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
-        },
-        {
-          "title": "美国总统特朗普：一直觉得普京想占领整个乌克兰。",
-          "url": "https://flash.jin10.com/detail/20251023054638718800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
         },
         {
           "title": "美国总统特朗普：俄乌冲突何时结束尚无时间表。",
@@ -617,17 +697,6 @@
           "time_info": "05时38分"
         },
         {
-          "title": "美国总统特朗普：我们目前没有向乌克兰出售任何武器。",
-          "url": "https://flash.jin10.com/detail/20251023054541176800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
           "title": "美国总统特朗普：取消与普京的会晤，是因为我认为不会取得任何进展。",
           "url": "https://flash.jin10.com/detail/20251023051518686800",
           "source": "金十数据",
@@ -650,15 +719,15 @@
           "time_info": "05时38分"
         },
         {
-          "title": "美国总统特朗普：俄罗斯总统普京提到了核裁军，我对此表示赞同。",
-          "url": "https://flash.jin10.com/detail/20251023054132621800",
-          "source": "金十数据",
+          "title": "释新闻｜“不想浪费时间”，特朗普为何又不想见普京了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31823823",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "06时38分"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻！",
@@ -667,40 +736,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美国总统特朗普：普京曾向我提及核问题以缓和紧张局势。",
-          "url": "https://flash.jin10.com/detail/20251023054127631800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美国总统特朗普：将迅速采取措施降低牛肉价格。",
-          "url": "https://flash.jin10.com/detail/20251023053903230800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "美国总统特朗普：美国可能对哥伦比亚采取非常严厉的行动。",
-          "url": "https://flash.jin10.com/detail/20251023053409345800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -860,8 +896,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 06时15分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 06时38分]"
         },
         {
           "title": "苹果M5芯片锐评",
@@ -884,8 +920,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至1%。标普500指数跌0.5%，费城半导体指数跌幅扩大至约3%。特斯拉跌1.9%，苹果跌1.6%。",
@@ -968,8 +1004,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -984,8 +1020,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "金价",
@@ -999,8 +1035,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 06时38分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
