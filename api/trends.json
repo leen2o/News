@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T17:20:07.641289+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-10-23T17:43:50.800117+08:00",
+  "total_titles_processed": 1861,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 17时43分]"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹，特朗普：假新闻",
@@ -97,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时38分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[06时38分 ~ 17时43分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -127,8 +127,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时43分 ~ 17时20分]"
+          "appearance_count": 13,
+          "time_info": "[12时43分 ~ 17时43分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -188,8 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 17时43分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -218,6 +218,20 @@
           "time_info": "[00时21分 ~ 10时48分]"
         },
         {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[10时48分 ~ 17时43分]"
+        },
+        {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2177682",
           "source": "财联社热门",
@@ -240,11 +254,12 @@
             23,
             22,
             20,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时21分 ~ 17时20分]"
+          "appearance_count": 40,
+          "time_info": "[00时21分 ~ 17时43分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -264,19 +279,6 @@
           "is_new": false,
           "appearance_count": 28,
           "time_info": "[00时21分 ~ 12时21分]"
-        },
-        {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时48分 ~ 17时20分]"
         },
         {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
@@ -451,6 +453,17 @@
           "time_info": "[12时21分 ~ 13时41分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 17时43分]"
+        },
+        {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
           "url": "https://wallstreetcn.com/livenews/2992039",
           "source": "华尔街见闻-快讯",
@@ -559,6 +572,19 @@
           "time_info": "[09时13分 ~ 13时18分]"
         },
         {
+          "title": "唐驳虎：特朗普第一次对普京动真格",
+          "url": "https://www.toutiao.com/trending/7564280002351468071/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 17时43分]"
+        },
+        {
           "title": "美国总统特朗普政府正商谈入股量子计算公司。",
           "url": "https://flash.jin10.com/detail/20251023090027465800",
           "source": "金十数据",
@@ -601,17 +627,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "报道称特朗普政府允许乌克兰使用西方的某些远程导弹",
@@ -697,18 +712,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时48分 ~ 12时43分]"
-        },
-        {
-          "title": "唐驳虎：特朗普第一次对普京动真格",
-          "url": "https://www.toutiao.com/trending/7564280002351468071/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 17时20分]"
         },
         {
           "title": "特斯拉：（与美国总统特朗普相关的）贸易政策和财政政策给业绩前景蒙上阴影。",
@@ -1362,8 +1365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 17时43分]"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -1525,7 +1528,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -1538,8 +1541,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 17时43分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -1552,8 +1555,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时13分 ~ 17时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时13分 ~ 17时43分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1635,6 +1638,17 @@
           "time_info": "[01时16分 ~ 01时39分]"
         },
         {
+          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
+          "url": "https://flash.jin10.com/detail/20251023170528085800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
           "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
@@ -1696,8 +1710,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时48分 ~ 17时20分]"
+          "appearance_count": 17,
+          "time_info": "[10时48分 ~ 17时43分]"
         },
         {
           "title": "华为鸿蒙大升级！鸿蒙6实现与苹果互联 80+应用智能体已上线",
@@ -1985,11 +1999,12 @@
             20,
             18,
             17,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时48分 ~ 16时50分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 17时43分]"
         },
         {
           "title": "网警提醒无人机职业刷机涉嫌违法犯罪",
