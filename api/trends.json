@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T00:48:38.684149+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-10-24T01:16:25.520788+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -35,11 +35,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "美国旧金山市长：特朗普取消联邦部队的部署。",
+          "url": "https://flash.jin10.com/detail/20251024003153717800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
+          "url": "https://wallstreetcn.com/livenews/2992702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2992701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
@@ -49,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -60,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -72,8 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "释新闻｜特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -84,8 +118,34 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
+        },
+        {
+          "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
+          "url": "https://wallstreetcn.com/livenews/2992698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
+          "url": "https://wallstreetcn.com/livenews/2992675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "俄罗斯总统普京：与美国总统特朗普讨论了俄罗斯石油供应形势对全球油价的影响，包括对美国的影响。",
@@ -100,39 +160,27 @@
           "time_info": "[00时21分 ~ 00时48分]"
         },
         {
-          "title": "报道：特朗普政府可能暂未考虑入股量子计算公司",
-          "url": "https://wallstreetcn.com/livenews/2992698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
-        },
-        {
-          "title": "报道：特朗普赦免被定罪的币安创始人赵长鹏。",
-          "url": "https://wallstreetcn.com/livenews/2992675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
-        },
-        {
           "title": "特朗普团队警告：政府停摆持续将加剧航班延误",
           "url": "https://flash.jin10.com/detail/20251023235736734800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普为何要斥巨资改造白宫",
+          "url": "https://www.toutiao.com/trending/7564377047804415526/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时16分"
         },
         {
           "title": "俄罗斯总统普京：很可能特朗普指的是峰会被推迟了。",
@@ -189,11 +237,12 @@
           "url": "https://www.douyin.com/hot/2279834",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -203,8 +252,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
@@ -220,6 +269,34 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果被英国法院裁定收取过高佣金 或面临逾15亿英镑赔偿",
+          "url": "https://flash.jin10.com/detail/20251024004337269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)在英国应用商店佣金诉讼案中败诉。",
+          "url": "https://flash.jin10.com/detail/20251023233846562800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -231,19 +308,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         },
         {
           "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
           "url": "https://flash.jin10.com/detail/20251024000146520800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时16分]"
         }
       ]
     },
@@ -259,25 +337,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 00时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：苹果(AAPL.O)在英国应用商店佣金诉讼案中败诉。",
-          "url": "https://flash.jin10.com/detail/20251023233846562800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
         }
       ]
     },
