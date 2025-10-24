@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T07:37:10.288618+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2025-10-24T09:08:13.914104+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 07时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -65,11 +65,12 @@
             13,
             14,
             12,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 07时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
@@ -84,6 +85,39 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 07时37分]"
+        },
+        {
+          "title": "普京回应特朗普取消会晤",
+          "url": "https://news.ifeng.com/c/8nhZDfyEWZm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 09时08分]"
+        },
+        {
+          "title": "普京和特朗普，最新一番较量",
+          "url": "https://news.ifeng.com/c/8nhjseWoxgd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普：将取消向旧金山派国民警卫队的计划",
+          "url": "https://news.ifeng.com/c/8nhYfXrmEBD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 09时08分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -101,17 +135,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "普京回应特朗普取消会晤",
-          "url": "https://news.ifeng.com/c/8nhZDfyEWZm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
@@ -146,17 +169,6 @@
           "time_info": "[01时16分 ~ 03时39分]"
         },
         {
-          "title": "普京和特朗普，最新一番较量",
-          "url": "https://news.ifeng.com/c/8nhjseWoxgd",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
           "title": "美国商务部官员：特朗普政府并没有与量子公司洽谈政府入股问题。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/2992701",
           "source": "华尔街见闻-快讯",
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时40分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普：将取消向旧金山派国民警卫队的计划",
-          "url": "https://news.ifeng.com/c/8nhYfXrmEBD",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
@@ -557,6 +558,17 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
+          "url": "https://www.cls.cn/detail/2179005",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "白宫：特朗普与普京会晤并非完全不可能",
           "url": "https://flash.jin10.com/detail/20251024032713443800",
           "source": "金十数据",
@@ -591,6 +603,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时48分]"
+        },
+        {
+          "title": "“特朗普取消会晤” 普京发声",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E4%BC%9A%E6%99%A4%E2%80%9D+%E6%99%AE%E4%BA%AC%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "特朗普团队警告：政府停摆持续将加剧航班延误",
@@ -671,6 +694,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "中信证券：预计特朗普关税案将在年底或明年一季度作出裁决",
+          "url": "https://flash.jin10.com/detail/20251024081140081800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "特朗普为何要斥巨资改造白宫",
           "url": "https://www.toutiao.com/trending/7564377047804415526/",
           "source": "今日头条",
@@ -739,6 +773,122 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
+          "url": "https://wallstreetcn.com/livenews/2992760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 06时15分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时16分]"
+        },
+        {
+          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
+          "url": "https://www.cls.cn/detail/2179066",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
+          "url": "https://flash.jin10.com/detail/20251024000146520800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时16分]"
+        },
+        {
+          "title": "谷歌将向Anthropic供应最高100万枚专用AI芯片",
+          "url": "https://flash.jin10.com/detail/20251024075154677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果被英国法院裁定收取过高佣金 或面临逾15亿英镑赔偿",
+          "url": "https://flash.jin10.com/detail/20251024004337269800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时40分]"
+        },
+        {
+          "title": "OpenAI收购苹果前员工创立的AI初创公司",
+          "url": "https://flash.jin10.com/detail/20251024011125273800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)在英国应用商店佣金诉讼案中败诉。",
+          "url": "https://flash.jin10.com/detail/20251023233846562800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "苹果公司已经开始从美国得州休斯敦工厂发货人工智能（AI）高级服务器。 这是该公司在美国市场开支6000亿美元计划的一部分。",
+          "url": "https://wallstreetcn.com/livenews/2992835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -776,8 +926,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 07时37分]"
+          "appearance_count": 22,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "金价惊魂一夜后大妈挤爆金店",
@@ -789,89 +939,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 07时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "苹果被英国法院裁定收取过高佣金 或面临逾15亿英镑赔偿",
-          "url": "https://flash.jin10.com/detail/20251024004337269800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时40分]"
-        },
-        {
-          "title": "OpenAI收购苹果前员工创立的AI初创公司",
-          "url": "https://flash.jin10.com/detail/20251024011125273800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)在英国应用商店佣金诉讼案中败诉。",
-          "url": "https://flash.jin10.com/detail/20251023233846562800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
-          "url": "https://wallstreetcn.com/livenews/2992760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 06时15分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
-          "url": "https://flash.jin10.com/detail/20251024000146520800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时16分]"
         }
       ]
     },
@@ -978,6 +1045,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 05时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "违纪 被查 违法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "无人机职业刷机人涉嫌违法犯罪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%81%8C%E4%B8%9A%E5%88%B7%E6%9C%BA%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         }
       ]
     },
