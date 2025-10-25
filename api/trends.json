@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T19:13:27.626896+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-10-25T19:37:29.595547+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普：愿在亚洲行期间会见金正恩",
+          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时19分 ~ 19时37分]"
         },
         {
           "title": "韩统一部：特朗普金正恩会面机会“相当大”",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普：愿在亚洲行期间会见金正恩",
-          "url": "https://news.ifeng.com/c/8nju7bs3kIz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 19时13分]"
         },
         {
           "title": "美国总统特朗普：我们将与新任日本首相建立好的关系。 亚洲之行期间不计划会见加拿大总理卡尼。 与韩国的协议已相当接近达成。",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[07时16分 ~ 19时13分]"
+          "appearance_count": 25,
+          "time_info": "[07时16分 ~ 19时37分]"
         },
         {
           "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时20分 ~ 19时13分]"
+          "appearance_count": 19,
+          "time_info": "[12时20分 ~ 19时37分]"
         },
         {
           "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
@@ -167,6 +167,25 @@
           "time_info": "[04时20分 ~ 09时10分]"
         },
         {
+          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
+          "url": "https://flash.jin10.com/detail/20251025145116076800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            10,
+            13,
+            16,
+            19,
+            21,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时15分 ~ 19时37分]"
+        },
+        {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
           "url": "https://www.cls.cn/detail/2180455",
           "source": "财联社热门",
@@ -178,8 +197,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[07时16分 ~ 19时13分]"
+          "appearance_count": 25,
+          "time_info": "[07时16分 ~ 19时37分]"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -192,8 +211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时37分 ~ 19时13分]"
+          "appearance_count": 12,
+          "time_info": "[15时37分 ~ 19时37分]"
         },
         {
           "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
@@ -207,6 +226,24 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[10时47分 ~ 18时16分]"
+        },
+        {
+          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251025151023791800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            8,
+            11,
+            14,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时38分 ~ 19时37分]"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -252,48 +289,12 @@
             30,
             27,
             28,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 19时13分]"
-        },
-        {
-          "title": "当地时间10月24日晚间，美国总统特朗普启程前往马来西亚，并将访问日本和韩国。",
-          "url": "https://flash.jin10.com/detail/20251025145116076800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            10,
-            13,
-            16,
-            19,
-            21,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 19时13分]"
-        },
-        {
-          "title": "巴西总统卢拉：希望与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20251025151023791800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            8,
-            11,
-            14,
-            16,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时38分 ~ 19时13分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 19时37分]"
         },
         {
           "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
@@ -337,6 +338,20 @@
           "time_info": "[04时41分 ~ 09时10分]"
         },
         {
+          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 19时37分]"
+        },
+        {
           "title": "为何特朗普把中美会晤放在行程最后",
           "url": "https://www.toutiao.com/trending/7565044586163211839/",
           "source": "今日头条",
@@ -363,6 +378,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时20分 ~ 14时45分]"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
+          "url": "https://flash.jin10.com/detail/20251025185202927800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时37分]"
+        },
+        {
+          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2993685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时37分]"
         },
         {
           "title": "美国总统特朗普：（当被问及对委内瑞拉的袭击）我们拭目以待。",
@@ -429,18 +466,15 @@
           "time_info": "[01时16分 ~ 03时37分]"
         },
         {
-          "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
-          "url": "https://flash.jin10.com/detail/20251025171620948800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
+          "url": "https://flash.jin10.com/detail/20251025183737163800",
           "source": "金十数据",
           "ranks": [
-            1,
-            3,
-            7,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时13分]"
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时37分]"
         },
         {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
@@ -458,26 +492,19 @@
           "time_info": "[12时20分 ~ 14时45分]"
         },
         {
-          "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
-          "url": "https://flash.jin10.com/detail/20251025185202927800",
-          "source": "金十数据",
+          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
+          "url": "https://www.toutiao.com/trending/7565063614768352822/",
+          "source": "今日头条",
           "ranks": [
-            1
+            18,
+            7,
+            8,
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2993685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 19时37分]"
         },
         {
           "title": "特朗普对以色列放出迄今最明确警告",
@@ -521,31 +548,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 03时15分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
-          "url": "https://flash.jin10.com/detail/20251025183737163800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "特朗普在“对中贸易争锋”中阵脚已乱",
-          "url": "https://www.toutiao.com/trending/7565063614768352822/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 19时13分]"
         },
         {
           "title": "美国总统特朗普：（当谈及里根关税广告）加拿大本应在今晚撤下该广告。",
@@ -733,6 +735,18 @@
           "time_info": "[00时49分 ~ 01时16分]"
         },
         {
+          "title": "特朗普拟邀高市早苗同乘总统专机",
+          "url": "https://www.toutiao.com/trending/7565015433696247871/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 19时37分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：特朗普对加拿大非常失望",
           "url": "https://wallstreetcn.com/livenews/2993515",
           "source": "华尔街见闻-快讯",
@@ -754,17 +768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "特朗普拟邀高市早苗同乘总统专机",
-          "url": "https://www.toutiao.com/trending/7565015433696247871/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
         },
         {
           "title": "特朗普承诺遭以色列打脸",
@@ -804,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时38分 ~ 19时13分]"
+          "appearance_count": 23,
+          "time_info": "[07时38分 ~ 19时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.7%，苹果创历史新高，本周亚马逊涨超5.2%、特斯拉跌1.3%",
@@ -831,11 +834,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 19时37分]"
         }
       ]
     },
