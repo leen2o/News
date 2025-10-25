@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T10:47:48.660741+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2025-10-25T11:33:44.799837+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
@@ -28,6 +28,35 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时20分 ~ 06时42分]"
+        },
+        {
+          "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
+          "url": "https://wallstreetcn.com/livenews/2993602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            10,
+            11,
+            12,
+            19,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时41分 ~ 11时33分]"
+        },
+        {
+          "title": "韩统一部：特朗普金正恩会面机会“相当大”",
+          "url": "https://news.ifeng.com/c/8nizznpKteH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 11时33分]"
         },
         {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
@@ -55,23 +84,6 @@
           "time_info": "[04时20分 ~ 09时10分]"
         },
         {
-          "title": "伯南克和耶伦等经济学家敦促美国最高法院推翻特朗普多数关税",
-          "url": "https://wallstreetcn.com/livenews/2993602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            10,
-            11,
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时41分 ~ 10时47分]"
-        },
-        {
           "title": "特朗普赦免币安创始人赵长鹏",
           "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
           "source": "澎湃新闻",
@@ -81,19 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 10时47分]"
-        },
-        {
-          "title": "韩统一部：特朗普金正恩会面机会“相当大”",
-          "url": "https://news.ifeng.com/c/8nizznpKteH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 10时47分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 11时33分]"
         },
         {
           "title": "报道：特朗普提名加密货币专家迈克尔·塞利格担任CFTC主席",
@@ -111,6 +112,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时41分 ~ 10时47分]"
+        },
+        {
+          "title": "特朗普谈普京对美强硬表态：拭目以待",
+          "url": "https://www.toutiao.com/trending/7564749571637841435/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 11时33分]"
         },
         {
           "title": "美国高级官员：特朗普将在马来西亚签署重要和平协议。",
@@ -135,20 +150,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时41分 ~ 09时10分]"
-        },
-        {
-          "title": "特朗普谈普京对美强硬表态：拭目以待",
-          "url": "https://www.toutiao.com/trending/7564749571637841435/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 10时47分]"
         },
         {
           "title": "加拿大安大略省将撤销造成美国总统特朗普叫停两国之间对话的“反对关税”广告。（加拿大媒体Globe）",
@@ -183,6 +184,31 @@
           "time_info": "[01时16分 ~ 03时37分]"
         },
         {
+          "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
+          "url": "https://www.cls.cn/detail/2180455",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
+          "url": "https://www.cls.cn/detail/2180450",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 11时33分]"
+        },
+        {
           "title": "特朗普对以色列放出迄今最明确警告",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BE%E5%87%BA%E8%BF%84%E4%BB%8A%E6%9C%80%E6%98%8E%E7%A1%AE%E8%AD%A6%E5%91%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E4%25BB%25A5%25E8%2589%25B2%25E5%2588%2597%25E6%2594%25BE%25E5%2587%25BA%25E8%25BF%2584%25E4%25BB%258A%25E6%259C%2580%25E6%2598%258E%25E7%25A1%25AE%25E8%25AD%25A6%25E5%2591%258A%2523%26realpos%3D26%26dgr%3D0%26stream_entry_id%3D31%26flag%3D0%26pos%3D25%26lcate%3D5001%26display_time%3D1761339761%26pre_seqid%3D17613397619570118797828",
           "source": "微博",
@@ -210,31 +236,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 03时15分]"
-        },
-        {
-          "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
-          "url": "https://www.cls.cn/detail/2180455",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 10时47分]"
-        },
-        {
-          "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
-          "url": "https://www.cls.cn/detail/2180450",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 10时47分]"
         },
         {
           "title": "加拿大安大略省长宣布：将暂停播放针对特朗普关税的广告",
@@ -315,6 +316,17 @@
           "time_info": "[02时22分 ~ 03时15分]"
         },
         {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 11时33分]"
+        },
+        {
           "title": "美媒：特朗普计划打造全新下一代“黄金舰队”或配备高超音速导弹",
           "url": "https://flash.jin10.com/detail/20251025025933400800",
           "source": "金十数据",
@@ -350,15 +362,26 @@
           "time_info": "[00时20分 ~ 00时49分]"
         },
         {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸，否则将失去美国一切支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31832113",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：（当谈及里根关税广告）加拿大本应在今晚撤下该广告。",
+          "url": "https://flash.jin10.com/detail/20251025104846974800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "网传特朗普考虑解散 NASA，这是真的吗？有哪些战略考量？",
+          "url": "https://www.zhihu.com/question/1964651579887059073",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "11时33分"
         },
         {
           "title": "普京特使Kirill Dmitriev：各种力量，主要是英国和欧洲人，正试图破坏普京与特朗普之间的直接对话。",
@@ -388,11 +411,12 @@
             14,
             15,
             22,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时41分 ~ 10时47分]"
+          "appearance_count": 10,
+          "time_info": "[04时41分 ~ 11时33分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -403,8 +427,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 11时33分]"
         }
       ]
     },
@@ -421,22 +445,24 @@
             2,
             3,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时37分 ~ 10时47分]"
+          "appearance_count": 8,
+          "time_info": "[05时37分 ~ 11时33分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
           "url": "https://flash.jin10.com/detail/20251025085423303800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 11时33分]"
         }
       ]
     },
