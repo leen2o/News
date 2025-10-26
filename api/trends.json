@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T17:38:22.748462+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-10-26T18:17:30.561445+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -93,8 +93,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时18分 ~ 17时38分]"
+          "appearance_count": 17,
+          "time_info": "[12时18分 ~ 18时17分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
@@ -114,6 +114,17 @@
           "time_info": "[10时55分 ~ 15时16分]"
         },
         {
+          "title": "外交首秀也是“首考”！高市早苗28日见特朗普，她将如何接招？",
+          "url": "https://news.ifeng.com/c/8nlb4BL6H2E",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普拆建白宫为何招非议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -125,11 +136,12 @@
             9,
             13,
             22,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时40分 ~ 17时38分]"
+          "appearance_count": 18,
+          "time_info": "[11时40分 ~ 18时17分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -143,11 +155,12 @@
             13,
             16,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时18分 ~ 17时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时18分 ~ 18时17分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -167,17 +180,6 @@
           "is_new": false,
           "appearance_count": 31,
           "time_info": "[00时20分 ~ 17时38分]"
-        },
-        {
-          "title": "外交首秀也是“首考”！高市早苗28日见特朗普，她将如何接招？",
-          "url": "https://news.ifeng.com/c/8nlb4BL6H2E",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 17时38分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -227,8 +229,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时18分 ~ 17时38分]"
+          "appearance_count": 17,
+          "time_info": "[12时18分 ~ 18时17分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -243,8 +245,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时19分 ~ 17时38分]"
+          "appearance_count": 42,
+          "time_info": "[00时19分 ~ 18时17分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -282,8 +284,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时40分 ~ 17时38分]"
+          "appearance_count": 18,
+          "time_info": "[11时40分 ~ 18时17分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
@@ -391,6 +393,19 @@
           "time_info": "[14时47分 ~ 15时36分]"
         },
         {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
+        {
           "title": "高市早苗与特朗普进行首次电话会谈",
           "url": "https://flash.jin10.com/detail/20251026110048820800",
           "source": "金十数据",
@@ -404,18 +419,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时40分 ~ 13时40分]"
-        },
-        {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 17时38分]"
         },
         {
           "title": "特朗普宣布再对加拿大征收10%关税",
@@ -523,6 +526,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 17时38分]"
+        },
+        {
+          "title": "特朗普将至 韩国或含泪与美达成协议",
+          "url": "https://www.toutiao.com/trending/7565412581439966763/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 18时17分]"
         },
         {
           "title": "美国总统特朗普：将与泰国签署关键矿物协议。",
@@ -665,18 +681,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时55分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普将至 韩国或含泪与美达成协议",
-          "url": "https://www.toutiao.com/trending/7565412581439966763/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 17时38分]"
         },
         {
           "title": "美国总统特朗普：对泰国王太后逝世表示哀悼。",
@@ -823,6 +827,39 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
+          "url": "https://flash.jin10.com/detail/20251026173928957800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
+          "url": "https://flash.jin10.com/detail/20251026172854750800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "特朗普称即将对委内瑞拉展开地面军事行动，请问其动武的军费从何而来，一旦开战会对全球金融市场会有何影响？",
           "url": "https://www.zhihu.com/question/1964979374068573060",
           "source": "知乎",
@@ -832,6 +869,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "巴西外交部长：美巴两位总统进行了愉快的交谈，美国总统特朗普表示他钦佩巴西总统卢拉的政治生涯。",
+          "url": "https://flash.jin10.com/detail/20251026172301532800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "巴西外交部长：美国总统特朗普指示启动一项双边谈判进程，该进程应于今日展开。",
+          "url": "https://flash.jin10.com/detail/20251026172244859800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普为什么拿捏不了乌克兰",
@@ -942,11 +1001,12 @@
             12,
             14,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时22分 ~ 17时38分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 18时17分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -957,8 +1017,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时22分 ~ 17时38分]"
+          "appearance_count": 12,
+          "time_info": "[14时22分 ~ 18时17分]"
         },
         {
           "title": "矿企认为金价仍有3到5年高价窗口期",
@@ -1002,11 +1062,12 @@
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时17分]"
         }
       ]
     },
@@ -1021,11 +1082,12 @@
           "ranks": [
             21,
             13,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时17分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 18时17分]"
         }
       ]
     },
@@ -1042,8 +1104,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 17时38分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 18时17分]"
         }
       ]
     },
