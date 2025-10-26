@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T07:17:06.672592+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-10-27T07:39:30.613182+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -38,8 +38,27 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            25,
+            16,
+            21,
+            18,
+            23,
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -57,24 +76,6 @@
           "time_info": "[00时19分 ~ 06时17分]"
         },
         {
-          "title": "特朗普拆建白宫为何招非议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25,
-            16,
-            21,
-            18,
-            23,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
-        },
-        {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965770697927300097",
           "source": "知乎",
@@ -82,8 +83,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -111,8 +112,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时15分 ~ 07时17分]"
+          "appearance_count": 18,
+          "time_info": "[01时15分 ~ 07时39分]"
         },
         {
           "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
@@ -152,8 +153,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时41分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[04时41分 ~ 07时39分]"
         },
         {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
@@ -163,11 +164,12 @@
             28,
             25,
             27,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 07时39分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -180,6 +182,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 01时16分]"
+        },
+        {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         }
       ]
     },
@@ -196,8 +209,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -207,8 +220,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 07时39分]"
         }
       ]
     },
@@ -223,9 +236,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 07时39分]"
         }
       ]
     },
