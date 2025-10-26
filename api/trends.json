@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T18:40:10.172361+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-10-26T19:14:12.527012+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普：对加拿大再征收10%额外关税",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "如何评价特朗普大规模拆除白宫建筑，将斥资 2.5 亿美元改建 8000 平米宴会厅？",
@@ -104,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时18分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[12时18分 ~ 19时14分]"
         },
         {
           "title": "特朗普宣布对加拿大征收10%额外关税",
@@ -138,11 +138,12 @@
             22,
             21,
             14,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时40分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[11时40分 ~ 19时14分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -216,11 +217,12 @@
           "ranks": [
             11,
             25,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时55分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[10时55分 ~ 19时14分]"
         },
         {
           "title": "美国宣布对俄罗斯实施制裁，特朗普已取消与普京的会面，哪些信息值得关注？",
@@ -231,8 +233,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时18分 ~ 18时40分]"
+          "appearance_count": 21,
+          "time_info": "[12时18分 ~ 19时14分]"
+        },
+        {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -248,8 +263,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时19分 ~ 18时40分]"
+          "appearance_count": 46,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -273,8 +288,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时40分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[11时40分 ~ 19时14分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -346,19 +361,6 @@
           "time_info": "[09时17分 ~ 13时40分]"
         },
         {
-          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
-          "url": "https://www.cls.cn/detail/2180721",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时20分 ~ 18时40分]"
-        },
-        {
           "title": "特朗普抵达马来西亚 跳经典舞蹈互动",
           "url": "https://www.toutiao.com/trending/7564726834030592063/",
           "source": "今日头条",
@@ -410,6 +412,18 @@
           "time_info": "[14时47分 ~ 15时36分]"
         },
         {
+          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
+          "url": "https://wallstreetcn.com/livenews/2993772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时14分]"
+        },
+        {
           "title": "高市早苗与特朗普进行首次电话会谈",
           "url": "https://flash.jin10.com/detail/20251026110048820800",
           "source": "金十数据",
@@ -454,15 +468,15 @@
           "time_info": "[10时55分 ~ 13时18分]"
         },
         {
-          "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
-          "url": "https://wallstreetcn.com/livenews/2993772",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
+          "url": "https://flash.jin10.com/detail/20251026184624203800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时14分"
         },
         {
           "title": "美国总统特朗普：对巴西前总统博索纳罗所经历的事情深感遗憾。",
@@ -582,6 +596,17 @@
           "time_info": "[13时18分 ~ 14时22分]"
         },
         {
+          "title": "泰柬签和平协议 特朗普抢镜成功",
+          "url": "https://www.toutiao.com/trending/7565253533575069702/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：马来西亚将在泰国和柬埔寨部署观察员。",
           "url": "https://flash.jin10.com/detail/20251026124549150800",
           "source": "金十数据",
@@ -698,6 +723,18 @@
           "time_info": "[10时55分 ~ 12时43分]"
         },
         {
+          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
+          "url": "https://flash.jin10.com/detail/20251026173928957800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时14分]"
+        },
+        {
           "title": "美国总统特朗普：对泰国王太后逝世表示哀悼。",
           "url": "https://flash.jin10.com/detail/20251026124040884800",
           "source": "金十数据",
@@ -722,6 +759,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时22分]"
+        },
+        {
+          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20251026173029020800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时14分]"
+        },
+        {
+          "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
+          "url": "https://flash.jin10.com/detail/20251026172854750800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普称“国际部队”不久将进驻加沙",
@@ -760,26 +821,15 @@
           "time_info": "[15时36分 ~ 16时21分]"
         },
         {
-          "title": "泰柬签和平协议 特朗普抢镜成功",
-          "url": "https://www.toutiao.com/trending/7565253533575069702/",
-          "source": "今日头条",
+          "title": "美俄代表持续接触，特朗普：暂不打算见普京",
+          "url": "https://news.ifeng.com/c/8nlfLKUi6bc",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时39分 ~ 18时40分]"
-        },
-        {
-          "title": "美国财长贝森特：自美国总统特朗普上任以来，总体通胀率已下降。",
-          "url": "https://flash.jin10.com/detail/20251026173928957800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时40分]"
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "柬埔寨首相：对美国总统特朗普的果断领导和支持持久和平表示深切感谢。",
@@ -827,28 +877,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时21分 ~ 16时44分]"
-        },
-        {
-          "title": "巴西外交部长：巴西总统卢拉告诉美国总统特朗普，拉丁美洲是一个和平的地区，并提出愿意与委内瑞拉进行斡旋，以寻找解决方案。",
-          "url": "https://flash.jin10.com/detail/20251026173029020800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时40分]"
-        },
-        {
-          "title": "巴西外交部执行秘书：巴西总统卢拉告诉美国总统特朗普，实施马格尼茨基制裁是不公平的。",
-          "url": "https://flash.jin10.com/detail/20251026172854750800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时40分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -906,6 +934,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时17分 ~ 18时40分]"
+        },
+        {
+          "title": "克里姆林宫：是美国总统特朗普首先表示在匈牙利举行峰会毫无意义，俄罗斯总统普京对此表示赞同。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181522320800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京赞赏美国总统特朗普解决乌克兰危机的愿望，但不可能一蹴而就。",
+          "url": "https://flash.jin10.com/detail/20251026181455137800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "克里姆林宫：谈论取消俄罗斯总统普京与美国总统特朗普的峰会是错误的。（俄新社）",
+          "url": "https://flash.jin10.com/detail/20251026181153765800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "特朗普称即将对委内瑞拉展开地面军事行动，请问其动武的军费从何而来，一旦开战会对全球金融市场会有何影响？",
@@ -1031,8 +1092,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时22分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -1040,11 +1101,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时22分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[14时22分 ~ 19时14分]"
         },
         {
           "title": "矿企认为金价仍有3到5年高价窗口期",
@@ -1092,8 +1154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 19时14分]"
         }
       ]
     },
@@ -1131,8 +1193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时18分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[12时18分 ~ 19时14分]"
         }
       ]
     },
