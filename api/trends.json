@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:18:29.688884+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-10-27T15:41:06.550961+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -144,6 +144,18 @@
           "time_info": "[00时19分 ~ 05时38分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -174,16 +186,18 @@
           "time_info": "[04时41分 ~ 07时39分]"
         },
         {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            13,
+            11,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时44分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时50分 ~ 15时41分]"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -222,17 +236,18 @@
           "time_info": "[13时44分 ~ 15时18分]"
         },
         {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
+          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/2994045",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            1,
             13,
-            11,
-            10
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 15时41分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -260,17 +275,17 @@
           "time_info": "[12时50分 ~ 13时44分]"
         },
         {
-          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
-          "url": "https://wallstreetcn.com/livenews/2994045",
+          "title": "特朗普：期待与日本新首相高市早苗会面。",
+          "url": "https://wallstreetcn.com/livenews/2994063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            13,
-            18
+            3,
+            8,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时30分 ~ 15时18分]"
+          "time_info": "[14时54分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
@@ -284,18 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时50分 ~ 13时44分]"
-        },
-        {
-          "title": "特朗普：期待与日本新首相高市早苗会面。",
-          "url": "https://wallstreetcn.com/livenews/2994063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
@@ -399,6 +402,19 @@
           "time_info": "[07时39分 ~ 09时18分]"
         },
         {
+          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
+          "url": "https://wallstreetcn.com/livenews/2994047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 15时41分]"
+        },
+        {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
           "url": "https://www.toutiao.com/trending/7564722086686507044/",
           "source": "今日头条",
@@ -444,6 +460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 15时18分]"
+        },
+        {
+          "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
+          "url": "https://flash.jin10.com/detail/20251027144820744800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：我们必须立即拯救芝加哥，我们可以很容易做到，但必须迅速行动。",
@@ -492,18 +520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时50分]"
-        },
-        {
-          "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
-          "url": "https://wallstreetcn.com/livenews/2994047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时18分]"
         },
         {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
@@ -659,15 +675,15 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
-          "url": "https://flash.jin10.com/detail/20251027144820744800",
+          "title": "特朗普：不会在2028年竞选副总统",
+          "url": "https://flash.jin10.com/detail/20251027151453609800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "15时41分"
         },
         {
           "title": "美国财长贝森特：美联储主席人选筛选范围已缩减至五人。 希望感恩节后向特朗普提交一份好名单。",
@@ -679,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "特朗普今日将开启第二任期首次访日行程",
@@ -761,11 +788,12 @@
           "ranks": [
             29,
             19,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 15时41分]"
         },
         {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
@@ -801,11 +829,12 @@
           "url": "https://wallstreetcn.com/livenews/2994070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时41分]"
         },
         {
           "title": "据悉苹果地图正计划引入广告",
