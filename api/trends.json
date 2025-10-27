@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T21:30:15.849945+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-10-27T21:51:42.180378+08:00",
+  "total_titles_processed": 1938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时21分 ~ 21时30分]"
+          "appearance_count": 11,
+          "time_info": "[17时21分 ~ 21时51分]"
         },
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -221,8 +221,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 21时30分]"
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 21时51分]"
         },
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -233,8 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 21时30分]"
+          "appearance_count": 8,
+          "time_info": "[18时21分 ~ 21时51分]"
         },
         {
           "title": "特朗普谈南海坠机：或用了劣质燃料",
@@ -244,8 +244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 21时51分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -255,8 +255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 21时51分]"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -419,6 +419,32 @@
           "time_info": "[14时54分 ~ 15时18分]"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 21时51分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 21时51分]"
+        },
+        {
           "title": "美国总统特朗普：将确保牧场不受损害。",
           "url": "https://flash.jin10.com/detail/20251027141231764800",
           "source": "金十数据",
@@ -496,28 +522,16 @@
           "time_info": "[14时54分 ~ 15时41分]"
         },
         {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
           "ranks": [
-            16,
-            15
+            12,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时30分]"
-        },
-        {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时30分]"
+          "time_info": "[21时29分 ~ 21时51分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -672,17 +686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时40分]"
-        },
-        {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
@@ -860,6 +863,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "特朗普欲购买阿根廷牛肉 共和党人罕见发声反对",
+          "url": "https://flash.jin10.com/detail/20251027213930146800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "特朗普：不会在2028年竞选副总统",
           "url": "https://flash.jin10.com/detail/20251027151453609800",
           "source": "金十数据",
@@ -880,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
+        },
+        {
+          "title": "特朗普：俄方应结束冲突而非试射导弹",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "特朗普今日将开启第二任期首次访日行程",
@@ -946,6 +971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "日本天皇亲自在门外接送特朗普",
@@ -1112,7 +1148,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1134,7 +1170,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1148,6 +1184,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时21分 ~ 21时30分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
+          "url": "https://flash.jin10.com/detail/20251027131215020800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时30分]"
+        },
+        {
+          "title": "市场分析：10年期美债收益率或升至6%",
+          "url": "https://flash.jin10.com/detail/20251027182712790800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时16分]"
+        },
+        {
+          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
+          "url": "https://flash.jin10.com/detail/20251027160831083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -1205,59 +1305,6 @@
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时21分 ~ 21时30分]"
-        },
-        {
-          "title": "10年期美债收益率上涨4个基点，至4.037%；30年期美债收益率上升3.9个基点，至4.625%。",
-          "url": "https://flash.jin10.com/detail/20251027131215020800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时30分]"
-        },
-        {
-          "title": "市场分析：10年期美债收益率或升至6%",
-          "url": "https://flash.jin10.com/detail/20251027182712790800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时16分]"
-        },
-        {
-          "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
-          "url": "https://flash.jin10.com/detail/20251027160831083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "违纪 被查 违法",
       "match_count": 1,
       "titles": [
@@ -1291,8 +1338,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 21时51分]"
         }
       ]
     },
