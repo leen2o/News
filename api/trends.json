@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T20:34:23.417067+08:00",
-  "total_titles_processed": 2045,
+  "generated_at": "2025-10-28T21:28:57.658195+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 102,
+      "match_count": 107,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时48分 ~ 20时34分]"
+          "appearance_count": 12,
+          "time_info": "[16时48分 ~ 21时28分]"
         },
         {
           "title": "高市早苗给特朗普送礼 日网民炸锅",
@@ -335,6 +335,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "知情人士：莫迪缺席马来西亚峰会，原因是担心特朗普谈及巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20251028210218375800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "特朗普访日遇运酒车翻倒专车改道",
           "url": "https://www.toutiao.com/trending/7565133400080895494/",
           "source": "今日头条",
@@ -477,7 +488,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -733,6 +744,17 @@
           "time_info": "[00时50分 ~ 01时15分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -742,6 +764,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 11时08分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
@@ -777,6 +810,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普1分钟内两次无视高市早苗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D8%26filter_type%3Drealtimehot%26pos%3D8%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26display_time%3D1761654005%26pre_seqid%3D176165400527203462649112",
+          "source": "微博",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时34分 ~ 21时28分]"
         },
         {
           "title": "特朗普：感谢贝森特“出色的工作”。 贝森特安抚了市场。 考虑让贝森特担任美联储主席，但他不想干。 美国贸易代表格里尔让“所有人都满意”，甚至对方也满意。 日本新首相表现非常好。 想感谢软银。 回忆与孙正义一起打高尔夫球的时光。",
@@ -893,17 +938,6 @@
           "time_info": "[19时15分 ~ 19时37分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
           "url": "https://flash.jin10.com/detail/20251028090036168800",
           "source": "金十数据",
@@ -937,17 +971,6 @@
           "time_info": "00时21分"
         },
         {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
-        },
-        {
           "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
           "url": "https://flash.jin10.com/detail/20251028090002688800",
           "source": "金十数据",
@@ -957,17 +980,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "特朗普1分钟内两次无视高市早苗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D8%26filter_type%3Drealtimehot%26pos%3D8%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26display_time%3D1761654005%26pre_seqid%3D176165400527203462649112",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时34分"
         },
         {
           "title": "特朗普与高市早苗就稀土和关键矿物供应达成一致",
@@ -1009,7 +1021,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1069,6 +1081,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "美国官员：特朗普下周可能会见乌兹别克斯坦总统。",
+          "url": "https://wallstreetcn.com/livenews/2995155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
           "url": "https://flash.jin10.com/detail/20251028100012683800",
           "source": "金十数据",
@@ -1078,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "特朗普：美国核潜艇就在俄海岸附近",
+          "url": "https://www.toutiao.com/trending/7565925591850663979/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "特朗普出席日本欢迎仪式，与日本新任首相高市早苗会面。",
@@ -1100,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "特朗普谈2028大选点名万斯鲁比奥",
+          "url": "https://www.toutiao.com/trending/7566235206777048618/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "特朗普回应美军机南海坠毁",
@@ -1144,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
+          "url": "https://wallstreetcn.com/livenews/2995148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -1207,7 +1263,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1229,9 +1285,156 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            9,
+            14,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时14分 ~ 07时37分]"
+        },
+        {
+          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
+          "url": "https://flash.jin10.com/detail/20251028141734494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时16分]"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
+          "url": "https://flash.jin10.com/detail/20251028172154979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)与OpenAI签署了新协议。",
+          "url": "https://flash.jin10.com/detail/20251028210128191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软美股盘前涨近5%，微软与OpenAI签署了一项新协议",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时15分]"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时42分]"
+        },
+        {
+          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
+          "url": "https://flash.jin10.com/detail/20251028183047581800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
+          "url": "https://flash.jin10.com/detail/20251028182437625800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "PayPal美股盘前涨超15%，公司与OpenAI达成支付合作",
+          "url": "https://wallstreetcn.com/livenews/2995062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -1261,8 +1464,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时39分 ~ 20时34分]"
+          "appearance_count": 25,
+          "time_info": "[11时39分 ~ 21时28分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1274,11 +1477,12 @@
             21,
             22,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时16分 ~ 18时47分]"
+          "appearance_count": 13,
+          "time_info": "[15时16分 ~ 21时28分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1302,11 +1506,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 20时34分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 21时28分]"
         },
         {
           "title": "金价",
@@ -1384,120 +1589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            9,
-            14,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时14分 ~ 07时37分]"
-        },
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 15时16分]"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
-          "url": "https://flash.jin10.com/detail/20251028172154979800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时15分]"
-        },
-        {
-          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
-          "url": "https://flash.jin10.com/detail/20251028123906600800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时42分]"
-        },
-        {
-          "title": "Paypal(PYPL.O)：将把全球商户网络接入OpenAI的系统。",
-          "url": "https://flash.jin10.com/detail/20251028183047581800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
-          "url": "https://wallstreetcn.com/livenews/2995041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "据CNBC：Paypal(PYPL.O)与OpenAI签署协议，成为ChatGPT的支付钱包。",
-          "url": "https://flash.jin10.com/detail/20251028182437625800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
-          "title": "PayPal美股盘前涨超15%，公司与OpenAI达成支付合作",
-          "url": "https://wallstreetcn.com/livenews/2995062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         }
       ]
     },
@@ -1764,7 +1855,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         }
