@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T11:08:58.669446+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-10-28T11:40:15.296714+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 11时08分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 11时40分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -148,6 +148,18 @@
           "time_info": "09时16分"
         },
         {
+          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 11时40分]"
+        },
+        {
           "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
           "url": "https://flash.jin10.com/detail/20251028090204345800",
           "source": "金十数据",
@@ -223,16 +235,40 @@
           "time_info": "[02时24分 ~ 03时37分]"
         },
         {
-          "title": "特朗普今日到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842038",
-          "source": "澎湃新闻",
+          "title": "特朗普：愿意延长亚洲行与金正恩会面",
+          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            19
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时42分 ~ 11时08分]"
+          "time_info": "[09时16分 ~ 11时40分]"
+        },
+        {
+          "title": "美军机南海坠毁 特朗普：可能油不好",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 11时40分]"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 11时40分]"
         },
         {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
@@ -283,17 +319,6 @@
           "time_info": "[00时50分 ~ 01时15分]"
         },
         {
-          "title": "特朗普：愿意延长亚洲行与金正恩会面",
-          "url": "https://news.ifeng.com/c/8noSUYL9rE6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时08分]"
-        },
-        {
           "title": "特朗普再提2028参选可能，点名两个潜在接班人",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -305,16 +330,15 @@
           "time_info": "[09时16分 ~ 11时08分]"
         },
         {
-          "title": "美军机南海坠毁 特朗普：可能油不好",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%B2%B9%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
+          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
+          "source": "凤凰网",
           "ranks": [
-            22,
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时08分]"
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
@@ -341,15 +365,15 @@
           "time_info": "[09时16分 ~ 11时08分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
           "source": "今日头条",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
@@ -402,7 +426,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -457,7 +481,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -512,7 +536,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -523,7 +547,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -534,9 +558,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "美国总统特朗普：日本正在增加国防开支。",
+          "url": "https://flash.jin10.com/detail/20251028105119280800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },
@@ -625,7 +660,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据报道，美国法官驳回了针对苹果公司因iPhone应用程序反垄断市场控制而提起的集体诉讼。",
@@ -642,6 +677,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时14分 ~ 07时37分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。苹果涨超3%，玻璃涨超2%，铁矿石、多晶硅、PTA、豆粕、短纤涨超1%。跌幅方面，沪银、沪金跌近3%，红枣、丁二烯橡胶、棕榈油、甲醇跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251028113043349800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
@@ -688,7 +734,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -698,8 +744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 11时40分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -716,6 +762,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 03时23分]"
+        },
+        {
+          "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
+          "url": "https://wallstreetcn.com/articles/3758018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "金价",
@@ -735,7 +792,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         }
@@ -898,6 +955,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时14分 ~ 07时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251028110428303800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     }
