@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:45:17.991893+08:00",
-  "total_titles_processed": 2309,
+  "generated_at": "2025-10-28T23:20:25.280955+08:00",
+  "total_titles_processed": 2369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 113,
+      "match_count": 120,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时48分 ~ 22时45分]"
+          "appearance_count": 17,
+          "time_info": "[16时48分 ~ 23时20分]"
         },
         {
           "title": "高市早苗给特朗普送礼 日网民炸锅",
@@ -247,6 +247,29 @@
           "time_info": "[09时16分 ~ 13时17分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时20分]"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时20分]"
+        },
+        {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
           "url": "https://news.ifeng.com/c/8noQCRgOldf",
           "source": "凤凰网",
@@ -298,29 +321,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 03时23分]"
-        },
-        {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时45分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时45分]"
         },
         {
           "title": "特朗普谈到重振美国造船业。",
@@ -425,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
-        },
-        {
-          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
-          "url": "https://wallstreetcn.com/livenews/2995211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "特朗普演讲时当众搂住高市早苗",
@@ -584,6 +573,17 @@
           "time_info": "[15时41分 ~ 16时49分]"
         },
         {
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时17分 ~ 23时20分]"
+        },
+        {
           "title": "知情人士：莫迪缺席马来西亚峰会，原因是担心特朗普谈及巴基斯坦",
           "url": "https://flash.jin10.com/detail/20251028210218375800",
           "source": "金十数据",
@@ -618,6 +618,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 20时34分]"
+        },
+        {
+          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
+          "url": "https://wallstreetcn.com/livenews/2995211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时20分]"
         },
         {
           "title": "特朗普和高市早苗登华盛顿号航母",
@@ -668,17 +680,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时16分 ~ 16时23分]"
-        },
-        {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时17分 ~ 22时45分]"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -1077,6 +1078,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
+          "url": "https://wallstreetcn.com/livenews/2995214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普与高市早苗就稀土和关键矿物供应达成一致",
           "url": "https://flash.jin10.com/detail/20251028102831714800",
           "source": "金十数据",
@@ -1119,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
+          "url": "https://wallstreetcn.com/livenews/2995213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "据纽约邮报：日本首相提名美国总统特朗普角逐明年诺贝尔和平奖。",
@@ -1187,6 +1210,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
+          "url": "https://wallstreetcn.com/livenews/2995205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普盛赞盟友日本，更向高市承诺将努力“满足任何要求”",
           "url": "https://flash.jin10.com/detail/20251028100012683800",
           "source": "金十数据",
@@ -1220,6 +1254,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "信函显示，民主党参议员反对美国总统特朗普政府的计划，该计划拟放弃前总统拜登提出的建议，即强制航空公司就承运人造成的延误向旅客提供赔偿。",
+          "url": "https://flash.jin10.com/detail/20251028223800253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普称米莱赢了让美国赚了很多钱",
           "url": "https://www.toutiao.com/trending/7565088402136547337/",
           "source": "今日头条",
@@ -1229,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "纽柯钢铁(NUE.N)CEO：美国总统特朗普为美国钢铁业创造了“公平的竞争环境”。",
+          "url": "https://flash.jin10.com/detail/20251028223740867800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "特朗普回应美军机南海坠毁",
@@ -1273,6 +1329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：看不到美国总统特朗普寻求第三任期的路径。",
+          "url": "https://flash.jin10.com/detail/20251028223624534800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "特朗普径自走过日本国旗未鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -1366,7 +1444,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -1442,15 +1520,15 @@
           "time_info": "21时48分"
         },
         {
-          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
-          "url": "https://flash.jin10.com/detail/20251028222603957800",
-          "source": "金十数据",
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "23时20分"
         },
         {
           "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
@@ -1463,6 +1541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时28分 ~ 21时48分]"
+        },
+        {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时20分]"
         },
         {
           "title": "PAYPAL美股盘前涨超15%，公司与OpenAI达成支付合作。",
@@ -1498,6 +1588,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
+          "url": "https://flash.jin10.com/detail/20251028224945145800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
+          "url": "https://flash.jin10.com/detail/20251028224651919800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
@@ -1659,8 +1771,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时39分 ~ 22时45分]"
+          "appearance_count": 30,
+          "time_info": "[11时39分 ~ 23时20分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1689,8 +1801,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时47分 ~ 22时45分]"
+          "appearance_count": 10,
+          "time_info": "[18时47分 ~ 23时20分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1721,6 +1833,18 @@
           "time_info": "[22时17分 ~ 22时45分]"
         },
         {
+          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
+          "url": "https://wallstreetcn.com/livenews/2995204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时20分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26display_time%3D1761614174%26pre_seqid%3D176161417484201942585155",
           "source": "微博",
@@ -1730,17 +1854,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 11时08分]"
-        },
-        {
-          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
-          "url": "https://wallstreetcn.com/livenews/2995204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
@@ -1982,17 +2095,6 @@
           "time_info": "[19时15分 ~ 19时37分]"
         },
         {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/2994485",
           "source": "华尔街见闻-快讯",
@@ -2018,6 +2120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 03时23分]"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时20分]"
         },
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
