@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:15:32.484784+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2025-10-29T07:39:57.386323+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -63,8 +63,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
+        },
+        {
+          "title": "美国参议院批准一项措施，旨在结束（总统特朗普）针对巴西商品的关税。",
+          "url": "https://wallstreetcn.com/livenews/2995412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时39分]"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -79,17 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 06时16分]"
-        },
-        {
-          "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
-          "url": "https://flash.jin10.com/detail/20251029070406007800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -133,28 +133,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
-          "url": "https://flash.jin10.com/detail/20251029070107370800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美国参议院批准一项措施，旨在结束（总统特朗普）针对巴西商品的关税。",
-          "url": "https://wallstreetcn.com/livenews/2995412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
           "title": "CME活牛期货跌超0.4%，饲牛期货跌3.4%，美国总统特朗普要求美国市场降低牛肉价格。",
           "url": "https://wallstreetcn.com/livenews/2995304",
           "source": "华尔街见闻-快讯",
@@ -166,6 +144,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 03时38分]"
+        },
+        {
+          "title": "特朗普对巴西加征关税的措施遭参议院象征性否决",
+          "url": "https://flash.jin10.com/detail/20251029071141153800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "周三（10月29日）亚太盘初，美国三大股指期货均涨超0.1%，美国总统特朗普即将到访韩国，美联储即将发布利率决议。",
+          "url": "https://wallstreetcn.com/livenews/2995401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时39分]"
+        },
+        {
+          "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20251029070406007800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时39分]"
         },
         {
           "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
@@ -181,6 +194,18 @@
           "time_info": "[00时23分 ~ 01时23分]"
         },
         {
+          "title": "美国参议院通过法案，终止美国总统特朗普针对巴西的关税措施。",
+          "url": "https://flash.jin10.com/detail/20251029070107370800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时15分 ~ 07时39分]"
+        },
+        {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
           "url": "https://wallstreetcn.com/livenews/2995257",
           "source": "华尔街见闻-快讯",
@@ -192,18 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 01时41分]"
-        },
-        {
-          "title": "周三（10月29日）亚太盘初，美国三大股指期货均涨超0.1%，美国总统特朗普即将到访韩国，美联储即将发布利率决议。",
-          "url": "https://wallstreetcn.com/livenews/2995401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时15分]"
         },
         {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
@@ -232,6 +245,18 @@
           "time_info": "[04时21分 ~ 05时38分]"
         },
         {
+          "title": "特朗普再批美联储主席鲍威尔",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 07时39分]"
+        },
+        {
           "title": "美国参议院多数派领导人John Thune：如果政府停摆事件结束，总统特朗普愿意下周会见民主党。",
           "url": "https://wallstreetcn.com/livenews/2995309",
           "source": "华尔街见闻-快讯",
@@ -254,18 +279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 04时21分]"
-        },
-        {
-          "title": "特朗普再批美联储主席鲍威尔",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时15分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：如果政府停摆结束，美国总统特朗普愿意在下周与民主党人会面。",
@@ -400,8 +413,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -505,7 +518,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -515,8 +528,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -527,8 +540,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -544,8 +557,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 07时39分]"
         },
         {
           "title": "金价银价暴跌原因",
@@ -565,11 +578,23 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时39分]"
+        },
+        {
+          "title": "金价暴跌有投资者打算割肉离场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26c_type%3D31%26cate%3D5001%26pos%3D22%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26filter_type%3Drealtimehot%26display_time%3D1761694204%26pre_seqid%3D1761694204524012737422",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "金价回调原因",
@@ -578,7 +603,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -623,11 +648,12 @@
             4,
             11,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时38分 ~ 07时15分]"
+          "appearance_count": 5,
+          "time_info": "[05时38分 ~ 07时39分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
