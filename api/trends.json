@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T19:37:47.720763+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2025-10-28T20:34:23.417067+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 95,
+      "match_count": 102,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -31,6 +31,18 @@
           "time_info": "[00时21分 ~ 05时39分]"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时48分 ~ 20时34分]"
+        },
+        {
           "title": "高市早苗给特朗普送礼 日网民炸锅",
           "url": "https://www.toutiao.com/trending/7566135501460098598/",
           "source": "今日头条",
@@ -38,11 +50,12 @@
             10,
             2,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时41分 ~ 19时37分]"
+          "appearance_count": 14,
+          "time_info": "[15时41分 ~ 20时34分]"
         },
         {
           "title": "特朗普见高市早苗三句话不离安倍",
@@ -60,17 +73,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[12时43分 ~ 18时19分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时48分 ~ 19时37分]"
         },
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -111,11 +113,12 @@
             22,
             25,
             26,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时08分 ~ 17时42分]"
+          "appearance_count": 16,
+          "time_info": "[11时08分 ~ 20时34分]"
         },
         {
           "title": "特朗普：很长时间内不想和加总理见面",
@@ -302,11 +305,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
@@ -400,17 +404,6 @@
           "time_info": "18时47分"
         },
         {
-          "title": "特朗普：想祝贺英伟达的黄仁勋。 明天将会见黄仁勋。",
-          "url": "https://wallstreetcn.com/livenews/2995103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "特朗普演讲时当众搂住高市早苗",
           "url": "https://www.toutiao.com/trending/7565434042020056612/",
           "source": "今日头条",
@@ -478,15 +471,15 @@
           "time_info": "18时47分"
         },
         {
-          "title": "特朗普重申对美联储主席鲍威尔的批评。特朗普称，鲍威尔将在“几个月后”卸任。",
-          "url": "https://wallstreetcn.com/livenews/2995100",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普媒体科技集团(DJT.O)盘前上涨7.6%，公司计划进军预测市场。",
+          "url": "https://flash.jin10.com/detail/20251028202850707800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "20时34分"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -569,6 +562,31 @@
           "time_info": "[16时23分 ~ 16时49分]"
         },
         {
+          "title": "特朗普：想祝贺英伟达的黄仁勋。 明天将会见黄仁勋。",
+          "url": "https://wallstreetcn.com/livenews/2995103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时34分]"
+        },
+        {
+          "title": "特朗普和高市早苗登华盛顿号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
+        },
+        {
           "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
           "url": "https://flash.jin10.com/detail/20251028152443500800",
           "source": "金十数据",
@@ -579,6 +597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普重申对美联储主席鲍威尔的批评。特朗普称，鲍威尔将在“几个月后”卸任。",
+          "url": "https://wallstreetcn.com/livenews/2995100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时34分]"
         },
         {
           "title": "学者：特朗普的“慢刀子”扎进俄死穴",
@@ -655,6 +685,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时40分]"
+        },
+        {
+          "title": "特朗普：非常反对突袭搜查韩国工厂",
+          "url": "https://www.toutiao.com/trending/7565763131436777526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时34分]"
         },
         {
           "title": "特朗普与高市早苗一同乘机登上美航母",
@@ -743,29 +784,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普和高市早苗登华盛顿号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时37分]"
-        },
-        {
-          "title": "特朗普：非常反对突袭搜查韩国工厂",
-          "url": "https://www.toutiao.com/trending/7565763131436777526/",
-          "source": "今日头条",
-          "ranks": [
             16
           ],
           "is_new": false,
@@ -875,6 +893,17 @@
           "time_info": "[19时15分 ~ 19时37分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
           "url": "https://flash.jin10.com/detail/20251028090036168800",
           "source": "金十数据",
@@ -908,6 +937,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "日本首相高市早苗：希望与美国总统特朗普共同实现日美同盟的新黄金时代。",
           "url": "https://flash.jin10.com/detail/20251028090002688800",
           "source": "金十数据",
@@ -917,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普1分钟内两次无视高市早苗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D8%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D8%26filter_type%3Drealtimehot%26pos%3D8%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26lcate%3D5001%26display_time%3D1761654005%26pre_seqid%3D176165400527203462649112",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "特朗普与高市早苗就稀土和关键矿物供应达成一致",
@@ -950,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普：将降低牛肉价格 或许牧场主的境况太好了",
+          "url": "https://wallstreetcn.com/livenews/2995130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "日本首相高市早苗：高度赞赏特朗普对世界和平与稳定的承诺。",
@@ -1139,6 +1201,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "如何看待特朗普高市早苗同乘海军一号",
+          "url": "https://www.toutiao.com/trending/7566223667332386345/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "美国总统特朗普：日本正在增加国防开支。",
           "url": "https://flash.jin10.com/detail/20251028105119280800",
           "source": "金十数据",
@@ -1148,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "特朗普：美联储主席鲍威尔不是无能就是坏",
+          "url": "https://flash.jin10.com/detail/20251028200644703800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
@@ -1177,8 +1261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时39分 ~ 19时37分]"
+          "appearance_count": 24,
+          "time_info": "[11时39分 ~ 20时34分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1217,11 +1301,12 @@
           "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 20时34分]"
         },
         {
           "title": "金价",
@@ -1410,7 +1495,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -1635,7 +1720,7 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1671,6 +1756,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 05时39分]"
+        },
+        {
+          "title": "摩根大通美债客户多头占比降至去年12月以来新低",
+          "url": "https://wallstreetcn.com/livenews/2995121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
