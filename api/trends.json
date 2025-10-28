@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T12:44:15.312364+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2025-10-28T13:17:31.900323+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 13时17分]"
         },
         {
           "title": "美军机南海坠毁 特朗普：可能油不好",
@@ -129,8 +129,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 13时17分]"
+        },
+        {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时16分 ~ 12时44分]"
+          "time_info": "[11时08分 ~ 13时17分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -175,15 +187,15 @@
           "time_info": "[00时50分 ~ 03时23分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
+          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
+          "url": "https://news.ifeng.com/c/8noQCRgOldf",
+          "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时08分 ~ 12时44分]"
+          "time_info": "[11时39分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：正在与日本签署一项新协议，这是一项公平的协议。",
@@ -195,6 +207,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普东京下榻酒店军犬检查车辆",
+          "url": "https://www.toutiao.com/trending/7565376015993356324/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：对日本订购军事装备表示赞赏。",
@@ -244,17 +269,6 @@
           "time_info": "[00时50分 ~ 02时24分]"
         },
         {
-          "title": "特朗普再提2028参选可能，点名两个潜在继任者",
-          "url": "https://news.ifeng.com/c/8noQCRgOldf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 12时44分]"
-        },
-        {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
           "url": "https://flash.jin10.com/detail/20251028054741724800",
           "source": "金十数据",
@@ -283,16 +297,17 @@
           "time_info": "[02时24分 ~ 03时37分]"
         },
         {
-          "title": "特朗普东京下榻酒店军犬检查车辆",
-          "url": "https://www.toutiao.com/trending/7565376015993356324/",
-          "source": "今日头条",
+          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
+          "url": "https://flash.jin10.com/detail/20251028114540746800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            14
+            6,
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
@@ -306,6 +321,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时17分]"
         },
         {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
@@ -344,6 +371,18 @@
           "time_info": "[12时20分 ~ 12时44分]"
         },
         {
+          "title": "特朗普访日遇运酒车翻倒专车改道",
+          "url": "https://www.toutiao.com/trending/7565133400080895494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时17分]"
+        },
+        {
           "title": "评论员：特朗普在马来西亚双喜临门",
           "url": "https://www.toutiao.com/trending/7565834902130658870/",
           "source": "今日头条",
@@ -364,18 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 11时08分]"
-        },
-        {
-          "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
-          "url": "https://flash.jin10.com/detail/20251028114540746800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时44分]"
         },
         {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
@@ -413,28 +440,6 @@
           "time_info": "[12时43分 ~ 12时44分]"
         },
         {
-          "title": "特朗普访日遇运酒车翻倒专车改道",
-          "url": "https://www.toutiao.com/trending/7565133400080895494/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
           "title": "市场消息：美国总统特朗普将日本前首相安倍称为“我的一位挚友”。",
           "url": "https://flash.jin10.com/detail/20251028090036168800",
           "source": "金十数据",
@@ -444,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
+          "url": "https://flash.jin10.com/detail/20251028124115417800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "日本首相高市早苗：欢迎特朗普访问日本。",
@@ -636,8 +652,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "谷歌宣布重启一核电站为AI基础设施供电",
+          "url": "https://flash.jin10.com/detail/20251028124839536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/2994485",
@@ -805,8 +832,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时16分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 13时17分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -833,8 +860,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 13时17分]"
         },
         {
           "title": "金价",
@@ -946,6 +973,39 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            9,
+            14,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时14分 ~ 07时37分]"
+        },
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -995,28 +1055,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 07时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            9,
-            14,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时14分 ~ 07时37分]"
         }
       ]
     },
