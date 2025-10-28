@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T01:02:13.540579+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-10-29T01:23:06.119498+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -30,29 +30,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
-          "url": "https://wallstreetcn.com/livenews/2995257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/2995246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时02分]"
-        },
-        {
           "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
           "url": "https://news.ifeng.com/c/8np9fQhEQk8",
           "source": "凤凰网",
@@ -60,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -71,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
@@ -82,19 +59,45 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
+        },
+        {
+          "title": "美国数十个州起诉总统特朗普砍掉食品救助的做法。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/2995246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "time_info": "[00时23分 ~ 01时23分]"
+        },
+        {
+          "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
+          "url": "https://wallstreetcn.com/livenews/2995257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时23分]"
         },
         {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
@@ -167,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
@@ -179,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "市场消息：微软将在OpenAI盈利性转型中获得后者20%的收入。",
@@ -230,7 +233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -259,8 +262,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -270,8 +273,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -279,11 +282,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 01时23分]"
         }
       ]
     }
