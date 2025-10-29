@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T07:20:09.037708+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2025-10-30T07:40:14.146631+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "特朗普：未能协调好与金正恩会晤时间",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
@@ -104,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
@@ -116,8 +116,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
@@ -128,8 +128,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         },
         {
           "title": "特朗普称麦克阿瑟独自起草日本宪法",
@@ -140,8 +140,22 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时25分 ~ 07时20分]"
+          "appearance_count": 8,
+          "time_info": "[05时25分 ~ 07时40分]"
+        },
+        {
+          "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251030055035230800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -163,24 +177,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
-        },
-        {
-          "title": "美国总统特朗普：我（我们！）刚刚在气候变化骗局的战斗中获胜。微软(MSFT.O)联合创始人比尔·盖茨终于承认他在这个问题上完全错误。这样做需要勇气，为此我们都表示感谢。",
-          "url": "https://flash.jin10.com/detail/20251030055035230800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            12
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
@@ -188,11 +190,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "特朗普：韩国已同意向美国支付3500亿美元 已批准韩国建造核动力潜艇",
@@ -201,11 +204,12 @@
           "ranks": [
             7,
             13,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普：已批准他们建造一艘核动力潜艇。",
@@ -214,11 +218,12 @@
           "ranks": [
             8,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普：韩国已同意向美国支付3500亿美元，以降低美国对其征收的关税。他们已同意大量购买我们的油气，而且韩国富裕企业和商人的对美投资将超过6000亿美元。",
@@ -227,11 +232,12 @@
           "ranks": [
             9,
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
         },
         {
           "title": "特朗普政府接触三个资金渠道，希望能实现在（政府关门期间于）周五对军队发工资。（Axios）",
@@ -284,11 +290,12 @@
             4,
             13,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时25分 ~ 07时20分]"
+          "appearance_count": 6,
+          "time_info": "[05时25分 ~ 07时40分]"
         },
         {
           "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
@@ -330,6 +337,20 @@
           "time_info": "[04时34分 ~ 06时17分]"
         },
         {
+          "title": "Alphabet(GOOG.O)CEO：预计今年晚些时候发布 Gemini 3。",
+          "url": "https://flash.jin10.com/detail/20251030054102591800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
           "url": "https://flash.jin10.com/detail/20251030041438967800",
           "source": "金十数据",
@@ -341,6 +362,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时34分 ~ 06时17分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO：更多智能体功能将“很快”登陆谷歌Chrome浏览器。",
+          "url": "https://flash.jin10.com/detail/20251030054050429800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时17分 ~ 07时40分]"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
@@ -369,17 +404,17 @@
           "time_info": "[06时17分 ~ 07时20分]"
         },
         {
-          "title": "Alphabet(GOOG.O)CEO：预计今年晚些时候发布 Gemini 3。",
-          "url": "https://flash.jin10.com/detail/20251030054102591800",
-          "source": "金十数据",
+          "title": "提醒：谷歌母公司Alphabet分析师电话会议结束。",
+          "url": "https://wallstreetcn.com/livenews/2996257",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            3,
             10,
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
@@ -395,41 +430,17 @@
           "time_info": "[06时17分 ~ 07时20分]"
         },
         {
-          "title": "Alphabet(GOOG.O)CEO：更多智能体功能将“很快”登陆谷歌Chrome浏览器。",
-          "url": "https://flash.jin10.com/detail/20251030054050429800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet分析师电话会议结束。",
-          "url": "https://wallstreetcn.com/livenews/2996257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
-        },
-        {
           "title": "Alphabet的CEO Pichai：谷歌将在2025年年底发布“显著改善的”Gemini。",
           "url": "https://wallstreetcn.com/livenews/2996256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
@@ -449,11 +460,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "谷歌母公司Alphabet首席财务官（CFO）Anat Ashkenazi：谷歌云增速得到企业AI产品的支持。",
@@ -461,11 +473,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时40分]"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
@@ -477,6 +490,115 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 04时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据媒体报道，OPENAI计划2026年提交IPO申请，着眼2027年上市。OPENAI首次公开募股对公司估值或最高达到1万亿美元左右。",
+          "url": "https://wallstreetcn.com/livenews/2996281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时20分]"
+        },
+        {
+          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
+          "url": "https://wallstreetcn.com/livenews/2996211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时25分 ~ 06时17分]"
+        },
+        {
+          "title": "OpenAI正式发布两款全新开源安全推理模型gpt-oss-safeguard-120b与gpt-oss-safeguard-20b。",
+          "url": "https://wallstreetcn.com/livenews/2996275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 07时40分]"
+        },
+        {
+          "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
+          "url": "https://wallstreetcn.com/livenews/2996244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时17分 ~ 07时20分]"
+        },
+        {
+          "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
+          "url": "https://wallstreetcn.com/livenews/2996226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 06时41分]"
+        },
+        {
+          "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
+          "url": "https://wallstreetcn.com/articles/3758225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
         }
       ]
     },
@@ -537,81 +659,6 @@
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“债券天王”比尔·格罗斯：美国10年期国债的短期目标收益率为4.25%。 10年期美债已经迎来最好的时光。",
-          "url": "https://wallstreetcn.com/livenews/2996244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "美债收益率全面上涨，2-10年期收益率至少涨10个基点，鲍威尔12月降息并非那么笃定的事",
-          "url": "https://wallstreetcn.com/livenews/2996226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 06时41分]"
-        },
-        {
-          "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
-          "url": "https://wallstreetcn.com/articles/3758166",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "微软因投资OpenAI而面临31亿美元冲击。",
-          "url": "https://wallstreetcn.com/livenews/2996237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时17分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
-          "url": "https://wallstreetcn.com/livenews/2996211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -634,11 +681,12 @@
           "url": "https://wallstreetcn.com/livenews/2996263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时40分]"
         }
       ]
     },
@@ -658,8 +706,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时33分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[04时33分 ~ 07时40分]"
         }
       ]
     }
