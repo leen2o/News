@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T06:42:29.187324+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-11-01T07:17:33.628939+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -72,8 +72,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时14分 ~ 06时42分]"
+          "appearance_count": 11,
+          "time_info": "[03时14分 ~ 07时17分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -114,8 +114,22 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[04时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
+          "url": "https://wallstreetcn.com/livenews/2997901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -140,19 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 03时37分]"
-        },
-        {
-          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
-          "url": "https://wallstreetcn.com/livenews/2997901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 06时42分]"
         },
         {
           "title": "美国罗德岛州法官：我将阻止特朗普政府在停摆期间暂停快速粮食援助福利的计划。",
@@ -205,17 +206,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
-          "url": "https://wallstreetcn.com/livenews/2997914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
           "url": "https://flash.jin10.com/detail/20251031235837933800",
           "source": "金十数据",
@@ -227,15 +217,16 @@
           "time_info": "00时20分"
         },
         {
-          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
-          "url": "https://wallstreetcn.com/livenews/2997913",
+          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
+          "url": "https://wallstreetcn.com/livenews/2997914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时17分]"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -249,6 +240,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 02时52分]"
+        },
+        {
+          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
+          "url": "https://wallstreetcn.com/livenews/2997913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时17分]"
         },
         {
           "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
@@ -401,6 +404,17 @@
           "time_info": "[03时14分 ~ 03时37分]"
         },
         {
+          "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
+          "url": "https://news.ifeng.com/c/8nujw83bPTx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
           "url": "https://flash.jin10.com/detail/20251031235806226800",
           "source": "金十数据",
@@ -432,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "特朗普否认已决定对委内瑞拉实施军事打击",
@@ -525,7 +550,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -535,19 +560,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3758368",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         },
         {
           "title": "苹果亚马逊盈利提振市场情绪，纳指涨1.5%，现货黄金震荡，加密货币上涨",
@@ -564,6 +590,18 @@
           "time_info": "[02时52分 ~ 06时42分]"
         },
         {
+          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
+          "url": "https://wallstreetcn.com/articles/3758382",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 07时17分]"
+        },
+        {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
           "url": "https://flash.jin10.com/detail/20251101010956991800",
           "source": "金十数据",
@@ -577,15 +615,15 @@
           "time_info": "[01时40分 ~ 02时52分]"
         },
         {
-          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
-          "url": "https://wallstreetcn.com/articles/3758382",
-          "source": "华尔街见闻",
+          "title": "苹果大中华区收入下滑",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E6%94%B6%E5%85%A5%E4%B8%8B%E6%BB%91",
+          "source": "百度热搜",
           "ranks": [
-            10
+            30
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 06时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -600,11 +638,12 @@
           "ranks": [
             7,
             12,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 06时42分]"
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
@@ -613,11 +652,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 06时42分]"
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 07时17分]"
         },
         {
           "title": "金价短线跳水，从4020美元一线跌向3970美元",
@@ -668,11 +708,12 @@
             2,
             9,
             14,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时46分 ~ 06时42分]"
+          "appearance_count": 6,
+          "time_info": "[04时46分 ~ 07时17分]"
         }
       ]
     },
@@ -722,8 +763,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 06时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 07时17分]"
         }
       ]
     },
