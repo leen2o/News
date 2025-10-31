@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T17:19:54.858116+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-10-31T17:41:35.141837+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时20分 ~ 17时19分]"
+          "appearance_count": 36,
+          "time_info": "[00时20分 ~ 17时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时56分 ~ 17时41分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -115,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时56分 ~ 17时41分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -230,8 +230,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 17时41分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -285,8 +285,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时13分 ~ 17时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时13分 ~ 17时41分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -404,6 +404,17 @@
           "time_info": "[07时37分 ~ 11时44分]"
         },
         {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时41分]"
+        },
+        {
           "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
           "url": "https://wallstreetcn.com/livenews/2997094",
           "source": "华尔街见闻-快讯",
@@ -444,17 +455,6 @@
           "time_info": "03时37分"
         },
         {
-          "title": "特朗普为何不参加APEC峰会",
-          "url": "https://www.toutiao.com/trending/7567275879148031498/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美国总统特朗普：因为民主党人已经彻底疯了，选择是明确的——启动“核选项”，摆脱阻挠议事。",
           "url": "https://flash.jin10.com/detail/20251031104017741800",
           "source": "金十数据",
@@ -476,6 +476,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 12时47分]"
+        },
+        {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国总统特朗普：现在是共和党人废除冗长辩论的时候了。",
@@ -714,6 +725,17 @@
           "time_info": "15时16分"
         },
         {
+          "title": "外交部回应特朗普“G2”集团言论",
+          "url": "https://www.toutiao.com/trending/7566848950186197011/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "美元兑卢布短线波动不大，此前英国金融时报报道称，莫斯科向华盛顿发送备忘录后，特朗普与普京的峰会被取消。",
           "url": "https://wallstreetcn.com/livenews/2997422",
           "source": "华尔街见闻-快讯",
@@ -723,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "据《国会山报》：当地时间周四晚些时候，特朗普再次抨击平价医疗法案(ACA)，要求民主党人在联邦资金陷入僵局的情况下，采取行动应对即将出现的费率大幅上涨问题。",
@@ -745,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "乌克兰外长：俄罗斯使用了导致特朗普退出中导条约的导弹",
+          "url": "https://flash.jin10.com/detail/20251031165712977800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美军舰艇发展路径会被特朗普改写吗",
@@ -772,8 +816,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 17时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时16分 ~ 17时41分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -787,8 +831,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时56分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[10时56分 ~ 17时41分]"
         },
         {
           "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
@@ -988,6 +1032,19 @@
           "time_info": "[05时21分 ~ 06时39分]"
         },
         {
+          "title": "李在镕出席活动感慨现场苹果手机多",
+          "url": "https://www.toutiao.com/trending/7566378143742476294/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 17时41分]"
+        },
+        {
           "title": "苹果(AAPL.O)CFO：预计12月当季的毛利率将在47%至48%之间。",
           "url": "https://flash.jin10.com/detail/20251031053017251800",
           "source": "金十数据",
@@ -1057,6 +1114,19 @@
           "time_info": "[05时21分 ~ 06时39分]"
         },
         {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 17时41分]"
+        },
+        {
           "title": "苹果盘后涨超5%。",
           "url": "https://wallstreetcn.com/livenews/2997146",
           "source": "华尔街见闻-快讯",
@@ -1081,18 +1151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 06时39分]"
-        },
-        {
-          "title": "李在镕出席活动感慨现场苹果手机多",
-          "url": "https://www.toutiao.com/trending/7566378143742476294/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时19分]"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
@@ -1155,18 +1213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 06时16分]"
-        },
-        {
-          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
-          "url": "https://wallstreetcn.com/livenews/2997557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 17时19分]"
         },
         {
           "title": "韦德布什：将苹果(AAPL.O)目标股价从310美元上调至320美元。",
@@ -1368,6 +1414,18 @@
           "time_info": "[11时44分 ~ 12时21分]"
         },
         {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时41分]"
+        },
+        {
           "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
           "url": "https://flash.jin10.com/detail/20251031101827586800",
           "source": "金十数据",
@@ -1388,17 +1446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "金价涨涨跌跌 旧首饰如何处理",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         }
       ]
     },
@@ -1452,8 +1499,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 17时41分]"
         }
       ]
     },
@@ -1562,8 +1609,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时44分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[11时44分 ~ 17时41分]"
         }
       ]
     },
