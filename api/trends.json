@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T19:37:48.020406+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2025-10-31T20:35:15.834053+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时56分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[10时56分 ~ 20时35分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -115,8 +116,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时56分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[10时56分 ~ 20时35分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -145,6 +146,21 @@
           "time_info": "[00时20分 ~ 09时13分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[09时13分 ~ 20时35分]"
+        },
+        {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
           "url": "https://news.ifeng.com/c/8nsP1iIULjB",
           "source": "凤凰网",
@@ -169,18 +185,16 @@
           "time_info": "[11时44分 ~ 14时52分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            6,
-            4,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时13分 ~ 19时37分]"
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 20时35分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -258,8 +272,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[09时13分 ~ 19时37分]"
+          "appearance_count": 24,
+          "time_info": "[09时13分 ~ 20时35分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -303,17 +317,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[09时13分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 19时37分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -419,6 +422,20 @@
           "time_info": "[09时13分 ~ 17时19分]"
         },
         {
+          "title": "特朗普关税被指“违法”对华意味什么",
+          "url": "https://www.toutiao.com/trending/7567284269270175295/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时41分 ~ 20时35分]"
+        },
+        {
           "title": "美参议院通过终止特朗普关税决议",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%BB%88%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%86%B3%E8%AE%AE",
           "source": "百度热搜",
@@ -443,20 +460,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时13分 ~ 04时41分]"
-        },
-        {
-          "title": "特朗普关税被指“违法”对华意味什么",
-          "url": "https://www.toutiao.com/trending/7567284269270175295/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 19时37分]"
         },
         {
           "title": "美国财政部长贝森特：（继总统特朗普政府采取行动之后）该轮到投资者拯救阿根廷了。",
@@ -508,17 +511,6 @@
           "time_info": "[12时20分 ~ 12时47分]"
         },
         {
-          "title": "中方回应特朗普所称G2会议",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E7%A7%B0G2%E4%BC%9A%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%2580%25E7%25A7%25B0G2%25E4%25BC%259A%25E8%25AE%25AE%2523%26realpos%3D5%26lcate%3D5001%26band_rank%3D5%26pos%3D5%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761909987%26pre_seqid%3D17619099875470253878794&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "美国总统特朗普：现在是共和党人废除冗长辩论的时候了。",
           "url": "https://flash.jin10.com/detail/20251031103855707800",
           "source": "金十数据",
@@ -539,6 +531,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "中方回应特朗普所称G2会议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E7%A7%B0G2%E4%BC%9A%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2589%2580%25E7%25A7%25B0G2%25E4%25BC%259A%25E8%25AE%25AE%2523%26realpos%3D5%26lcate%3D5001%26band_rank%3D5%26pos%3D5%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1761909987%26pre_seqid%3D17619099875470253878794&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时35分]"
         },
         {
           "title": "美国副总统万斯：测试核武库功能是否正常是美国总统特朗普宣布的测试计划的一部分。",
@@ -851,7 +855,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -862,8 +866,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[07时16分 ~ 19时37分]"
+          "appearance_count": 26,
+          "time_info": "[07时16分 ~ 20时35分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -874,11 +878,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时56分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[10时56分 ~ 20时35分]"
         },
         {
           "title": "李在镕出席活动感慨现场苹果手机多",
@@ -1288,6 +1293,18 @@
           "time_info": "[05时21分 ~ 06时16分]"
         },
         {
+          "title": "李在镕出席活动感慨苹果手机多",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E9%95%95%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E6%84%9F%E6%85%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时35分]"
+        },
+        {
           "title": "韦德布什：将苹果(AAPL.O)目标股价从310美元上调至320美元。",
           "url": "https://flash.jin10.com/detail/20251031112217498800",
           "source": "金十数据",
@@ -1390,6 +1407,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "杰富瑞：将苹果(AAPL.O)评级从跑输大盘上调至持有，将目标价从203.07美元上调至246美元。",
+          "url": "https://flash.jin10.com/detail/20251031201702402800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "苹果公司在法兰克福交易所跌1.33%，此前CEO库克称多款iPhone型号供应受限。",
           "url": "https://flash.jin10.com/detail/20251031153520343800",
           "source": "金十数据",
@@ -1407,18 +1435,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "李在镕出席活动感慨苹果手机多",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E9%95%95%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E6%84%9F%E6%85%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A4%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1546,8 +1563,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1614,11 +1631,12 @@
             26,
             25,
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 19时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时19分 ~ 20时35分]"
         },
         {
           "title": "金价再度回落 但仍有望录得连续第三个月上涨",
@@ -1793,8 +1811,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时44分 ~ 19时37分]"
+          "appearance_count": 22,
+          "time_info": "[11时44分 ~ 20时35分]"
         }
       ]
     },
