@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T01:16:21.935382+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-11-01T01:40:51.164243+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
+          "url": "https://flash.jin10.com/detail/20251101011922130800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
@@ -103,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         },
         {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
@@ -115,11 +127,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时40分]"
         },
         {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：在（总统特朗普的）政府关门事件造成政府数据缺失之际，美联储的数据具有重要意义。",
@@ -127,11 +140,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时40分]"
         },
         {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
@@ -143,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251101011341115800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
@@ -228,15 +253,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "博主：美参议院掀了特朗普的桌",
+          "url": "https://www.toutiao.com/trending/7567362288856862214/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -246,8 +282,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -257,8 +293,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
+        },
+        {
+          "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
+          "url": "https://flash.jin10.com/detail/20251101010956991800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         }
       ]
     },
@@ -272,11 +319,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时40分]"
         },
         {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
@@ -301,11 +349,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         }
       ]
     },
@@ -321,8 +370,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时40分]"
         }
       ]
     },
