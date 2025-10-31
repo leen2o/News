@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T15:16:11.338924+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2025-10-31T15:39:26.424782+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 15时39分]"
         },
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 15时16分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时39分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -63,19 +63,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 04时18分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
         },
         {
           "title": "金正恩为何不见特朗普？",
@@ -112,8 +99,36 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://wallstreetcn.com/articles/3758372",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "time_info": "[10时56分 ~ 15时39分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -127,19 +142,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时20分 ~ 10时56分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://wallstreetcn.com/articles/3758372",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 15时16分]"
         },
         {
           "title": "特朗普：给中美元首会晤打12分",
@@ -191,8 +193,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 15时16分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时39分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -202,11 +204,12 @@
             4,
             5,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
         },
         {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
@@ -238,8 +241,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -255,6 +258,19 @@
           "time_info": "[09时13分 ~ 13时17分]"
         },
         {
+          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2187115",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
           "source": "澎湃新闻",
@@ -263,8 +279,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -277,18 +293,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时20分 ~ 10时56分]"
-        },
-        {
-          "title": "安德鲁被剥夺王子头衔 美参议院通过终止特朗普全面关税政策决议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2187115",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
         },
         {
           "title": "高市早苗接待特朗普为何“丑态百出”",
@@ -352,8 +356,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 15时16分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 15时39分]"
         },
         {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
@@ -374,11 +378,12 @@
             14,
             15,
             23,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 15时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 15时39分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -473,7 +478,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -674,7 +679,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -712,6 +717,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "终止特朗普全面关税政策落地有多难",
+          "url": "https://www.toutiao.com/trending/7567230870218608138/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "美军舰艇发展路径会被特朗普改写吗",
           "url": "https://www.toutiao.com/trending/7566188934620004393/",
           "source": "今日头条",
@@ -733,11 +749,12 @@
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 15时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 15时39分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -746,11 +763,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时56分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[10时56分 ~ 15时39分]"
         },
         {
           "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
@@ -1441,11 +1459,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 15时39分]"
         }
       ]
     },
