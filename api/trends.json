@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:46:55.255589+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2025-10-31T17:19:54.858116+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时20分 ~ 16时46分]"
+          "appearance_count": 35,
+          "time_info": "[00时20分 ~ 17时19分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时56分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时56分 ~ 17时19分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -101,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 16时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -115,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时56分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时56分 ~ 17时19分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -143,21 +143,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 09时13分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普关税决议",
-          "url": "https://www.toutiao.com/trending/7567152652803706377/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            5,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 16时46分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -200,6 +185,22 @@
           "time_info": "[00时20分 ~ 15时39分]"
         },
         {
+          "title": "美参议院通过终止特朗普关税决议",
+          "url": "https://www.toutiao.com/trending/7567152652803706377/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            4,
+            5,
+            15,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 17时19分]"
+        },
+        {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
           "url": "https://wallstreetcn.com/articles/3758273",
           "source": "华尔街见闻",
@@ -225,11 +226,12 @@
             9,
             7,
             6,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 16时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -283,8 +285,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 16时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "特朗普：相信我们将建立长期良好的关系",
@@ -386,8 +388,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时13分 ~ 16时46分]"
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 17时19分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -440,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普为何不参加APEC峰会",
+          "url": "https://www.toutiao.com/trending/7567275879148031498/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普：因为民主党人已经彻底疯了，选择是明确的——启动“核选项”，摆脱阻挠议事。",
@@ -615,6 +628,19 @@
           "time_info": "[12时21分 ~ 12时47分]"
         },
         {
+          "title": "终止特朗普全面关税政策落地有多难",
+          "url": "https://www.toutiao.com/trending/7567230870218608138/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时19分]"
+        },
+        {
           "title": "美国联邦公报文件显示，美国总统特朗普将2026财年的难民接纳上限设定为7500人，创历史新低。",
           "url": "https://flash.jin10.com/detail/20251031002206303800",
           "source": "金十数据",
@@ -638,18 +664,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 05时21分]"
-        },
-        {
-          "title": "终止特朗普全面关税政策落地有多难",
-          "url": "https://www.toutiao.com/trending/7567230870218608138/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时46分]"
         },
         {
           "title": "如何看待美国参议院否决特朗普关税",
@@ -758,8 +772,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时16分 ~ 16时46分]"
+          "appearance_count": 18,
+          "time_info": "[07时16分 ~ 17时19分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -773,8 +787,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时56分 ~ 16时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时56分 ~ 17时19分]"
         },
         {
           "title": "苹果第四财季业绩超预期 库克预告iPhone 17“爆表”热卖",
@@ -1069,6 +1083,18 @@
           "time_info": "[05时38分 ~ 06时39分]"
         },
         {
+          "title": "李在镕出席活动感慨现场苹果手机多",
+          "url": "https://www.toutiao.com/trending/7566378143742476294/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌2%。",
           "url": "https://flash.jin10.com/detail/20251031043456886800",
           "source": "金十数据",
@@ -1131,6 +1157,18 @@
           "time_info": "[05时21分 ~ 06时16分]"
         },
         {
+          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
+          "url": "https://wallstreetcn.com/livenews/2997557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 17时19分]"
+        },
+        {
           "title": "韦德布什：将苹果(AAPL.O)目标股价从310美元上调至320美元。",
           "url": "https://flash.jin10.com/detail/20251031112217498800",
           "source": "金十数据",
@@ -1153,17 +1191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时21分]"
-        },
-        {
-          "title": "李在镕出席活动感慨现场苹果手机多",
-          "url": "https://www.toutiao.com/trending/7566378143742476294/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时46分]"
         },
         {
           "title": "苹果(AAPL.O)第四财季大中华区收入为144.93亿美元。",
@@ -1200,17 +1227,6 @@
           "time_info": "[05时21分 ~ 05时38分]"
         },
         {
-          "title": "美股盘前，亚马逊涨约12%，苹果涨约3%",
-          "url": "https://wallstreetcn.com/livenews/2997557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
           "title": "苹果公司在法兰克福交易所跌1.33%，此前CEO库克称多款iPhone型号供应受限。",
           "url": "https://flash.jin10.com/detail/20251031153520343800",
           "source": "金十数据",
@@ -1228,7 +1244,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
@@ -1320,63 +1336,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时20分 ~ 09时13分]"
-        },
-        {
-          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758229",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时18分 ~ 06时16分]"
-        },
-        {
-          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
-          "url": "https://wallstreetcn.com/livenews/2997111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价狂飙婚事耽搁2年女子发声",
@@ -1427,6 +1388,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 09时13分]"
+        },
+        {
+          "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时18分 ~ 06时16分]"
+        },
+        {
+          "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2997111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
         }
       ]
     },
@@ -1535,8 +1562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时44分 ~ 16时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时44分 ~ 17时19分]"
         }
       ]
     },
