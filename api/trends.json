@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T23:16:53.657346+08:00",
-  "total_titles_processed": 2384,
+  "generated_at": "2025-10-31T23:42:41.029077+08:00",
+  "total_titles_processed": 2425,
   "failed_sources": [],
   "trends": [
     {
@@ -43,20 +43,6 @@
           "time_info": "[09时13分 ~ 15时16分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时56分 ~ 23时16分]"
-        },
-        {
           "title": "特朗普批准韩国在美建造核动力潜艇",
           "url": "https://news.ifeng.com/c/8nsFayRT4WM",
           "source": "凤凰网",
@@ -89,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时41分 ~ 23时16分]"
+          "appearance_count": 15,
+          "time_info": "[17时41分 ~ 23时42分]"
         },
         {
           "title": "【早报】美方称中方同意暂停实施稀土出口管制措施，外交部回应；美参议院通过终止特朗普全面关税政策决议",
@@ -119,6 +105,21 @@
           "time_info": "[09时13分 ~ 17时19分]"
         },
         {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 30,
+          "time_info": "[10时56分 ~ 23时42分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://wallstreetcn.com/articles/3758372",
           "source": "华尔街见闻",
@@ -129,8 +130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时56分 ~ 23时16分]"
+          "appearance_count": 30,
+          "time_info": "[10时56分 ~ 23时42分]"
         },
         {
           "title": "胡锡进：特朗普是不是把试验运载技术与搞核试爆搞混了？",
@@ -170,8 +171,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时13分 ~ 23时16分]"
+          "appearance_count": 31,
+          "time_info": "[09时13分 ~ 23时42分]"
         },
         {
           "title": "特朗普称将下令美航母改回蒸汽弹射",
@@ -600,6 +601,19 @@
           "time_info": "[02时50分 ~ 03时13分]"
         },
         {
+          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
+          "url": "https://wallstreetcn.com/livenews/2997792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时43分 ~ 23时42分]"
+        },
+        {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2997100",
           "source": "华尔街见闻-快讯",
@@ -611,18 +625,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 04时41分]"
-        },
-        {
-          "title": "艾伯维CEO：美国总统特朗普的政府侧重于在IRA（个人退休账户）实施更大力度的（医药）降价。",
-          "url": "https://wallstreetcn.com/livenews/2997792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 23时16分]"
         },
         {
           "title": "美国贸易代表格里尔：总统特朗普希望与巴西总统卢拉达成一份协议。",
@@ -892,8 +894,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[07时16分 ~ 23时16分]"
+          "appearance_count": 33,
+          "time_info": "[07时16分 ~ 23时42分]"
         },
         {
           "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
@@ -909,8 +911,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时56分 ~ 23时16分]"
+          "appearance_count": 30,
+          "time_info": "[10时56分 ~ 23时42分]"
         },
         {
           "title": "李在镕出席活动感慨现场苹果手机多",
@@ -1556,11 +1558,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 23时16分]"
+          "appearance_count": 3,
+          "time_info": "[22时43分 ~ 23时42分]"
         },
         {
           "title": "金价再度回落 但仍有望录得连续第三个月上涨",
@@ -1743,8 +1746,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时23分 ~ 23时16分]"
+          "appearance_count": 18,
+          "time_info": "[16时23分 ~ 23时42分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -1777,11 +1780,12 @@
           "ranks": [
             11,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时16分 ~ 23时16分]"
+          "appearance_count": 4,
+          "time_info": "[22时16分 ~ 23时42分]"
         },
         {
           "title": "据华尔街日报：谷歌推出首支完全由人工智能生成的广告片，将于今日起在电视上播出。",
@@ -1838,6 +1842,48 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251031035829554800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 05时38分]"
+        },
+        {
+          "title": "周四（10月30日）纽约尾盘，ICE美元指数涨0.33%，报99.549点，日内交投区间为98.915-99.724点，北京时间12:28刷新日低，之后持续上扬，19:39开始加速上涨，21:11刷新日高之后持续高位震荡。 彭博美元指数涨0.38%，报1218.59点，日内交投区间为1211.93-1220.78点。",
+          "url": "https://wallstreetcn.com/livenews/2997105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 05时21分]"
+        },
+        {
+          "title": "摩根士丹利G10外汇策略主管表示，摩根士丹利预计美元指数DXY将在2026年底前跌至89。",
+          "url": "https://flash.jin10.com/detail/20251031231849717800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "违纪 被查 违法",
       "match_count": 2,
       "titles": [
@@ -1864,37 +1910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20251031035829554800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 05时38分]"
-        },
-        {
-          "title": "周四（10月30日）纽约尾盘，ICE美元指数涨0.33%，报99.549点，日内交投区间为98.915-99.724点，北京时间12:28刷新日低，之后持续上扬，19:39开始加速上涨，21:11刷新日高之后持续高位震荡。 彭博美元指数涨0.38%，报1218.59点，日内交投区间为1211.93-1220.78点。",
-          "url": "https://wallstreetcn.com/livenews/2997105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 05时21分]"
         }
       ]
     },
@@ -1961,8 +1976,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[11时44分 ~ 23时16分]"
+          "appearance_count": 29,
+          "time_info": "[11时44分 ~ 23时42分]"
         }
       ]
     }
