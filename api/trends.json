@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T21:41:37.671120+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2025-11-01T22:17:56.433962+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[07时35分 ~ 21时41分]"
+          "appearance_count": 33,
+          "time_info": "[07时35分 ~ 22时17分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[07时17分 ~ 21时41分]"
+          "appearance_count": 34,
+          "time_info": "[07时17分 ~ 22时17分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -78,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时20分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[16时20分 ~ 22时17分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
@@ -118,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[15时37分 ~ 21时41分]"
+          "appearance_count": 19,
+          "time_info": "[15时37分 ~ 22时17分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -137,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时55分 ~ 21时41分]"
+          "appearance_count": 30,
+          "time_info": "[10时55分 ~ 22时17分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -214,6 +214,17 @@
           "time_info": "[14时23分 ~ 17时37分]"
         },
         {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时38分 ~ 22时17分]"
+        },
+        {
           "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
           "url": "https://wallstreetcn.com/livenews/2997901",
           "source": "华尔街见闻-快讯",
@@ -269,17 +280,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时23分 ~ 04时46分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时38分 ~ 21时41分]"
         },
         {
           "title": "日本首相高市早苗：通过特朗普的访日行程，我们重申了强大的美日同盟。",
@@ -633,6 +633,17 @@
           "time_info": "[09时18分 ~ 10时55分]"
         },
         {
+          "title": "如何看待特朗普此次亚洲行",
+          "url": "https://www.toutiao.com/trending/7567668976637972006/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时17分]"
+        },
+        {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
           "url": "https://flash.jin10.com/detail/20251031235806226800",
           "source": "金十数据",
@@ -785,17 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "如何看待特朗普此次亚洲行",
-          "url": "https://www.toutiao.com/trending/7567668976637972006/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
         }
       ]
     },
@@ -861,11 +861,12 @@
           "ranks": [
             2,
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时17分]"
         },
         {
           "title": "伯克希尔哈撒韦Q3前五大重仓股公允价值合计占比66% 持仓继续集中在美国运通、苹果等",
@@ -874,11 +875,12 @@
           "ranks": [
             2,
             10,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时17分]"
         },
         {
           "title": "伯克希尔哈撒韦表示，截至2025年9月30日，其前五大持股的公允价值合计占比66%，前五大持仓集中于美国运通(AXP.N)、苹果(AAPL.O)、美国银行(BAC.N)、雪佛龙(CVX.N)和可口可乐(KO.N)。",
@@ -887,11 +889,12 @@
           "ranks": [
             3,
             11,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 22时17分]"
         },
         {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
@@ -981,6 +984,51 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗一超轻型飞机发生事故",
+          "url": "https://flash.jin10.com/detail/20251101163710550800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时12分]"
+        },
+        {
+          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20251101154233808800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗一飞机失控 飞行员弹射逃生",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%B9%E5%B0%84%E9%80%83%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1029,8 +1077,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时49分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[14时49分 ~ 22时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -1040,11 +1088,12 @@
             18,
             19,
             17,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时38分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[19时38分 ~ 22时17分]"
         }
       ]
     },
@@ -1060,11 +1109,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时16分 ~ 21时41分]"
+          "appearance_count": 14,
+          "time_info": "[17时16分 ~ 22时17分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
@@ -1111,40 +1161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗一超轻型飞机发生事故",
-          "url": "https://flash.jin10.com/detail/20251101163710550800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时12分]"
-        },
-        {
-          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
-          "url": "https://flash.jin10.com/detail/20251101154233808800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 18时17分]"
         }
       ]
     },
