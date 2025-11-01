@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:17:56.433962+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-01T22:40:10.988181+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[07时35分 ~ 22时17分]"
+          "appearance_count": 35,
+          "time_info": "[07时35分 ~ 22时40分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -66,8 +66,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[07时17分 ~ 22时17分]"
+          "appearance_count": 36,
+          "time_info": "[07时17分 ~ 22时40分]"
+        },
+        {
+          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
+          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时38分 ~ 22时40分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -78,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时20分 ~ 22时17分]"
+          "appearance_count": 20,
+          "time_info": "[16时20分 ~ 22时40分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
@@ -118,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时37分 ~ 22时17分]"
+          "appearance_count": 21,
+          "time_info": "[15时37分 ~ 22时40分]"
         },
         {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
@@ -137,8 +148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时55分 ~ 22时17分]"
+          "appearance_count": 32,
+          "time_info": "[10时55分 ~ 22时40分]"
         },
         {
           "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
@@ -212,17 +223,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时23分 ~ 17时37分]"
-        },
-        {
-          "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
-          "url": "https://news.ifeng.com/c/8nvbiDiFTxi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 22时17分]"
         },
         {
           "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
@@ -862,11 +862,12 @@
             2,
             5,
             8,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时02分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 22时40分]"
         },
         {
           "title": "伯克希尔哈撒韦Q3前五大重仓股公允价值合计占比66% 持仓继续集中在美国运通、苹果等",
@@ -876,11 +877,12 @@
             2,
             10,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时02分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 22时40分]"
         },
         {
           "title": "伯克希尔哈撒韦表示，截至2025年9月30日，其前五大持股的公允价值合计占比66%，前五大持仓集中于美国运通(AXP.N)、苹果(AAPL.O)、美国银行(BAC.N)、雪佛龙(CVX.N)和可口可乐(KO.N)。",
@@ -890,11 +892,12 @@
             3,
             11,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时02分 ~ 22时17分]"
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 22时40分]"
         },
         {
           "title": "汇丰银行：将苹果(AAPL.O)目标价从220美元上调至250美元。",
@@ -940,8 +943,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[05时39分 ~ 16时43分]"
+          "appearance_count": 26,
+          "time_info": "[05时39分 ~ 22时40分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -1022,9 +1025,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 22时40分]"
         }
       ]
     },
@@ -1077,8 +1080,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时49分 ~ 22时17分]"
+          "appearance_count": 23,
+          "time_info": "[14时49分 ~ 22时40分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -1092,8 +1095,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时38分 ~ 22时17分]"
+          "appearance_count": 10,
+          "time_info": "[19时38分 ~ 22时40分]"
         }
       ]
     },
@@ -1113,8 +1116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时16分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[17时16分 ~ 22时40分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
