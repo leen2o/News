@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T14:49:36.497586+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-11-02T15:15:07.784844+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 14时49分]"
+          "appearance_count": 11,
+          "time_info": "[09时17分 ~ 15时15分]"
+        },
+        {
+          "title": "美防长：特朗普和我都认为美中关系从未如此之好",
+          "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 15时15分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -32,20 +44,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时17分 ~ 14时49分]"
+          "appearance_count": 33,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
-          "title": "美防长：特朗普和我都认为美中关系从未如此之好",
-          "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
-          "source": "凤凰网",
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 14时49分]"
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 15时15分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -69,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 14时49分]"
+          "appearance_count": 12,
+          "time_info": "[07时38分 ~ 15时15分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -122,19 +135,6 @@
           "time_info": "[00时17分 ~ 01时37分]"
         },
         {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 14时49分]"
-        },
-        {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
           "url": "https://flash.jin10.com/detail/20251102122507484800",
           "source": "金十数据",
@@ -145,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 15时15分]"
         },
         {
           "title": "特朗普威胁对尼日利亚采取军事行动",
@@ -155,7 +155,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         }
@@ -189,8 +189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[02时22分 ~ 14时49分]"
+          "appearance_count": 28,
+          "time_info": "[02时22分 ~ 15时15分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -235,8 +235,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 14时49分]"
+          "appearance_count": 8,
+          "time_info": "[12时21分 ~ 15时15分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -245,11 +245,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 15时15分]"
         }
       ]
     },
@@ -278,11 +279,12 @@
             14,
             17,
             18,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时58分 ~ 14时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时58分 ~ 15时15分]"
         },
         {
           "title": "金价起落之间：有人梭哈有人“卧倒”",
