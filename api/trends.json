@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T16:24:09.087222+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2025-11-03T16:49:53.566606+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "[00时19分 ~ 07时38分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 16时49分]"
+        },
+        {
           "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
           "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
           "source": "凤凰网",
@@ -64,19 +77,6 @@
           "time_info": "[11时54分 ~ 14时28分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 16时24分]"
-        },
-        {
           "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
           "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
           "source": "凤凰网",
@@ -86,8 +86,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 16时49分]"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 16时49分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -209,18 +221,6 @@
           "time_info": "[00时19分 ~ 06时39分]"
         },
         {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 16时24分]"
-        },
-        {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
           "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
           "source": "凤凰网",
@@ -228,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 16时49分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -262,6 +262,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时15分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普称美将干预内塔尼亚胡受审",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 16时49分]"
         },
         {
           "title": "美国总统特朗普：叙利亚临时领导人或将来到白宫。",
@@ -297,19 +311,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 07时16分]"
-        },
-        {
-          "title": "特朗普称美将干预内塔尼亚胡受审",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 16时24分]"
         },
         {
           "title": "美国总统特朗普：我经常与英伟达CEO黄仁勋会面。",
@@ -776,6 +777,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
