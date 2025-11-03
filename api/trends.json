@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T21:48:54.791008+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2025-11-03T22:16:54.196645+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时39分 ~ 21时48分]"
+          "appearance_count": 18,
+          "time_info": "[15时39分 ~ 22时16分]"
         },
         {
           "title": "特朗普：道歉没用，不谈！",
@@ -74,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时20分 ~ 21时48分]"
+          "appearance_count": 14,
+          "time_info": "[17时20分 ~ 22时16分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -96,11 +96,12 @@
             18,
             1,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时44分 ~ 21时48分]"
+          "appearance_count": 13,
+          "time_info": "[17时44分 ~ 22时16分]"
         },
         {
           "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
@@ -165,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时20分 ~ 21时48分]"
+          "appearance_count": 14,
+          "time_info": "[17时20分 ~ 22时16分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -437,6 +438,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
+          "url": "https://wallstreetcn.com/livenews/2998615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的贸易谈判",
           "url": "https://www.toutiao.com/trending/7567532659673727026/",
           "source": "今日头条",
@@ -472,6 +484,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时15分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时16分]"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D17%26pos%3D18%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26lcate%3D5001%26display_time%3D1762176267%26pre_seqid%3D17621762676320254262245&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时16分]"
+        },
+        {
+          "title": "奥巴马抨击特朗普释放了什么信号",
+          "url": "https://www.toutiao.com/trending/7568449754930089518/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时16分]"
         },
         {
           "title": "核武专家逐字分析特朗普核试验言论",
@@ -522,40 +573,17 @@
           "time_info": "[18时20分 ~ 19时15分]"
         },
         {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "尼日利亚资产大幅走低 特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998585",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            13
+            11,
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时28分 ~ 21时48分]"
-        },
-        {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D17%26pos%3D18%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26lcate%3D5001%26display_time%3D1762176267%26pre_seqid%3D17621762676320254262245&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 21时48分]"
-        },
-        {
-          "title": "奥巴马抨击特朗普释放了什么信号",
-          "url": "https://www.toutiao.com/trending/7568449754930089518/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 21时48分]"
+          "time_info": "[21时29分 ~ 22时16分]"
         },
         {
           "title": "特朗普的三角外交玩不转了吗",
@@ -582,16 +610,15 @@
           "time_info": "[09时16分 ~ 11时01分]"
         },
         {
-          "title": "尼日利亚资产大幅走低 特朗普称有可能在尼日利亚部署地面部队或发动空袭",
-          "url": "https://wallstreetcn.com/livenews/2998585",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时48分]"
+          "time_info": "[21时48分 ~ 22时16分]"
         },
         {
           "title": "美国总统特朗普：有时你必须让俄罗斯和乌克兰展开战斗。",
@@ -671,17 +698,6 @@
           "time_info": "19时15分"
         },
         {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
           "url": "https://wallstreetcn.com/livenews/2998222",
           "source": "华尔街见闻-快讯",
@@ -754,9 +770,131 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 02时20分]"
+        },
+        {
+          "title": "亚马逊与OpenAI签署380亿美元协议 为其提供英伟达芯片算力支持",
+          "url": "https://flash.jin10.com/detail/20251103221140014800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
+          "url": "https://wallstreetcn.com/livenews/2998620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://wallstreetcn.com/livenews/2998342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 13时42分]"
+        },
+        {
+          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
+          "url": "https://flash.jin10.com/detail/20251103120231849800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时18分]"
+        },
+        {
+          "title": "OpenAI：亚马逊云服务（AWS）算力容量可继续扩容至2027年及后续阶段。",
+          "url": "https://flash.jin10.com/detail/20251103220523576800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "OpenAI：将立即启用亚马逊云服务（AWS）算力服务作为战略合作首阶段部署，计划于2026年底前完成全部算力资源投产。",
+          "url": "https://flash.jin10.com/detail/20251103220458471800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "OpenAI：将接入配备数十万颗英伟达(NVDA.O)先进GPU的AWS算力集群。",
+          "url": "https://flash.jin10.com/detail/20251103220427835800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "OpenAI：此次合作涉及380亿美元投资承诺，OpenAI将借助亚马逊云服务（AWS）的价格优势、卓越性能、扩展能力与安全保障大幅提升算力规模。",
+          "url": "https://flash.jin10.com/detail/20251103220348095800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)与OpenAI达成380亿美元的协议，将供应英伟达芯片。",
+          "url": "https://flash.jin10.com/detail/20251103220241795800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     },
@@ -783,8 +921,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时16分]"
         },
         {
           "title": "伊朗明年将启用首座核能海水淡化厂",
@@ -875,7 +1013,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "据报道，谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元。",
@@ -884,7 +1022,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -894,11 +1032,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时16分]"
         },
         {
           "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
@@ -925,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时29分 ~ 21时48分]"
+        },
+        {
+          "title": "报道：谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
@@ -1059,51 +1209,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
-          "url": "https://wallstreetcn.com/articles/3758487",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 02时20分]"
-        },
-        {
-          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://wallstreetcn.com/livenews/2998342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时42分]"
-        },
-        {
-          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://flash.jin10.com/detail/20251103120231849800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 3,
       "titles": [
@@ -1117,8 +1222,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时34分 ~ 21时48分]"
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 22时16分]"
         },
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
@@ -1153,6 +1258,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "年轻人低价抢购倒闭车企「烂尾车」，怎样看待他们的选择？这些烂尾车有哪些风险？",
+          "url": "https://www.zhihu.com/question/1968636583486906588",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时37分 ~ 22时16分]"
+        },
+        {
           "title": "年轻人低价抢购倒闭车企烂尾车",
           "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BD%8E%E4%BB%B7%E6%8A%A2%E8%B4%AD%E5%80%92%E9%97%AD%E8%BD%A6%E4%BC%81%E7%83%82%E5%B0%BE%E8%BD%A6",
           "source": "百度热搜",
@@ -1164,19 +1282,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时19分 ~ 09时16分]"
-        },
-        {
-          "title": "年轻人低价抢购倒闭车企「烂尾车」，怎样看待他们的选择？这些烂尾车有哪些风险？",
-          "url": "https://www.zhihu.com/question/1968636583486906588",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时37分 ~ 21时48分]"
         }
       ]
     },
