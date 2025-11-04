@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T18:47:26.993768+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-11-04T19:15:24.664633+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
@@ -118,8 +118,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时19分 ~ 18时47分]"
+          "appearance_count": 42,
+          "time_info": "[00时19分 ~ 19时15分]"
+        },
+        {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -199,17 +210,6 @@
           "time_info": "[00时19分 ~ 07时38分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 18时47分]"
-        },
-        {
           "title": "美国多方“围剿”特朗普只为废除关税",
           "url": "https://www.toutiao.com/trending/7568663171070692900/",
           "source": "今日头条",
@@ -232,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -343,6 +343,20 @@
           "time_info": "[00时19分 ~ 01时41分]"
         },
         {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            6,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时15分]"
+        },
+        {
           "title": "道富集团CEO称特朗普移民政策“反增长”",
           "url": "https://wallstreetcn.com/livenews/2999031",
           "source": "华尔街见闻-快讯",
@@ -385,6 +399,18 @@
           "time_info": "[16时49分 ~ 18时20分]"
         },
         {
+          "title": "中方回应特朗普威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时15分]"
+        },
+        {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
           "url": "https://wallstreetcn.com/livenews/2998687",
           "source": "华尔街见闻-快讯",
@@ -421,19 +447,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时43分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时47分]"
         },
         {
           "title": "道富集团CEO批特朗普移民政策“反增长”",
@@ -473,18 +486,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 03时14分]"
-        },
-        {
-          "title": "中方回应特朗普威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7568256133530566719/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时47分]"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -564,6 +565,18 @@
           "time_info": "[12时20分 ~ 12时44分]"
         },
         {
+          "title": "周泳宏：特朗普想与中国和睦相处",
+          "url": "https://www.toutiao.com/trending/7568747917062704678/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时15分]"
+        },
+        {
           "title": "美国众议院议长约翰逊：周末与美国总统特朗普就补充营养协助计划（SNAP）进行了交谈。",
           "url": "https://flash.jin10.com/detail/20251103232552334800",
           "source": "金十数据",
@@ -574,18 +587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时47分]"
-        },
-        {
-          "title": "周泳宏：特朗普想与中国和睦相处",
-          "url": "https://www.toutiao.com/trending/7568747917062704678/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时47分]"
         },
         {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
@@ -693,17 +694,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
-          "url": "https://wallstreetcn.com/livenews/2999160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "苹果将推出网页版AppStore",
           "url": "https://wallstreetcn.com/livenews/2999029",
           "source": "华尔街见闻-快讯",
@@ -715,6 +705,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时27分 ~ 15时17分]"
+        },
+        {
+          "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
+          "url": "https://wallstreetcn.com/livenews/2999160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时15分]"
         },
         {
           "title": "商品期货收盘，集运欧线主力合约涨超3%，菜籽粕涨超1%。红枣跌超5%，碳酸锂跌超4%，多晶硅跌近4%，苹果、焦煤、乙二醇、焦炭、工业硅、BR橡胶跌超2%。",
@@ -926,8 +928,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[05时38分 ~ 18时47分]"
+          "appearance_count": 29,
+          "time_info": "[05时38分 ~ 19时15分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
