@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T19:41:02.730743+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2025-11-04T20:36:25.433297+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -91,6 +91,23 @@
           "time_info": "[12时20分 ~ 16时49分]"
         },
         {
+          "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            8,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 45,
+          "time_info": "[00时19分 ~ 20时36分]"
+        },
+        {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
           "url": "https://www.cls.cn/detail/2190068",
           "source": "财联社热门",
@@ -106,22 +123,6 @@
           "time_info": "[09时15分 ~ 16时23分]"
         },
         {
-          "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时19分 ~ 19时41分]"
-        },
-        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -131,6 +132,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[15时17分 ~ 19时41分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -208,17 +220,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时19分 ~ 07时38分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 19时41分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -640,7 +641,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -654,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "如何看特朗普说中美合作让美国强大",
@@ -941,8 +953,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[05时38分 ~ 19时41分]"
+          "appearance_count": 32,
+          "time_info": "[05时38分 ~ 20时36分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
