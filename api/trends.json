@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T05:40:14.097710+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-11-05T06:15:41.671024+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 02时32分]"
+        },
+        {
+          "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
+          "url": "https://wallstreetcn.com/livenews/2999421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
@@ -325,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/2999414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
@@ -344,8 +366,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -498,11 +520,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时15分]"
         },
         {
           "title": "民生宏观：美元指数再破100 但升值周期未至",
@@ -532,7 +555,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价",
@@ -542,8 +565,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 05时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
@@ -569,11 +603,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时15分]"
         }
       ]
     },
