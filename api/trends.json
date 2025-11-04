@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:36:25.433297+08:00",
-  "total_titles_processed": 2053,
+  "generated_at": "2025-11-04T21:32:41.083211+08:00",
+  "total_titles_processed": 2142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -104,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时19分 ~ 20时36分]"
+          "appearance_count": 46,
+          "time_info": "[00时19分 ~ 21时32分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -123,6 +123,18 @@
           "time_info": "[09时15分 ~ 16时23分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 21时32分]"
+        },
+        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -132,17 +144,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[15时17分 ~ 19时41分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -222,6 +223,21 @@
           "time_info": "[00时19分 ~ 07时38分]"
         },
         {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            6,
+            8,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 21时32分]"
+        },
+        {
           "title": "美国多方“围剿”特朗普只为废除关税",
           "url": "https://www.toutiao.com/trending/7568663171070692900/",
           "source": "今日头条",
@@ -235,20 +251,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时41分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            6,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：如果马姆达尼（在纽约选举中）获胜，我将“极不可能”为纽约市提供联邦资金。",
@@ -273,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
@@ -356,6 +369,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 01时41分]"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "道富集团CEO称特朗普移民政策“反增长”",
@@ -602,6 +626,18 @@
           "time_info": "[00时19分 ~ 00时47分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时32分]"
+        },
+        {
           "title": "美联储理事库克：不会就美国总统特朗普的解职意图进一步置评。",
           "url": "https://flash.jin10.com/detail/20251104031804973800",
           "source": "金十数据",
@@ -657,15 +693,15 @@
           "time_info": "16时49分"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "21时32分"
         },
         {
           "title": "如何看特朗普说中美合作让美国强大",
@@ -715,7 +751,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "苹果将推出网页版AppStore",
@@ -778,6 +814,152 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "京东双11手机榜：苹果登顶销冠，小米摘国产第一",
+          "url": "https://wallstreetcn.com/livenews/2999228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 03时38分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
+          "url": "https://flash.jin10.com/detail/20251104210818012800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 04时42分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
+          "url": "https://wallstreetcn.com/livenews/2999233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "30年期美债收益率涨约3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/2998743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 06时18分]"
+        },
+        {
+          "title": "荷兰国际：美债收益率曲线仍过于平坦",
+          "url": "https://flash.jin10.com/detail/20251104144102291800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时17分]"
+        },
+        {
+          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
+          "url": "https://wallstreetcn.com/livenews/2998667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时41分]"
+        },
+        {
+          "title": "荷兰国际：欧债走势几乎被美债主导",
+          "url": "https://flash.jin10.com/detail/20251104152351380800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
@@ -835,108 +1017,6 @@
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "30年期美债收益率涨约3.7个基点",
-          "url": "https://wallstreetcn.com/livenews/2998743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 06时18分]"
-        },
-        {
-          "title": "荷兰国际：美债收益率曲线仍过于平坦",
-          "url": "https://flash.jin10.com/detail/20251104144102291800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时17分]"
-        },
-        {
-          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
-          "url": "https://wallstreetcn.com/livenews/2998667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 01时41分]"
-        },
-        {
-          "title": "荷兰国际：欧债走势几乎被美债主导",
-          "url": "https://flash.jin10.com/detail/20251104152351380800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 03时38分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 04时42分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -953,8 +1033,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[05时38分 ~ 20时36分]"
+          "appearance_count": 33,
+          "time_info": "[05时38分 ~ 21时32分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
