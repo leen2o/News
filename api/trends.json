@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T16:22:45.486453+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2025-11-05T16:49:33.075427+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时54分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[10时54分 ~ 16时49分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时14分 ~ 16时49分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -330,6 +330,18 @@
           "time_info": "[00时50分 ~ 02时32分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时49分]"
+        },
+        {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
           "url": "https://flash.jin10.com/detail/20251105061222244800",
           "source": "金十数据",
@@ -431,18 +443,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时38分 ~ 09时15分]"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时22分]"
         },
         {
           "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
@@ -570,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
@@ -978,6 +989,19 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            2,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时49分]"
+        },
+        {
           "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
           "url": "https://flash.jin10.com/detail/20251105044443775800",
           "source": "金十数据",
@@ -988,18 +1012,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时40分]"
-        },
-        {
-          "title": "美元走强金价又跌了",
-          "url": "https://www.douyin.com/hot/2295060",
-          "source": "抖音",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时22分]"
         },
         {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
@@ -1057,6 +1069,18 @@
           "time_info": "[05时16分 ~ 06时15分]"
         },
         {
+          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
+          "url": "https://www.cls.cn/detail/2191412",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时49分]"
+        },
+        {
           "title": "民生宏观：美元指数再破100 但升值周期未至",
           "url": "https://flash.jin10.com/detail/20251105033633355800",
           "source": "金十数据",
@@ -1079,17 +1103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时50分]"
-        },
-        {
-          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
-          "url": "https://www.cls.cn/detail/2191412",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         }
       ]
     },
