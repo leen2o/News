@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:22:50.406709+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-11-05T12:44:31.361982+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时44分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -73,6 +73,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 04时44分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 12时44分]"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -195,18 +207,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 01时41分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时22分]"
         },
         {
           "title": "美国法官被原告的代理律师要求强迫总统特朗普的政府全额支付关于联邦食品救济项目“补充营养援助计划”（SNAP）的资金。",
@@ -576,6 +576,19 @@
           "time_info": "[00时20分 ~ 07时38分]"
         },
         {
+          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
+          "url": "https://www.cls.cn/detail/2191189",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 12时44分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
           "url": "https://flash.jin10.com/detail/20251105005734821800",
           "source": "金十数据",
@@ -588,19 +601,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 03时15分]"
-        },
-        {
-          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
-          "url": "https://www.cls.cn/detail/2191189",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时22分]"
         },
         {
           "title": "苹果准备推出低成本笔记本电脑，抗衡Chromebook和Windows PC",
@@ -675,6 +675,20 @@
           "time_info": "[01时15分 ~ 03时15分]"
         },
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 12时44分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
           "url": "https://flash.jin10.com/detail/20251105000406065800",
           "source": "金十数据",
@@ -688,19 +702,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 02时32分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时22分]"
         },
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -742,8 +743,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 12时44分]"
         },
         {
           "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
@@ -751,11 +752,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 12时44分]"
         },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
