@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T21:53:34.319404+08:00",
-  "total_titles_processed": 2217,
+  "generated_at": "2025-11-05T22:17:56.127873+08:00",
+  "total_titles_processed": 2269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时54分 ~ 21时53分]"
+          "appearance_count": 26,
+          "time_info": "[10时54分 ~ 22时17分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时39分 ~ 21时53分]"
+          "appearance_count": 16,
+          "time_info": "[15时39分 ~ 22时17分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -214,7 +214,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -228,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
-        },
-        {
-          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
-          "url": "https://wallstreetcn.com/livenews/2999939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
@@ -262,18 +251,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -310,9 +288,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默和众议院少数党领袖杰弗瑞斯要求与特朗普举行两党会晤。",
+          "url": "https://flash.jin10.com/detail/20251105220952184800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "美国（国会山）民主党致函总统特朗普，要求会面。 参议院民主党领导人Schumer和众议院民主党领导人Hakeem Jeffries要求与特朗普进行跨党派会面。 这两名民主党领导人希望结束10月1日以来的政府关门问题。",
+          "url": "https://wallstreetcn.com/livenews/2999953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
@@ -326,6 +326,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 04时44分]"
+        },
+        {
+          "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
+          "url": "https://flash.jin10.com/detail/20251105220524399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "为结束政府“停摆” 特朗普再要求参议院终止“冗长辩论”",
+          "url": "https://wallstreetcn.com/livenews/2999952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
@@ -420,6 +442,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时16分]"
+        },
+        {
+          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
+          "url": "https://wallstreetcn.com/livenews/2999939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时17分]"
+        },
+        {
+          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时17分]"
         },
         {
           "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
@@ -601,6 +647,18 @@
           "time_info": "[03时36分 ~ 04时44分]"
         },
         {
+          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/2999930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时17分]"
+        },
+        {
           "title": "特朗普再次提名艾萨克曼出任美航天局局长",
           "url": "https://wallstreetcn.com/livenews/2999698",
           "source": "华尔街见闻-快讯",
@@ -688,7 +746,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -715,24 +773,13 @@
           "time_info": "10时54分"
         },
         {
-          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "美国总统特朗普：（就政府停摆和结束冗长辩论表示态）我们今晚就应该开始通过法案。",
           "url": "https://flash.jin10.com/detail/20251105213223111800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -746,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "俄罗斯情报部门负责人纳雷什金：（就特朗普有关核试验的声明表示）美国官员拒绝直接讨论此事。",
+          "url": "https://flash.jin10.com/detail/20251105215937400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
@@ -765,7 +823,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -776,7 +834,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -787,7 +845,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -798,7 +856,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -820,7 +878,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -842,7 +900,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -864,9 +922,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "俄罗斯总统普京：（就美国总统特朗普有关核试验的声明表示）这是一个严重的问题。",
+          "url": "https://flash.jin10.com/detail/20251105215226127800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美国总统特朗普：一年前，我取得了那场美丽的大胜利。",
@@ -875,9 +944,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "特朗普呼吁结束政府停摆 并直言美股屡创新高仅是开端",
+          "url": "https://flash.jin10.com/detail/20251105214713212800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -893,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时16分 ~ 21时53分]"
+          "appearance_count": 8,
+          "time_info": "[19时16分 ~ 22时17分]"
         },
         {
           "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
@@ -935,8 +1015,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时45分 ~ 21时53分]"
+          "appearance_count": 9,
+          "time_info": "[18时45分 ~ 22时17分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -1116,7 +1196,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
@@ -1213,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 03时15分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：基于地标的导航功能现已在美国的安卓和iOS设备上推出。",
+          "url": "https://flash.jin10.com/detail/20251105220518450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     },
@@ -1235,6 +1326,19 @@
           "time_info": "[15时39分 ~ 18时19分]"
         },
         {
+          "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
+          "url": "https://wallstreetcn.com/livenews/2999928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "美元指数4日上涨",
           "url": "https://flash.jin10.com/detail/20251105043654258800",
           "source": "金十数据",
@@ -1245,18 +1349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时40分]"
-        },
-        {
-          "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
-          "url": "https://wallstreetcn.com/livenews/2999928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时53分]"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次",
@@ -1379,11 +1471,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 22时17分]"
         }
       ]
     },
@@ -1396,11 +1489,12 @@
           "url": "https://wallstreetcn.com/livenews/2999940",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时17分]"
         },
         {
           "title": "法国总统府：法国总统马克龙要求伊朗总统释放全部法国公民。",
@@ -1463,7 +1557,7 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
@@ -1475,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[18时45分 ~ 21时53分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
