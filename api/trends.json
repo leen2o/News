@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T23:20:06.970816+08:00",
-  "total_titles_processed": 2376,
+  "generated_at": "2025-11-05T23:43:44.880290+08:00",
+  "total_titles_processed": 2433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 83,
+      "match_count": 84,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时39分 ~ 23时20分]"
+          "appearance_count": 21,
+          "time_info": "[15时39分 ~ 23时43分]"
         },
         {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
@@ -167,15 +167,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
-          "url": "https://wallstreetcn.com/livenews/2999989",
+          "title": "美国供应管理协会（ISM）服务业业务调查委员会主席Steve Miller：受访者继续提到关税对支付价格的影响。 没有迹象显示出现大范围裁员或人力缩减。 但（总统特朗普的）联邦政府关门被多次提及，称其影响了商业活动，并引发对未来裁员的担忧。",
+          "url": "https://wallstreetcn.com/livenews/3000004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "23时43分"
         },
         {
           "title": "巴西总统卢拉：已向特朗普表明拉丁美洲是“和平地带”",
@@ -267,17 +267,6 @@
           "time_info": "21时53分"
         },
         {
-          "title": "美国最高法院正式开始听取有关美国总统特朗普关税的论点。",
-          "url": "https://flash.jin10.com/detail/20251105230629956800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
           "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
           "url": "https://flash.jin10.com/detail/20251105024520582800",
           "source": "金十数据",
@@ -340,6 +329,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 01时41分]"
+        },
+        {
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时44分 ~ 23时43分]"
         },
         {
           "title": "美国法官被原告的代理律师要求强迫总统特朗普的政府全额支付关于联邦食品救济项目“补充营养援助计划”（SNAP）的资金。",
@@ -435,6 +435,18 @@
           "time_info": "[07时16分 ~ 07时38分]"
         },
         {
+          "title": "提醒：美国最高法院针对总统特朗普关税官司的听证会开始。",
+          "url": "https://wallstreetcn.com/livenews/2999989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时43分]"
+        },
+        {
           "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
           "url": "https://flash.jin10.com/detail/20251105030659180800",
           "source": "金十数据",
@@ -446,6 +458,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时16分]"
+        },
+        {
+          "title": "美国最高法院正式开始听取有关美国总统特朗普关税的论点。",
+          "url": "https://flash.jin10.com/detail/20251105230629956800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时43分]"
         },
         {
           "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
@@ -496,17 +520,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 02时32分]"
-        },
-        {
-          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
-          "url": "https://wallstreetcn.com/articles/3758695",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时44分 ~ 23时20分]"
         },
         {
           "title": "金十数据整理：特朗普胜选一周年，在市场掀起过哪些波澜？",
@@ -638,6 +651,17 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时19分 ~ 23时43分]"
+        },
+        {
           "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
           "url": "https://www.zhihu.com/question/1969362121386100394",
           "source": "知乎",
@@ -709,17 +733,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时16分 ~ 15时39分]"
-        },
-        {
-          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
-          "url": "https://www.cls.cn/detail/2192187",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
@@ -1047,11 +1060,12 @@
             9,
             8,
             6,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[18时45分 ~ 23时20分]"
+          "appearance_count": 14,
+          "time_info": "[18时45分 ~ 23时43分]"
         },
         {
           "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
@@ -1470,9 +1484,96 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时45分 ~ 21时53分]"
+        },
+        {
+          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时17分 ~ 23时20分]"
+        },
+        {
+          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
+          "url": "https://wallstreetcn.com/livenews/2999987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时43分]"
+        },
+        {
+          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2999388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://wallstreetcn.com/livenews/2999697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时39分]"
+        },
+        {
+          "title": "荷兰国际：10年期美债收益率预计暂稳于4%以上",
+          "url": "https://flash.jin10.com/detail/20251105152929565800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         }
       ]
     },
@@ -1552,81 +1653,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 22时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时45分 ~ 21时53分]"
-        },
-        {
-          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[22时17分 ~ 23时20分]"
-        },
-        {
-          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
-          "url": "https://wallstreetcn.com/livenews/2999987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2999388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
-          "url": "https://wallstreetcn.com/livenews/2999697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时39分]"
-        },
-        {
-          "title": "荷兰国际：10年期美债收益率预计暂稳于4%以上",
-          "url": "https://flash.jin10.com/detail/20251105152929565800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         }
       ]
     },
