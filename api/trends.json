@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T17:44:25.512105+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2025-11-05T18:19:15.568179+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 17时44分]"
+          "appearance_count": 17,
+          "time_info": "[10时54分 ~ 18时19分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时14分 ~ 17时44分]"
+          "appearance_count": 19,
+          "time_info": "[09时14分 ~ 18时19分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 17时44分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时19分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -85,6 +85,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 11时43分]"
+        },
+        {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时19分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -263,19 +277,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 03时36分]"
-        },
-        {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 17时44分]"
         },
         {
           "title": "摩根大通：正在回应特朗普政府就本公司客户政策提出的要求。",
@@ -977,8 +978,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 17时44分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时19分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
@@ -1035,18 +1036,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20251105043654258800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时40分]"
-        },
-        {
           "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
           "url": "https://www.cls.cn/detail/2191412",
           "source": "财联社热门",
@@ -1057,8 +1046,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[15时39分 ~ 18时19分]"
+        },
+        {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20251105043654258800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时40分]"
         },
         {
           "title": "美元指数突破100大关，为8月1日来首次",
