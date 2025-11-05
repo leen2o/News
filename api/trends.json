@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T18:19:15.568179+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-11-05T18:45:59.559552+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时54分 ~ 18时19分]"
+          "appearance_count": 18,
+          "time_info": "[10时54分 ~ 18时45分]"
         },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时14分 ~ 18时19分]"
+          "appearance_count": 20,
+          "time_info": "[09时14分 ~ 18时45分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -72,8 +72,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 18时45分]"
+        },
+        {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4,
+            6,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时45分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -85,20 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 11时43分]"
-        },
-        {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 18时19分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -167,6 +168,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 02时32分]"
+        },
+        {
+          "title": "马斯克特朗普携手再战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%B9%E6%9C%97%E6%99%AE%E6%90%BA%E6%89%8B%E5%86%8D%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
@@ -609,6 +621,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "奥巴马为何高调对特朗普发难",
+          "url": "https://www.toutiao.com/trending/7569156347464257074/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "日本最高外汇事务官员三村淳：特朗普总统将从美日委员会提出的项目中进行挑选。",
           "url": "https://flash.jin10.com/detail/20251105151752442800",
           "source": "金十数据",
@@ -756,7 +779,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
@@ -848,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "苹果回应iPhone面容解锁不用摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26c_type%3D31%26pos%3D10%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26band_rank%3D9%26filter_type%3Drealtimehot%26realpos%3D9%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%259B%259E%25E5%25BA%2594iPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E7%2594%25A8%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%2523%26display_time%3D1762339012%26pre_seqid%3D176233901233803401830102&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
@@ -1113,6 +1147,59 @@
       ]
     },
     {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2999388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
+          "url": "https://wallstreetcn.com/livenews/2999697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时39分]"
+        },
+        {
+          "title": "荷兰国际：10年期美债收益率预计暂稳于4%以上",
+          "url": "https://flash.jin10.com/detail/20251105152929565800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -1160,48 +1247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2999388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
-          "url": "https://wallstreetcn.com/livenews/2999697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时39分]"
-        },
-        {
-          "title": "荷兰国际：10年期美债收益率预计暂稳于4%以上",
-          "url": "https://flash.jin10.com/detail/20251105152929565800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         }
       ]
     },
