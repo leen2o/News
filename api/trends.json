@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:42:57.385643+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-11-05T14:27:05.140052+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 14时27分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 14时27分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -48,18 +60,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 07时38分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 13时42分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -580,9 +580,118 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时17分]"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 12时44分]"
+        },
+        {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "日媒：软银和OpenAI将于11月成立新公司",
+          "url": "https://flash.jin10.com/detail/20251105111320968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
+          "url": "https://wallstreetcn.com/livenews/2999443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
+          "url": "https://flash.jin10.com/detail/20251105140720098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "软银：和OpenAI共同推出合资企业“SB OAI Japan”。",
+          "url": "https://flash.jin10.com/detail/20251105140621043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "苹果",
       "match_count": 6,
       "titles": [
+        {
+          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
+          "url": "https://www.cls.cn/detail/2191189",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 14时27分]"
+        },
         {
           "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
           "url": "https://www.cls.cn/detail/2190882",
@@ -597,19 +706,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 07时38分]"
-        },
-        {
-          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
-          "url": "https://www.cls.cn/detail/2191189",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 13时42分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -680,8 +776,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 14时27分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -751,69 +847,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 03时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时17分]"
-        },
-        {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时44分]"
-        },
-        {
-          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "日媒：软银和OpenAI将于11月成立新公司",
-          "url": "https://flash.jin10.com/detail/20251105111320968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
-          "url": "https://wallstreetcn.com/livenews/2999443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
         }
       ]
     },
@@ -972,7 +1005,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         },
