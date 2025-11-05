@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T12:44:31.361982+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-11-05T13:17:38.073652+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -46,8 +46,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时17分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -73,18 +85,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 04时44分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 12时44分]"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -180,6 +180,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 04时44分]"
+        },
+        {
+          "title": "纽约市当选市长Mamdani：将终结“腐败文化”，正是这种文化允许像特朗普这样的亿万富翁逃避税收并利用税收优惠。",
+          "url": "https://flash.jin10.com/detail/20251105123816370800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
@@ -553,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "特朗普对华“示好”是认清现实了吗",
+          "url": "https://www.toutiao.com/trending/7569074435831909938/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -585,8 +607,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 12时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时17分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -647,6 +669,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时17分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
           "url": "https://flash.jin10.com/detail/20251105010853039800",
           "source": "金十数据",
@@ -673,20 +709,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 03时15分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 12时44分]"
         },
         {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
@@ -743,8 +765,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时17分]"
         },
         {
           "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
