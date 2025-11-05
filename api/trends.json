@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T10:54:54.002198+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-11-05T11:43:21.735100+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -36,6 +36,28 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 07时38分]"
+        },
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时43分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -106,17 +128,6 @@
           "time_info": "[00时21分 ~ 02时32分]"
         },
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "巴西总统卢拉：政府将寻求对里约警方的致命行动进行独立调查。我告诉特朗普，拉丁美洲是一个“和平地区”。",
           "url": "https://flash.jin10.com/detail/20251105000308068800",
           "source": "金十数据",
@@ -156,17 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时49分 ~ 04时44分]"
-        },
-        {
-          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
-          "url": "https://news.ifeng.com/c/8o11vuaIumr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
@@ -290,6 +290,18 @@
           "time_info": "[00时50分 ~ 02时32分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时43分]"
+        },
+        {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
           "url": "https://flash.jin10.com/detail/20251105002826068800",
           "source": "金十数据",
@@ -343,18 +355,6 @@
           "time_info": "[00时50分 ~ 01时41分]"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 10时54分]"
-        },
-        {
           "title": "美国参议院共和党成员们受邀11月5日前往白宫。 他们将与总统特朗普共进早餐。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/2999414",
           "source": "华尔街见闻-快讯",
@@ -404,6 +404,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时38分 ~ 09时15分]"
+        },
+        {
+          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
+          "url": "https://wallstreetcn.com/livenews/2999566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时43分]"
         },
         {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
@@ -493,18 +505,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
-          "url": "https://wallstreetcn.com/livenews/2999566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -515,7 +516,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -540,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "奥巴马批特朗普 白宫如何接招",
+          "url": "https://www.toutiao.com/trending/7569053061801315850/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
         }
       ]
     },
@@ -597,11 +609,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 10时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时43分]"
         },
         {
           "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
@@ -707,11 +720,73 @@
           "source": "财联社热门",
           "ranks": [
             10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 11时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 10时54分]"
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时43分]"
+        },
+        {
+          "title": "日媒：软银和OpenAI将于11月成立新公司",
+          "url": "https://flash.jin10.com/detail/20251105111320968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        },
+        {
+          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
+          "url": "https://wallstreetcn.com/livenews/2999443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
@@ -737,7 +812,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -848,41 +923,31 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "[04时44分 ~ 05时16分]"
         },
         {
-          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
-          "url": "https://wallstreetcn.com/livenews/2999443",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待伊朗提出美伊合作三个条件",
+          "url": "https://www.toutiao.com/trending/7569022185453407750/",
+          "source": "今日头条",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "11时43分"
         }
       ]
     },
@@ -902,24 +967,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
-          "url": "https://flash.jin10.com/detail/20251105032950258800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时16分]"
         }
       ]
     },
