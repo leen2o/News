@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:43:21.735100+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-05T12:22:50.406709+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时22分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -196,6 +197,18 @@
           "time_info": "[00时21分 ~ 01时41分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时22分]"
+        },
+        {
           "title": "美国法官被原告的代理律师要求强迫总统特朗普的政府全额支付关于联邦食品救济项目“补充营养援助计划”（SNAP）的资金。",
           "url": "https://wallstreetcn.com/livenews/2999303",
           "source": "华尔街见闻-快讯",
@@ -288,18 +301,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 02时32分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 11时43分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -549,7 +550,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -589,6 +590,19 @@
           "time_info": "[01时15分 ~ 03时15分]"
         },
         {
+          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
+          "url": "https://www.cls.cn/detail/2191189",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时22分]"
+        },
+        {
           "title": "苹果准备推出低成本笔记本电脑，抗衡Chromebook和Windows PC",
           "url": "https://wallstreetcn.com/livenews/2999327",
           "source": "华尔街见闻-快讯",
@@ -602,19 +616,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 03时15分]"
-        },
-        {
-          "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
-          "url": "https://www.cls.cn/detail/2191189",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 11时43分]"
         },
         {
           "title": "Meta Platforms：为苹果公司Apple Watch推出WhatsApp。",
@@ -689,6 +690,19 @@
           "time_info": "[00时21分 ~ 02时32分]"
         },
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 12时22分]"
+        },
+        {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
           "url": "https://wallstreetcn.com/livenews/2999380",
           "source": "华尔街见闻-快讯",
@@ -713,19 +727,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 03时15分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 11时43分]"
         }
       ]
     },
@@ -733,6 +734,29 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时54分 ~ 12时22分]"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 12时22分]"
+        },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
@@ -745,35 +769,13 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 11时43分]"
-        },
-        {
           "title": "日媒：软银和OpenAI将于11月成立新公司",
           "url": "https://flash.jin10.com/detail/20251105111320968800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -945,7 +947,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
