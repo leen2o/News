@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T10:57:29.753341+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-11-06T11:47:16.625779+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 10时57分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 11时47分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -46,6 +46,19 @@
           "time_info": "[00时21分 ~ 09时15分]"
         },
         {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时16分 ~ 11时47分]"
+        },
+        {
           "title": "纽约新市长为何成特朗普的“噩梦”",
           "url": "https://www.toutiao.com/trending/7569209850954026547/",
           "source": "今日头条",
@@ -59,17 +72,64 @@
           "time_info": "[01时16分 ~ 07时38分]"
         },
         {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
+          "title": "涉及特朗普，BBC被曝严重造假！",
+          "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            9
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时16分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普的大麻烦来了",
+          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -85,54 +145,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 05时16分]"
-        },
-        {
-          "title": "涉及特朗普，BBC被曝严重造假！",
-          "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
-        },
-        {
-          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
-          "url": "https://www.cls.cn/detail/2192410",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
-        },
-        {
-          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
-          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
         },
         {
           "title": "特朗普提议美国会参议院结束“冗长辩论”遭共和党人拒绝",
@@ -161,17 +173,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普的大麻烦来了",
-          "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -584,6 +585,18 @@
           "time_info": "[05时37分 ~ 06时16分]"
         },
         {
+          "title": "特朗普称美股将再创新高",
+          "url": "https://www.toutiao.com/trending/7569403413117537838/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
+        },
+        {
           "title": "美国总统特朗普：（谈马姆达尼在纽约市长选举中获胜）必须由我来批准这些事情，他必须尊重华盛顿，否则他将没有成功的机会，他应该主动联系我们。",
           "url": "https://flash.jin10.com/detail/20251106072624223800",
           "source": "金十数据",
@@ -634,7 +647,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -672,17 +685,6 @@
           "time_info": "09时15分"
         },
         {
-          "title": "特朗普称美股将再创新高",
-          "url": "https://www.toutiao.com/trending/7569403413117537838/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "民主党呼吁特朗普会谈结束政府停摆",
           "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
@@ -697,7 +699,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -709,28 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
-          "url": "https://flash.jin10.com/detail/20251106104149768800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3000270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
@@ -746,6 +726,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 03时37分]"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
+          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
         },
         {
           "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
@@ -774,6 +766,18 @@
           "time_info": "[01时42分 ~ 03时14分]"
         },
         {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 11时47分]"
+        },
+        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -796,6 +800,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时23分]"
+        },
+        {
+          "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
+          "url": "https://flash.jin10.com/detail/20251106111258842800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -930,8 +945,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
@@ -1054,7 +1069,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1140,27 +1155,20 @@
       ]
     },
     {
-      "keyword_group": "违纪 被查 违法",
-      "match_count": 1,
+      "keyword_group": "Anthropic Claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "涉嫌严重违纪违法 柏林被查",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95+%E6%9F%8F%E6%9E%97%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "据Business Insider：新一轮融资可能使Anthropic的估值超过3500亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106110829327800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            12
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 1,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
         {
           "title": "如何评价 Claude 中断对 Trae 的供应，谁的损失更大？",
           "url": "https://www.zhihu.com/question/1969074338469736453",
@@ -1171,6 +1179,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "违纪 被查 违法",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "涉嫌严重违纪违法 柏林被查",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95+%E6%9F%8F%E6%9E%97%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 VIVO OPPO 小米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "根据高盛11月5日发布的报告，其机构经纪主要客户对小米股票的空头仓位在过去一周上升了53%。",
+          "url": "https://wallstreetcn.com/livenews/3000279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     }
