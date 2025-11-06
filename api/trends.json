@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T22:44:59.287327+08:00",
-  "total_titles_processed": 2276,
+  "generated_at": "2025-11-06T23:19:18.051299+08:00",
+  "total_titles_processed": 2333,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时15分 ~ 22时44分]"
+          "appearance_count": 31,
+          "time_info": "[09时15分 ~ 23时19分]"
         },
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -72,6 +72,18 @@
           "time_info": "[09时15分 ~ 14时52分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时34分 ~ 23时19分]"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -106,18 +118,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时57分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时44分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -156,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时19分 ~ 22时44分]"
+          "appearance_count": 13,
+          "time_info": "[18时19分 ~ 23时19分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -185,6 +185,19 @@
           "time_info": "[01时16分 ~ 07时38分]"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时39分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普上任一年美股跑输全球大盘",
           "url": "https://www.toutiao.com/trending/7569232858510790187/",
           "source": "今日头条",
@@ -198,19 +211,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 05时16分]"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时39分 ~ 22时44分]"
         },
         {
           "title": "特朗普提议美国会参议院结束“冗长辩论”遭共和党人拒绝",
@@ -809,7 +809,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -886,7 +886,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -897,7 +897,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -919,7 +919,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1104,11 +1104,12 @@
           "ranks": [
             7,
             12,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时19分]"
         },
         {
           "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
@@ -1338,124 +1339,8 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26dgr%3D0%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26band_rank%3D9%26pos%3D9%26flag%3D1%26display_time%3D1762414564%26pre_seqid%3D176241456406202572389111&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            6,
-            12,
-            13,
-            14,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时38分 ~ 19时16分]"
-        },
-        {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            5,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时39分 ~ 22时44分]"
-        },
-        {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
-          "url": "https://flash.jin10.com/detail/20251106031651685800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时16分]"
-        },
-        {
-          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20251106031453898800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时16分]"
-        },
-        {
-          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
-          "url": "https://www.zhihu.com/question/1969525122005164073",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时30分 ~ 22时44分]"
-        },
-        {
-          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3000071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "看胡连馨还珠无法保持苹果肌扁平",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%9C%8B%E8%83%A1%E8%BF%9E%E9%A6%A8%E8%BF%98%E7%8F%A0%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D22%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E7%259C%258B%25E8%2583%25A1%25E8%25BF%259E%25E9%25A6%25A8%25E8%25BF%2598%25E7%258F%25A0%25E6%2597%25A0%25E6%25B3%2595%25E4%25BF%259D%25E6%258C%2581%25E8%258B%25B9%25E6%259E%259C%25E8%2582%258C%25E6%2589%2581%25E5%25B9%25B3%26dgr%3D0%26lcate%3D5001%26flag%3D1%26band_rank%3D22%26display_time%3D1762406100%26pre_seqid%3D1762406100044040748108&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
@@ -1468,8 +1353,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时39分 ~ 22时44分]"
+          "appearance_count": 10,
+          "time_info": "[19时39分 ~ 23时19分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -1508,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时42分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26realpos%3D27%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D27%26cate%3D5001%26pos%3D27%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762441959%26pre_seqid%3D176244195961103403490141&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "金十图示：2025年11月06日（周四）上海金午盘价为916.45元/克，较国际金价(918.3元/克)，低1.85元/克",
@@ -1557,7 +1453,7 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -1580,8 +1476,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时15分 ~ 22时44分]"
+          "appearance_count": 31,
+          "time_info": "[09时15分 ~ 23时19分]"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "杰富瑞：维持低配美债立场 关注关税裁决对市场波动的影响",
@@ -1652,6 +1559,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "苹果喊话iPhone13和14用户换新机",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            5,
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时39分 ~ 23时19分]"
+        },
+        {
+          "title": "苹果喊话iPhone13和14用户换新机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26dgr%3D0%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26band_rank%3D9%26pos%3D9%26flag%3D1%26display_time%3D1762414564%26pre_seqid%3D176241456406202572389111&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9,
+            6,
+            12,
+            13,
+            14,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 19时16分]"
+        },
+        {
+          "title": "网友反映遮挡摄像头仍能解锁 iPhone，苹果客服称「解锁是通过深感摄像头」，这是什么原理？如何理解？",
+          "url": "https://www.zhihu.com/question/1969525122005164073",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            17,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时30分 ~ 23时19分]"
+        },
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "苹果(AAPL.O)新款Siri语音助手预计明年春季推出。",
+          "url": "https://flash.jin10.com/detail/20251106031651685800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 05时16分]"
+        },
+        {
+          "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20251106031453898800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 05时16分]"
+        },
+        {
+          "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3000071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 05时16分]"
+        },
+        {
+          "title": "看胡连馨还珠无法保持苹果肌扁平",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%9C%8B%E8%83%A1%E8%BF%9E%E9%A6%A8%E8%BF%98%E7%8F%A0%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D22%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E7%259C%258B%25E8%2583%25A1%25E8%25BF%259E%25E9%25A6%25A8%25E8%25BF%2598%25E7%258F%25A0%25E6%2597%25A0%25E6%25B3%2595%25E4%25BF%259D%25E6%258C%2581%25E8%258B%25B9%25E6%259E%259C%25E8%2582%258C%25E6%2589%2581%25E5%25B9%25B3%26dgr%3D0%26lcate%3D5001%26flag%3D1%26band_rank%3D22%26display_time%3D1762406100%26pre_seqid%3D1762406100044040748108&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时42分]"
         }
       ]
     },
