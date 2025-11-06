@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T17:19:10.991056+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2025-11-06T17:44:53.574350+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时47分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时47分 ~ 17时44分]"
         },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 17时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 17时44分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -56,6 +57,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时15分 ~ 14时52分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时52分 ~ 17时44分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -94,18 +107,6 @@
           "time_info": "[10时57分 ~ 14时25分]"
         },
         {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 17时19分]"
-        },
-        {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
           "url": "https://wallstreetcn.com/articles/3758724",
           "source": "华尔街见闻",
@@ -117,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时16分 ~ 17时19分]"
+          "appearance_count": 22,
+          "time_info": "[05时16分 ~ 17时44分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -1122,17 +1123,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时15分 ~ 17时19分]"
-        },
-        {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -1143,6 +1133,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时21分 ~ 06时41分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时15分 ~ 17时44分]"
         },
         {
           "title": "杰富瑞：维持低配美债立场 关注关税裁决对市场波动的影响",
@@ -1309,6 +1311,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "苹果喊话iPhone13和14用户换新机",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26dgr%3D0%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26band_rank%3D9%26pos%3D9%26flag%3D1%26display_time%3D1762414564%26pre_seqid%3D176241456406202572389111&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            9,
+            6,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 17时44分]"
+        },
+        {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3000071",
           "source": "华尔街见闻-快讯",
@@ -1332,19 +1348,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 05时16分]"
-        },
-        {
-          "title": "苹果喊话iPhone13和14用户换新机",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%96%8A%E8%AF%9DiPhone13%E5%92%8C14%E7%94%A8%E6%88%B7%E6%8D%A2%E6%96%B0%E6%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E5%2596%258A%25E8%25AF%259DiPhone13%25E5%2592%258C14%25E7%2594%25A8%25E6%2588%25B7%25E6%258D%25A2%25E6%2596%25B0%25E6%259C%25BA%2523%26dgr%3D0%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26band_rank%3D9%26pos%3D9%26flag%3D1%26display_time%3D1762414564%26pre_seqid%3D176241456406202572389111&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时19分]"
         },
         {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
