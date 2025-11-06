@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T18:46:02.903426+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-11-06T19:16:27.808467+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时47分 ~ 18时46分]"
+          "appearance_count": 17,
+          "time_info": "[12时47分 ~ 19时16分]"
         },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时15分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[09时15分 ~ 19时16分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[14时52分 ~ 19时16分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -118,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[05时16分 ~ 18时46分]"
+          "appearance_count": 27,
+          "time_info": "[05时16分 ~ 19时16分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -355,6 +355,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106182100120800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国最高法院对特朗普关税官司听证会的要点总结",
           "url": "https://wallstreetcn.com/livenews/3000063",
           "source": "华尔街见闻-快讯",
@@ -368,6 +379,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 05时16分]"
+        },
+        {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普：可能与俄罗斯等国制定去核化计划。",
@@ -457,18 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 12时47分]"
-        },
-        {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 18时46分]"
         },
         {
           "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
@@ -984,6 +995,18 @@
           "time_info": "[14时25分 ~ 15时18分]"
         },
         {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
           "url": "https://flash.jin10.com/detail/20251106010550622800",
           "source": "金十数据",
@@ -1018,17 +1041,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时23分]"
-        },
-        {
-          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
-          "url": "https://flash.jin10.com/detail/20251106180054572800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时46分]"
         },
         {
           "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
@@ -1199,8 +1211,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时15分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[09时15分 ~ 19时16分]"
         },
         {
           "title": "杰富瑞：维持低配美债立场 关注关税裁决对市场波动的影响",
@@ -1376,11 +1388,12 @@
             12,
             13,
             14,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时38分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[15时38分 ~ 19时16分]"
         },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
