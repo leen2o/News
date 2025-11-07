@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T13:42:58.602273+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-07T14:27:14.976696+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -38,8 +38,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 14时27分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时13分 ~ 13时42分]"
+          "time_info": "[10时54分 ~ 14时27分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -71,19 +84,6 @@
           "time_info": "[00时21分 ~ 07时39分]"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时42分]"
-        },
-        {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
@@ -91,19 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时42分]"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
-          "url": "https://flash.jin10.com/detail/20251107024330534800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 14时27分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -115,8 +104,35 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 14时27分]"
+        },
+        {
+          "title": "美脱口秀节目就政府停摆整活特朗普",
+          "url": "https://www.toutiao.com/trending/7568727581982474303/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            7,
+            12,
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 14时27分]"
+        },
+        {
+          "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
+          "url": "https://flash.jin10.com/detail/20251107024330534800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时13分]"
         },
         {
           "title": "男子在特朗普身边晕倒 发布会中断",
@@ -162,21 +178,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时53分 ~ 04时42分]"
-        },
-        {
-          "title": "美脱口秀节目就政府停摆整活特朗普",
-          "url": "https://www.toutiao.com/trending/7568727581982474303/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            7,
-            12,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 13时42分]"
         },
         {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
@@ -250,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "特朗普将与匈牙利总理欧尔班会面，讨论俄罗斯石油及经济合作问题。",
+          "url": "https://flash.jin10.com/detail/20251107140048691800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国总统特朗普：不担心航空旅行安全。",
@@ -604,6 +616,17 @@
           "time_info": "[09时13分 ~ 09时14分]"
         },
         {
+          "title": "特朗普官宣降价后药企高管当场晕倒",
+          "url": "https://www.toutiao.com/trending/7569788096678608905/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -652,6 +675,17 @@
           "time_info": "[05时38分 ~ 06时17分]"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
+        },
+        {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
           "url": "https://flash.jin10.com/detail/20251107013210117800",
           "source": "金十数据",
@@ -662,6 +696,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 02时24分]"
+        },
+        {
+          "title": "经贸大战背后 特朗普正在包围欧洲吗",
+          "url": "https://www.toutiao.com/trending/7569784878405783081/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "特朗普10秒概括美国外交政策",
@@ -845,8 +890,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时43分 ~ 13时42分]"
+          "appearance_count": 14,
+          "time_info": "[06时43分 ~ 14时27分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -861,8 +906,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时27分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -873,8 +918,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 14时27分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -883,11 +928,12 @@
           "ranks": [
             11,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时54分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 14时27分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -987,8 +1033,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时39分 ~ 13时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 14时27分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1104,6 +1150,19 @@
           "time_info": "[00时21分 ~ 07时39分]"
         },
         {
+          "title": "苹果公司：已解决Apple TV和Apple Arcade的服务中断问题。",
+          "url": "https://wallstreetcn.com/livenews/3000971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时27分]"
+        },
+        {
           "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
           "url": "https://flash.jin10.com/detail/20251107120411653800",
           "source": "金十数据",
@@ -1114,18 +1173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时18分]"
-        },
-        {
-          "title": "苹果公司：已解决Apple TV和Apple Arcade的服务中断问题。",
-          "url": "https://wallstreetcn.com/livenews/3000971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时42分]"
         },
         {
           "title": "苹果：已解决 Apple TV 和 Apple Arcade 的服务中断问题。",
@@ -1166,8 +1213,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时21分 ~ 14时27分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -1250,8 +1297,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时17分 ~ 13时42分]"
+          "appearance_count": 15,
+          "time_info": "[06时17分 ~ 14时27分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -1289,11 +1336,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
