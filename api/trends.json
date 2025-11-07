@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T17:20:06.606141+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2025-11-07T17:41:00.100454+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 17时40分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -75,11 +75,12 @@
             25,
             20,
             9,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时54分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[10时54分 ~ 17时40分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -126,6 +127,18 @@
           "time_info": "[00时21分 ~ 07时39分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普官宣降价减肥药企高管当场晕倒",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26dgr%3D0%26band_rank%3D7%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26realpos%3D7%26pos%3D8%26flag%3D1%26display_time%3D1762501102%26pre_seqid%3D17625011029140245272129&launchid=10000360-page_H5",
           "source": "微博",
@@ -137,18 +150,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时38分 ~ 17时20分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 17时20分]"
         },
         {
           "title": "美脱口秀节目就政府停摆整活特朗普",
@@ -635,6 +636,18 @@
           "time_info": "[00时22分 ~ 01时17分]"
         },
         {
+          "title": "为何说特朗普处于重返白宫后最大困境",
+          "url": "https://www.toutiao.com/trending/7568788294771720243/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 17时40分]"
+        },
+        {
           "title": "特朗普回应共和党选举失利",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%85%B1%E5%92%8C%E5%85%9A%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9",
           "source": "bilibili 热搜",
@@ -803,17 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 02时24分]"
-        },
-        {
-          "title": "为何说特朗普处于重返白宫后最大困境",
-          "url": "https://www.toutiao.com/trending/7568788294771720243/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "特朗普为何否认美军要袭击委内瑞拉",
@@ -1036,8 +1038,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时54分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[10时54分 ~ 17时40分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -1048,8 +1050,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时54分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[10时54分 ~ 17时40分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1203,6 +1205,18 @@
           "time_info": "[13时18分 ~ 14时52分]"
         },
         {
+          "title": "坚持喝煮苹果水身体会发生什么",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26lcate%3D5001%26pos%3D23%26band_rank%3D23%26display_time%3D1762507162%26pre_seqid%3D176250716289803356317158&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 17时40分]"
+        },
+        {
           "title": "市场消息：苹果表示正在调查APPLE TV的问题。",
           "url": "https://flash.jin10.com/detail/20251107120411653800",
           "source": "金十数据",
@@ -1237,17 +1251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 13时42分]"
-        },
-        {
-          "title": "坚持喝煮苹果水身体会发生什么",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9D%9A%E6%8C%81%E5%96%9D%E7%85%AE%E8%8B%B9%E6%9E%9C%E6%B0%B4%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D23%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E5%259D%259A%25E6%258C%2581%25E5%2596%259D%25E7%2585%25AE%25E8%258B%25B9%25E6%259E%259C%25E6%25B0%25B4%25E8%25BA%25AB%25E4%25BD%2593%25E4%25BC%259A%25E5%258F%2591%25E7%2594%259F%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26lcate%3D5001%26pos%3D23%26band_rank%3D23%26display_time%3D1762507162%26pre_seqid%3D176250716289803356317158&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
         },
         {
           "title": "苹果移动应用创新赛专访",
@@ -1286,8 +1289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时39分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[07时39分 ~ 17时40分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1392,8 +1395,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[06时17分 ~ 17时20分]"
+          "appearance_count": 25,
+          "time_info": "[06时17分 ~ 17时40分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -1591,11 +1594,12 @@
           "url": "https://wallstreetcn.com/livenews/3001137",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时40分]"
         }
       ]
     }
