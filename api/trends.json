@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T16:24:10.118079+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2025-11-07T16:48:47.385800+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "time_info": "[09时13分 ~ 14时52分]"
         },
         {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时54分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -51,23 +63,23 @@
             5,
             25,
             20,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 16时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时54分 ~ 16时48分]"
         },
         {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            6,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 16时48分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -77,11 +89,12 @@
             13,
             11,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 16时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时54分 ~ 16时48分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时21分 ~ 07时39分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 16时24分]"
         },
         {
           "title": "美脱口秀节目就政府停摆整活特朗普",
@@ -187,11 +189,23 @@
           "source": "微博",
           "ranks": [
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 16时48分]"
+        },
+        {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 16时48分]"
         },
         {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
@@ -272,17 +286,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 16时24分]"
-        },
-        {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20251107083221263800",
           "source": "金十数据",
@@ -356,6 +359,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时54分 ~ 12时49分]"
+        },
+        {
+          "title": "经贸大战背后 特朗普正在包围欧洲吗",
+          "url": "https://www.toutiao.com/trending/7569784878405783081/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 16时48分]"
         },
         {
           "title": "周四（11月6日），降息赢家指数跌1.63%，报94.02点。 “特朗普关税输家”指数跌3.69%，报101.61点。",
@@ -593,16 +609,15 @@
           "time_info": "[02时14分 ~ 03时13分]"
         },
         {
-          "title": "经贸大战背后 特朗普正在包围欧洲吗",
-          "url": "https://www.toutiao.com/trending/7569784878405783081/",
+          "title": "特朗普就美高院激辩关税表态",
+          "url": "https://www.toutiao.com/trending/7569800305303359018/",
           "source": "今日头条",
           "ranks": [
-            25,
-            22
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时26分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 16时48分]"
         },
         {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
@@ -714,17 +729,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "特朗普就美高院激辩关税表态",
-          "url": "https://www.toutiao.com/trending/7569800305303359018/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
@@ -995,6 +999,22 @@
           "time_info": "[06时43分 ~ 15时39分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时54分 ~ 16时48分]"
+        },
+        {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
@@ -1003,8 +1023,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 16时24分]"
+          "appearance_count": 16,
+          "time_info": "[10时54分 ~ 16时48分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1021,21 +1041,6 @@
           "is_new": false,
           "appearance_count": 32,
           "time_info": "[00时21分 ~ 14时27分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时54分 ~ 16时24分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -1245,8 +1250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时39分 ~ 16时24分]"
+          "appearance_count": 19,
+          "time_info": "[07时39分 ~ 16时48分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1351,8 +1356,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[06时17分 ~ 16时24分]"
+          "appearance_count": 22,
+          "time_info": "[06时17分 ~ 16时48分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -1440,8 +1445,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时21分 ~ 16时24分]"
+          "appearance_count": 39,
+          "time_info": "[00时21分 ~ 16时48分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
