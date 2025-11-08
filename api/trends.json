@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T17:17:24.749319+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-11-08T17:37:49.911358+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -85,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时38分 ~ 17时17分]"
+          "appearance_count": 19,
+          "time_info": "[07时38分 ~ 17时37分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -134,8 +134,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时46分 ~ 17时17分]"
+          "appearance_count": 9,
+          "time_info": "[14时46分 ~ 17时37分]"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -151,6 +151,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时25分 ~ 04时38分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 17时37分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时37分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -248,29 +271,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 03时37分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时17分]"
-        },
-        {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
@@ -474,6 +474,18 @@
           "time_info": "[03时15分 ~ 04时38分]"
         },
         {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 17时37分]"
+        },
+        {
           "title": "美国总统特朗普：我完全支持人工智能。",
           "url": "https://flash.jin10.com/detail/20251108022405006800",
           "source": "金十数据",
@@ -520,17 +532,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 03时37分]"
-        },
-        {
-          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
-          "url": "https://www.cls.cn/detail/2194868",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普：政府停摆持续多久取决于民主党。",
@@ -863,9 +864,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时37分]"
         }
       ]
     },
@@ -893,8 +894,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 17时37分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -964,9 +965,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时37分]"
         },
         {
           "title": "华为将于11月发布新款非凡探索手表",
