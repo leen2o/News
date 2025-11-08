@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T18:41:17.098385+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2025-11-08T19:12:51.368311+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -56,6 +56,17 @@
           "time_info": "[00时18分 ~ 07时38分]"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
@@ -65,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时46分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[14时46分 ~ 19时12分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -121,17 +132,6 @@
           "time_info": "[11时34分 ~ 15时37分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 18时41分]"
-        },
-        {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
           "url": "https://flash.jin10.com/detail/20251108101917094800",
           "source": "金十数据",
@@ -158,11 +158,12 @@
             3,
             12,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -178,6 +179,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时25分 ~ 04时38分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
@@ -287,6 +299,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时25分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普被问急眼了怒喷记者",
+          "url": "https://www.toutiao.com/trending/7569684589699235903/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
@@ -854,8 +877,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 19时12分]"
+        },
+        {
+          "title": "华为将发布新款手表 售价6499元起",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时12分]"
         },
         {
           "title": "华为将于11月发布新款非凡探索手表",
@@ -867,17 +902,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
-        },
-        {
-          "title": "华为将发布新款手表 售价6499元起",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         }
       ]
     },
@@ -907,8 +931,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -952,8 +976,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时36分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时36分 ~ 19时12分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
