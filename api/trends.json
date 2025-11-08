@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-08T14:24:26.820693+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-08T14:47:13.379826+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时10分 ~ 14时47分]"
+        },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时18分 ~ 09时10分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 14时24分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -79,11 +79,12 @@
             18,
             16,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 14时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时38分 ~ 14时47分]"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -96,11 +97,12 @@
             18,
             19,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 14时47分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -112,11 +114,12 @@
             11,
             12,
             15,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 14时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 14时47分]"
         },
         {
           "title": "特朗普：美国通胀处于完美水平",
@@ -529,6 +532,28 @@
           "time_info": "[01时15分 ~ 01时40分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
           "title": "专家：特朗普对中国关税战没占到便宜",
           "url": "https://www.toutiao.com/trending/7570149399242739241/",
           "source": "今日头条",
@@ -745,8 +770,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 14时47分]"
         },
         {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
@@ -944,11 +969,12 @@
             8,
             9,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 14时47分]"
         }
       ]
     },
