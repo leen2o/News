@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T00:19:58.761461+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-09T00:43:26.055939+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -70,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -81,8 +81,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     },
@@ -98,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "华为将发布新款手表 售价6499元起",
@@ -109,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     },
@@ -126,8 +126,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         },
         {
           "title": "伊朗总统：若持续无雨将撤离德黑兰",
@@ -137,8 +137,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     },
@@ -151,11 +151,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%A4%E4%BA%8C%E5%85%AC%E5%BC%80%E5%BD%95%E9%9F%B3%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D12%26q%3D%2523%25E5%258F%25A4%25E4%25BA%258C%25E5%2585%25AC%25E5%25BC%2580%25E5%25BD%2595%25E9%259F%25B3%25E6%25B6%2589%25E5%25AB%258C%25E8%25BF%259D%25E6%25B3%2595%2523%26dgr%3D0%26lcate%3D5001%26realpos%3D12%26cate%3D5001%26pos%3D13%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1762617044%26pre_seqid%3D17626170449600161553155&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     },
@@ -168,11 +169,12 @@
           "url": "https://wallstreetcn.com/articles/3758970",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     },
@@ -188,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 00时43分]"
         }
       ]
     }
