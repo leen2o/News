@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T22:37:58.970328+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2025-11-09T23:16:02.040287+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "拜登狠批特朗普",
@@ -19,8 +19,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时36分 ~ 21时02分]"
+          "appearance_count": 19,
+          "time_info": "[15时36分 ~ 23时16分]"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[11时42分 ~ 22时37分]"
+          "appearance_count": 32,
+          "time_info": "[11时42分 ~ 23时16分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时37分 ~ 22时37分]"
+          "appearance_count": 17,
+          "time_info": "[17时37分 ~ 23时16分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -145,6 +145,23 @@
           "time_info": "[15时15分 ~ 19时37分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            4,
+            11,
+            13,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时41分 ~ 23时16分]"
+        },
+        {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
           "url": "https://wallstreetcn.com/livenews/3001591",
           "source": "华尔街见闻-快讯",
@@ -175,20 +192,21 @@
           "time_info": "[00时19分 ~ 15时15分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
           "source": "金十数据",
           "ranks": [
-            1,
-            2,
+            3,
             4,
-            11,
+            6,
             13,
-            17
+            15,
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时41分 ~ 22时37分]"
+          "appearance_count": 9,
+          "time_info": "[18时41分 ~ 23时16分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -223,22 +241,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时19分 ~ 09时17分]"
-        },
-        {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            6,
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时41分 ~ 22时37分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -290,11 +292,53 @@
           "url": "https://wallstreetcn.com/livenews/3001704",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 23时16分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
+          "url": "https://flash.jin10.com/detail/20251109201626112800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            10,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 23时16分]"
+        },
+        {
+          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
+          "url": "https://flash.jin10.com/detail/20251109201217511800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            11,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 23时16分]"
+        },
+        {
+          "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
+          "url": "https://flash.jin10.com/detail/20251109225052216800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时37分"
+          "time_info": "23时16分"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -308,34 +352,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时15分]"
-        },
-        {
-          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
-          "url": "https://flash.jin10.com/detail/20251109201626112800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时02分 ~ 22时37分]"
-        },
-        {
-          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
-          "url": "https://flash.jin10.com/detail/20251109201217511800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时02分 ~ 22时37分]"
         },
         {
           "title": "美国民航业陷入灾难 特朗普如何收场",
@@ -356,11 +372,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时16分]"
         },
         {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
@@ -381,11 +398,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时40分 ~ 22时37分]"
+          "appearance_count": 4,
+          "time_info": "[21时40分 ~ 23时16分]"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -652,11 +670,12 @@
           "ranks": [
             10,
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时15分 ~ 22时37分]"
+          "appearance_count": 18,
+          "time_info": "[17时15分 ~ 23时16分]"
         }
       ]
     },
