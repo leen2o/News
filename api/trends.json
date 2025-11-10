@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T19:39:03.444023+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2025-11-10T20:34:26.097698+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时42分 ~ 19时39分]"
+          "appearance_count": 17,
+          "time_info": "[13时42分 ~ 20时34分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
@@ -443,6 +443,18 @@
           "time_info": "[18时20分 ~ 18时46分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 20时34分]"
+        },
+        {
           "title": "评论员：美财政已崩特朗普还在画饼",
           "url": "https://www.toutiao.com/trending/7570986378905783817/",
           "source": "今日头条",
@@ -456,15 +468,16 @@
           "time_info": "[16时23分 ~ 17时21分]"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
+          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251110191854398800",
+          "source": "金十数据",
           "ranks": [
-            14
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时34分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -549,17 +562,6 @@
           "time_info": "11时02分"
         },
         {
-          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
-          "url": "https://flash.jin10.com/detail/20251110191854398800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
           "title": "克里姆林宫：（就美国总统特朗普有关俄乌冲突将在不久的将来结束的言论回应）我们也希望冲突能尽快结束。",
           "url": "https://flash.jin10.com/detail/20251110172130688800",
           "source": "金十数据",
@@ -639,11 +641,12 @@
             11,
             8,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 20时34分]"
         },
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少，碳酸锂涨近2%，苹果、SC原油、氧化铝、液化石油气（LPG）、纸浆涨近1%。跌幅方面，焦煤跌近2%，沥青、焦炭、菜粕、玻璃跌超1%，甲醇、丁二烯橡胶跌近1%。",
@@ -756,8 +759,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 20时34分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金午盘价为933.87元/克，较国际金价(933.03元/克)，高0.84元/克",
@@ -834,8 +837,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 20时34分]"
         },
         {
           "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
@@ -848,6 +851,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时15分 ~ 19时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "超级AI临界点逼近：OpenAI发出警告",
+          "url": "https://www.toutiao.com/trending/7571055203147845126/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 19时39分]"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时15分]"
         }
       ]
     },
@@ -889,37 +934,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时39分]"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时15分]"
         }
       ]
     },
