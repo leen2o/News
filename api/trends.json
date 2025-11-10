@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-10T13:42:30.834937+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-11-10T14:27:27.187948+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 14时27分]"
+        },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
           "url": "https://wallstreetcn.com/articles/3758981",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时18分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 13时42分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -150,6 +150,20 @@
           "time_info": "[09时17分 ~ 12时36分]"
         },
         {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 14时27分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
           "url": "https://flash.jin10.com/detail/20251109183325380800",
           "source": "金十数据",
@@ -200,17 +214,30 @@
           "time_info": "[09时17分 ~ 12时01分]"
         },
         {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            9
+            10,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时17分 ~ 13时42分]"
+          "time_info": "[11时02分 ~ 14时27分]"
+        },
+        {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 14时27分]"
         },
         {
           "title": "因剪辑拼接特朗普视频 英国广播公司高管辞职",
@@ -265,19 +292,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时36分 ~ 07时38分]"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 13时42分]"
         },
         {
           "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
@@ -345,18 +359,6 @@
           "time_info": "[06时16分 ~ 07时38分]"
         },
         {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 13时42分]"
-        },
-        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://flash.jin10.com/detail/20251110085906374800",
           "source": "金十数据",
@@ -402,11 +404,12 @@
           "ranks": [
             10,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 13时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 14时27分]"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -419,6 +422,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 12时01分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时27分]"
         },
         {
           "title": "BBC两名高管因特朗普纪录片争议宣布辞职",
@@ -443,17 +457,6 @@
           "time_info": "11时02分"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
           "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
           "url": "https://flash.jin10.com/detail/20251110081856898800",
           "source": "金十数据",
@@ -474,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "如何看待特朗普要给美国民众发钱",
+          "url": "https://www.toutiao.com/trending/7570944913760587274/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普拟向民众发关税红利有何目的",
@@ -565,8 +579,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时27分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
