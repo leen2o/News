@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T05:39:11.766004+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-11-11T06:18:18.178308+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 05时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -28,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 05时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "获400亿美元援助后米莱大跳特朗普舞",
@@ -43,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 05时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -60,18 +60,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
-          "url": "https://wallstreetcn.com/livenews/3002333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时39分]"
         },
         {
           "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
@@ -98,6 +86,19 @@
           "time_info": "[00时49分 ~ 01时17分]"
         },
         {
+          "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
+          "url": "https://wallstreetcn.com/livenews/3002333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 06时18分]"
+        },
+        {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
           "url": "https://flash.jin10.com/detail/20251111004607704800",
           "source": "金十数据",
@@ -108,17 +109,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时39分]"
-        },
-        {
-          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
-          "url": "https://flash.jin10.com/detail/20251111050747330800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -132,17 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 03时37分]"
-        },
-        {
-          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
-          "url": "https://flash.jin10.com/detail/20251111050637638800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -159,6 +138,20 @@
           "time_info": "[00时21分 ~ 01时39分]"
         },
         {
+          "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
+          "url": "https://wallstreetcn.com/livenews/3002316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时18分]"
+        },
+        {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
           "url": "https://wallstreetcn.com/livenews/3002244",
           "source": "华尔街见闻-快讯",
@@ -172,17 +165,41 @@
           "time_info": "[00时49分 ~ 01时39分]"
         },
         {
-          "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
-          "url": "https://wallstreetcn.com/livenews/3002316",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：在接下来的两到三周内，我们将推出新的空中交通管制系统。",
+          "url": "https://flash.jin10.com/detail/20251111050747330800",
+          "source": "金十数据",
           "ranks": [
             4,
-            13,
-            17
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
+          "url": "https://flash.jin10.com/detail/20251111050637638800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
+          "url": "https://wallstreetcn.com/livenews/3002324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时39分]"
+          "time_info": "[05时15分 ~ 06时18分]"
         },
         {
           "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
@@ -198,16 +215,28 @@
           "time_info": "[01时17分 ~ 02时23分]"
         },
         {
-          "title": "特朗普：美国通胀率很快就会降至1.5%，将支持拨款法案",
-          "url": "https://wallstreetcn.com/livenews/3002324",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
+          "url": "https://flash.jin10.com/detail/20251111050524738800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            11
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时39分]"
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
+          "url": "https://flash.jin10.com/detail/20251111050513052800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
         },
         {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
@@ -222,6 +251,30 @@
           "time_info": "[00时21分 ~ 00时49分]"
         },
         {
+          "title": "特朗普称接近与印度达成贸易协议",
+          "url": "https://flash.jin10.com/detail/20251111050432896800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
+          "url": "https://flash.jin10.com/detail/20251111050220430800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
           "title": "美国总统特朗普的政府官员们表示，最高法院应当暂停对食品救助官司的审理。",
           "url": "https://wallstreetcn.com/livenews/3002228",
           "source": "华尔街见闻-快讯",
@@ -234,6 +287,53 @@
           "time_info": "[00时21分 ~ 00时49分]"
         },
         {
+          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
+          "url": "https://flash.jin10.com/detail/20251111050150815800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
+          "url": "https://flash.jin10.com/detail/20251111050113975800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：你们可以期待一些关于叙利亚的声明。",
+          "url": "https://flash.jin10.com/detail/20251111050112452800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
           "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。 认为（众议院会）有足够多的票数来通过临时拨款草案。",
           "url": "https://wallstreetcn.com/livenews/3002222",
           "source": "华尔街见闻-快讯",
@@ -244,6 +344,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时49分]"
+        },
+        {
+          "title": "美国总统特朗普：对印度征收高额关税是因为它购买了俄罗斯石油。印度正在停止购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251111045920378800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我们在最高法院输掉关税案，将面临经济灾难。",
+          "url": "https://flash.jin10.com/detail/20251111045809987800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        },
+        {
+          "title": "美国总统特朗普：我们很快就会达到1.5%的通胀率。",
+          "url": "https://flash.jin10.com/detail/20251111045807616800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：（就特朗普提议的50年期抵押贷款）我支持特朗普的想法。白宫将召开一系列会议。",
@@ -268,39 +404,6 @@
           "time_info": "01时39分"
         },
         {
-          "title": "美国总统特朗普：我们正在努力降低对瑞士的关税。",
-          "url": "https://flash.jin10.com/detail/20251111050524738800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：劳力士（瑞士手表生产商）一直都很不错。",
-          "url": "https://flash.jin10.com/detail/20251111050513052800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "特朗普称接近与印度达成贸易协议",
-          "url": "https://flash.jin10.com/detail/20251111050432896800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
           "title": "泰国军方指挥官称，在特朗普斡旋达成停火协议后，泰国军方“暂停”与柬埔寨的各项协议。",
           "url": "https://flash.jin10.com/detail/20251111011541055800",
           "source": "金十数据",
@@ -312,90 +415,13 @@
           "time_info": "01时39分"
         },
         {
-          "title": "美国总统特朗普：正在与瑞士商讨协议，尚未确定具体数字（关税税率）。",
-          "url": "https://flash.jin10.com/detail/20251111050220430800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：我们正与瑞士合作，商讨降低关税的协议。",
-          "url": "https://flash.jin10.com/detail/20251111050150815800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与以色列合作，以与叙利亚和睦相处。",
-          "url": "https://flash.jin10.com/detail/20251111050113975800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：你们可以期待一些关于叙利亚的声明。",
-          "url": "https://flash.jin10.com/detail/20251111050112452800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：对印度征收高额关税是因为它购买了俄罗斯石油。印度正在停止购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251111045920378800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：如果我们在最高法院输掉关税案，将面临经济灾难。",
-          "url": "https://flash.jin10.com/detail/20251111045809987800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国总统特朗普：我们很快就会达到1.5%的通胀率。",
-          "url": "https://flash.jin10.com/detail/20251111045807616800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
           "title": "美国总统特朗普：我们将向中低收入人群发放2000美元的补贴，这要归功于关税。",
           "url": "https://flash.jin10.com/detail/20251111045600389800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -406,7 +432,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -428,7 +454,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -439,7 +465,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -461,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -472,7 +498,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
@@ -483,7 +509,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         }
@@ -500,11 +526,12 @@
           "ranks": [
             28,
             26,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时39分 ~ 05时39分]"
+          "appearance_count": 13,
+          "time_info": "[01时39分 ~ 06时18分]"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -516,11 +543,12 @@
             24,
             29,
             27,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
@@ -579,8 +607,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 05时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 06时18分]"
         },
         {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
@@ -604,11 +632,12 @@
             4,
             12,
             21,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 06时18分]"
         },
         {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
@@ -636,8 +665,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 05时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
@@ -717,6 +746,49 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
+          "url": "https://wallstreetcn.com/livenews/3002343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "周一（11月10日）纽约尾盘，ICE美元指数跌0.01%，报99.591点，日内交投区间为99.742-99.455点。 彭博美元指数跌0.06%，报1218.67点，日内交投区间为1221.03-1217.94点。",
+          "url": "https://wallstreetcn.com/livenews/3002313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时18分]"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20251111050157918800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone",
       "match_count": 2,
       "titles": [
@@ -775,36 +847,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（11月10日）纽约尾盘，ICE美元指数跌0.01%，报99.591点，日内交投区间为99.742-99.455点。 彭博美元指数跌0.06%，报1218.67点，日内交投区间为1221.03-1217.94点。",
-          "url": "https://wallstreetcn.com/livenews/3002313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时39分]"
-        },
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20251111050157918800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         }
       ]
     },
