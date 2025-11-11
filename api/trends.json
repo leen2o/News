@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:46:09.730250+08:00",
-  "total_titles_processed": 1815,
+  "generated_at": "2025-11-11T19:16:40.946919+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时56分 ~ 18时46分]"
+          "appearance_count": 23,
+          "time_info": "[10时56分 ~ 19时16分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -92,6 +92,17 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 19时16分]"
+        },
+        {
           "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
           "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
           "source": "凤凰网",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时25分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 18时46分]"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -155,6 +155,18 @@
           "time_info": "[00时49分 ~ 01时17分]"
         },
         {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "美国联邦航空管理局网站显示，尽管特朗普要求管制人员重返工作岗位，但目前仍有23个联邦航空管理局设施报告存在人员配置问题。",
           "url": "https://flash.jin10.com/detail/20251111063015742800",
           "source": "金十数据",
@@ -168,15 +180,15 @@
           "time_info": "[06时42分 ~ 07时38分]"
         },
         {
-          "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
-          "url": "https://flash.jin10.com/detail/20251111183736123800",
-          "source": "金十数据",
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
           "ranks": [
-            2
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 19时16分]"
         },
         {
           "title": "特朗普考虑降低对瑞士关税 瑞士钟表股应声大涨",
@@ -235,18 +247,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时23分 ~ 03时37分]"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 18时46分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -318,17 +318,6 @@
           "time_info": "[05时39分 ~ 07时17分]"
         },
         {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 18时46分]"
-        },
-        {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
           "url": "https://wallstreetcn.com/livenews/3002244",
           "source": "华尔街见闻-快讯",
@@ -364,6 +353,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 09时15分]"
+        },
+        {
+          "title": "消息人士：瑞士方面降低关税的协议要等到特朗普批准后才能确定。",
+          "url": "https://flash.jin10.com/detail/20251111183736123800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时16分]"
         },
         {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
@@ -462,6 +463,17 @@
           "time_info": "[05时39分 ~ 07时17分]"
         },
         {
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571253212158689290/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时16分]"
+        },
+        {
           "title": "特朗普明年会重启对华贸易战吗",
           "url": "https://www.toutiao.com/trending/7571253413522968106/",
           "source": "今日头条",
@@ -497,17 +509,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 02时23分]"
-        },
-        {
-          "title": "特朗普回应高市早苗涉台错误言论",
-          "url": "https://www.toutiao.com/trending/7571253212158689290/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "特朗普：如果不采取措施应对芝加哥的谋杀和犯罪问题 美国最好的购物中心将被迫关门",
@@ -738,6 +739,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "牛弹琴：特朗普又给美国最高法院施压",
+          "url": "https://www.toutiao.com/trending/7570354589443538971/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "市场消息：叙利亚领导人艾哈迈德·沙拉抵达白宫，准备与美国总统特朗普举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20251110235819595800",
           "source": "金十数据",
@@ -840,7 +852,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "不爱吃苹果的人有救了",
@@ -869,19 +881,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 18时46分]"
+          "appearance_count": 19,
+          "time_info": "[00时49分 ~ 19时16分]"
         },
         {
           "title": "苹果推出新配件：1299元买“一块布”",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%85%8D%E4%BB%B6%EF%BC%9A1299%E5%85%83%E4%B9%B0%E2%80%9C%E4%B8%80%E5%9D%97%E5%B8%83%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时16分]"
         },
         {
           "title": "道指转跌，成分股家得宝、Salesforce、美国运通、宝洁、雪佛龙、可口可乐、联合健康、波音目前至多跌2%，苹果、3M、亚马逊、高盛、思科、微软、英伟达目前仍然至少涨超0.6%。",
@@ -961,6 +974,28 @@
           "time_info": "[15时17分 ~ 15时40分]"
         },
         {
+          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
+          "url": "https://wallstreetcn.com/livenews/3002746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "AI投资热潮遭遇资本支出“反噬” 苹果因保守策略意外成为避风港",
+          "url": "https://flash.jin10.com/detail/20251111190155430800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "苹果的卫星互联网战略曝光！",
           "url": "https://www.cls.cn/detail/2196026",
           "source": "财联社热门",
@@ -986,7 +1021,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价大涨但黄金首饰难卖了",
@@ -1032,8 +1067,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[16时48分 ~ 19时16分]"
         },
         {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
@@ -1109,6 +1144,28 @@
           "time_info": "16时48分"
         },
         {
+          "title": "德商银行：预计未来一年白银价格将为50美元/盎司，铂金价格将达到1,700美元/盎司，钯金价格将达到1,400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185400884800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "德商银行：预计未来一年黄金价格将达到4,200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185300227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "国际金价直线拉升",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26q%3D%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E7%259B%25B4%25E7%25BA%25BF%25E6%258B%2589%25E5%258D%2587%26dgr%3D0%26pos%3D28%26band_rank%3D28%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762823677%26pre_seqid%3D17628236773960197903276&launchid=10000360-page_H5",
           "source": "微博",
@@ -1134,7 +1191,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
@@ -1230,6 +1287,17 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
           "url": "https://wallstreetcn.com/livenews/3002563",
           "source": "华尔街见闻-快讯",
@@ -1312,7 +1380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -1510,8 +1578,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时45分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[11时45分 ~ 19时16分]"
         },
         {
           "title": "小米SU7改款涨价近1万",
@@ -1625,8 +1693,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时16分]"
         }
       ]
     },
