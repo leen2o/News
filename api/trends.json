@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T13:18:05.132154+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-11-11T13:43:13.665286+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 13时18分]"
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 13时43分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 13时43分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -55,11 +68,12 @@
             24,
             30,
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 13时43分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -75,19 +89,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 13时18分]"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -723,6 +724,18 @@
           "time_info": "[00时21分 ~ 01时39分]"
         },
         {
+          "title": "不爱吃苹果的人有救了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%8D%E7%88%B1%E5%90%83%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%BA%E6%9C%89%E6%95%91%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D14%26q%3D%25E4%25B8%258D%25E7%2588%25B1%25E5%2590%2583%25E8%258B%25B9%25E6%259E%259C%25E7%259A%2584%25E4%25BA%25BA%25E6%259C%2589%25E6%2595%2591%25E4%25BA%2586%26realpos%3D14%26pos%3D15%26dgr%3D0%26display_time%3D1762836217%26pre_seqid%3D17628362174920197861021&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 13时43分]"
+        },
+        {
           "title": "先锋领航三季度增持特斯拉 减持苹果",
           "url": "https://wallstreetcn.com/livenews/3002306",
           "source": "华尔街见闻-快讯",
@@ -736,17 +749,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 06时18分]"
-        },
-        {
-          "title": "不爱吃苹果的人有救了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%8D%E7%88%B1%E5%90%83%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%BA%E6%9C%89%E6%95%91%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D14%26q%3D%25E4%25B8%258D%25E7%2588%25B1%25E5%2590%2583%25E8%258B%25B9%25E6%259E%259C%25E7%259A%2584%25E4%25BA%25BA%25E6%259C%2589%25E6%2595%2591%25E4%25BA%2586%26realpos%3D14%26pos%3D15%26dgr%3D0%26display_time%3D1762836217%26pre_seqid%3D17628362174920197861021&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 13时18分]"
         },
         {
           "title": "四喜买了苹果香当插曲",
@@ -1207,8 +1209,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 13时43分]"
         },
         {
           "title": "小米SU7改款涨价近1万",
