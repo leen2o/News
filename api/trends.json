@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T19:15:55.021423+08:00",
-  "total_titles_processed": 1794,
+  "generated_at": "2025-11-12T19:38:34.450562+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
@@ -159,11 +159,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时19分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[17时19分 ~ 19时38分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -228,7 +229,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -919,11 +920,12 @@
           "source": "微博",
           "ranks": [
             8,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 19时38分]"
         },
         {
           "title": "受美瑞贸易协议希望和黄金价格提振 瑞士法郎上涨",
@@ -1118,8 +1120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时14分 ~ 19时15分]"
+          "appearance_count": 24,
+          "time_info": "[09时14分 ~ 19时38分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -1157,8 +1159,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 19时38分]"
         },
         {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
@@ -1214,8 +1216,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[15时39分 ~ 19时38分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 19时38分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1229,19 +1245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时25分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            30,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时20分]"
         }
       ]
     },
@@ -1318,8 +1321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[07时38分 ~ 19时15分]"
+          "appearance_count": 25,
+          "time_info": "[07时38分 ~ 19时38分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -1362,8 +1365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 19时15分]"
+          "appearance_count": 13,
+          "time_info": "[14时52分 ~ 19时38分]"
         },
         {
           "title": "iPhonePocket发布",
@@ -1435,8 +1438,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时21分 ~ 19时15分]"
+          "appearance_count": 42,
+          "time_info": "[00时21分 ~ 19时38分]"
         }
       ]
     }
