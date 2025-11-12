@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:21:08.775551+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-11-12T12:45:46.142194+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 12时45分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -145,8 +145,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -640,8 +640,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 12时45分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -653,8 +653,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 12时45分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -742,6 +742,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 12时45分]"
+        },
+        {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
           "url": "https://www.cls.cn/detail/2197483",
           "source": "财联社热门",
@@ -753,18 +766,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时21分 ~ 09时14分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 12时21分]"
         },
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -869,11 +870,12 @@
           "ranks": [
             22,
             21,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时55分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 12时45分]"
         },
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -1019,8 +1021,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 12时21分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 12时45分]"
         }
       ]
     },
@@ -1060,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时38分 ~ 12时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 12时45分]"
         }
       ]
     }
