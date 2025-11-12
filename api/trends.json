@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T07:38:40.122142+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-11-12T09:14:33.551819+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 35,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -45,11 +45,12 @@
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -85,11 +86,12 @@
             27,
             16,
             14,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时14分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[03时14分 ~ 09时14分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -101,8 +103,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -116,8 +118,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
@@ -187,6 +189,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将降低一些咖啡关税。",
+          "url": "https://flash.jin10.com/detail/20251112083626942800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
+          "url": "https://flash.jin10.com/detail/20251112083438495800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国总统特朗普：众议长约翰逊与参议院多数党领袖John Thune在临时开支草案协议上“取得重大胜利”。",
@@ -370,6 +394,18 @@
           "time_info": "[01时42分 ~ 02时23分]"
         },
         {
+          "title": "特朗普宣称美国不再资助乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 09时14分]"
+        },
+        {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
           "url": "https://flash.jin10.com/detail/20251112010827200800",
           "source": "金十数据",
@@ -412,9 +448,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3003054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：美国需要一些有才华的外国工人。",
+          "url": "https://wallstreetcn.com/livenews/3003050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "曼达尼当选纽约市长后，特朗普助手审查纽约市拨款",
@@ -423,20 +481,64 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
         {
-          "title": "特朗普宣称美国不再资助乌克兰",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
-          "source": "百度热搜",
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普：美国不再资助乌克兰",
+          "url": "https://www.douyin.com/hot/2303153",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "据CBS记者：消息人士透露，部分金融业高管已获邀参加明晚在白宫举行的特朗普晚宴，纳斯达克首席执行官阿德娜·弗里德曼在列。此次晚宴距特朗普9月4日为科技公司首席执行官们举办的晚宴仅隔数月。周三的晚宴将以私人形式举行。",
+          "url": "https://flash.jin10.com/detail/20251112074930925800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
@@ -448,12 +550,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美国总统特朗普：尽管面临市长和州长的极端反对与阻挠，伊利诺伊州芝加哥市的汽车盗窃、枪击案、抢劫案、暴力犯罪及其他各类案件均大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251112073543613800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -464,8 +588,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -480,6 +604,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时38分]"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -534,6 +669,72 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 07时15分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
+          "url": "https://www.cls.cn/detail/2197483",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
+        },
+        {
+          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
+          "url": "https://wallstreetcn.com/livenews/3002949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 05时15分]"
+        },
+        {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969152536956109880",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -651,39 +852,6 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
-          "url": "https://www.cls.cn/detail/2197483",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
-        },
-        {
-          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
-          "url": "https://wallstreetcn.com/livenews/3002949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 05时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -757,8 +925,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 07时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
         }
       ]
     },
@@ -793,11 +961,12 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 09时14分]"
         }
       ]
     }
