@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T22:45:26.864231+08:00",
-  "total_titles_processed": 2193,
+  "generated_at": "2025-11-12T23:19:54.205206+08:00",
+  "total_titles_processed": 2237,
   "failed_sources": [],
   "trends": [
     {
@@ -272,6 +272,20 @@
           "time_info": "10时56分"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时19分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及是否会起诉英国广播公司）我想我不得不这么做。",
           "url": "https://flash.jin10.com/detail/20251112083438495800",
           "source": "金十数据",
@@ -309,19 +323,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时39分 ~ 17时19分]"
-        },
-        {
-          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
-          "url": "https://wallstreetcn.com/livenews/3003469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时45分]"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -588,6 +589,18 @@
           "time_info": "[10时56分 ~ 11时44分]"
         },
         {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时19分]"
+        },
+        {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
           "url": "https://flash.jin10.com/detail/20251112010443210800",
           "source": "金十数据",
@@ -687,17 +700,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        },
-        {
-          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
         },
         {
           "title": "特朗普：美国需要一些有才华的外国工人。",
@@ -805,7 +807,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1019,7 +1021,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1030,7 +1032,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -1041,7 +1043,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         }
@@ -1300,8 +1302,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时14分 ~ 22时45分]"
+          "appearance_count": 31,
+          "time_info": "[09时14分 ~ 23时19分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -1333,6 +1335,18 @@
           "time_info": "[18时46分 ~ 22时18分]"
         },
         {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时52分 ~ 23时19分]"
+        },
+        {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
           "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
@@ -1345,18 +1359,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时52分 ~ 22时45分]"
         },
         {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
@@ -1472,6 +1474,73 @@
       ]
     },
     {
+      "keyword_group": "美债 -杰富瑞",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[07时38分 ~ 23时19分]"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时24分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时19分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，黄金转涨",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1531,62 +1600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 14时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[07时38分 ~ 22时45分]"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时24分]"
-        },
-        {
-          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
-          "url": "https://flash.jin10.com/detail/20251112162921044800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时19分]"
-        },
-        {
-          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3003444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时18分]"
         }
       ]
     },
@@ -1709,8 +1722,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时21分 ~ 22时45分]"
+          "appearance_count": 49,
+          "time_info": "[00时21分 ~ 23时19分]"
         }
       ]
     }
