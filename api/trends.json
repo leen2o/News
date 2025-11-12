@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T17:43:33.887115+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-11-12T18:20:17.481023+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -91,8 +91,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时21分 ~ 17时43分]"
+          "appearance_count": 38,
+          "time_info": "[00时21分 ~ 18时20分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -207,6 +207,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时55分 ~ 12时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112175252982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
@@ -375,6 +386,19 @@
           "time_info": "[00时21分 ~ 01时42分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
           "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
           "url": "https://flash.jin10.com/detail/20251112132543128800",
           "source": "金十数据",
@@ -473,18 +497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 09时14分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时43分]"
         },
         {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
@@ -705,8 +717,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时21分 ~ 17时43分]"
+          "appearance_count": 38,
+          "time_info": "[00时21分 ~ 18时20分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -883,11 +895,12 @@
           "url": "https://flash.jin10.com/detail/20251112172706490800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时20分]"
         },
         {
           "title": "金价在美国就业数据发布后出现一波V形反转，纽约期银涨1.5%，钯金涨超2.2%",
@@ -958,7 +971,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         }
@@ -1058,8 +1071,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时14分 ~ 17时43分]"
+          "appearance_count": 20,
+          "time_info": "[09时14分 ~ 18时20分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -1137,11 +1150,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 17时43分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时20分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1162,11 +1176,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            30
+            30,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时20分]"
         }
       ]
     },
@@ -1243,8 +1258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时38分 ~ 17时43分]"
+          "appearance_count": 21,
+          "time_info": "[07时38分 ~ 18时20分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -1303,8 +1318,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 18时20分]"
         }
       ]
     },
@@ -1354,11 +1369,12 @@
             16,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 37,
-          "time_info": "[00时21分 ~ 17时43分]"
+          "appearance_count": 38,
+          "time_info": "[00时21分 ~ 18时20分]"
         }
       ]
     }
