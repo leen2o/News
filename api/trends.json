@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T21:32:22.636729+08:00",
-  "total_titles_processed": 2037,
+  "generated_at": "2025-11-12T21:52:32.283342+08:00",
+  "total_titles_processed": 2102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -223,6 +223,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时55分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "以色列总统办公室：赫尔佐格总统收到美国总统特朗普的来信，信中呼吁他考虑赦免总理内塔尼亚胡。",
@@ -607,6 +618,17 @@
           "time_info": "[15时18分 ~ 16时24分]"
         },
         {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
           "url": "https://flash.jin10.com/detail/20251112070247139800",
           "source": "金十数据",
@@ -638,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "据纽约时报：爱泼斯坦曾在电子邮件中称，美国总统特朗普知晓他的行为。",
+          "url": "https://flash.jin10.com/detail/20251112213935558800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "特朗普：美国需要一些有才华的外国工人。",
@@ -748,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普谈的是为收入低于10万美元的家庭提供2000美元的退税。",
+          "url": "https://flash.jin10.com/detail/20251112213012842800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
@@ -933,6 +977,123 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "国际原子能机构：伊朗对核设施受损情况的沉默引发对铀库存的担忧",
+          "url": "https://flash.jin10.com/detail/20251112214800764800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
+          "url": "https://flash.jin10.com/detail/20251112004024574800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时42分]"
+        },
+        {
+          "title": "伊朗称：摧毁一个由美以领导的间谍网络",
+          "url": "https://wallstreetcn.com/livenews/3002889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时49分]"
+        },
+        {
+          "title": "国际原子能机构：根据《不扩散核武器条约》，伊朗必须立即报告受袭击影响的核材料和设施的状况，但迄今尚未履行这一义务。",
+          "url": "https://flash.jin10.com/detail/20251112213631160800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "国际原子能机构：截至6月13日，伊朗以六氟化铀形式储存的丰度高达60%的浓缩铀储量仍估计为440.9公斤。",
+          "url": "https://flash.jin10.com/detail/20251112213616952800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "国际原子能机构：重申上季度报告的发现，即截至6月13日，伊朗的浓缩铀储量估计为9874.9公斤。",
+          "url": "https://flash.jin10.com/detail/20251112213523156800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "国际原子能机构：机构长达五个月无法接触伊朗的这些核材料，意味着核查工作早已严重滞后。",
+          "url": "https://flash.jin10.com/detail/20251112213422275800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "国际原子能机构第二份报告：国际原子能机构已无法持续掌握伊朗相关设施中核材料库存的知识，包括高浓铀。",
+          "url": "https://flash.jin10.com/detail/20251112213120035800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "国际原子能机构第二份报告：伊朗生产和积累的高浓铀数量令人严重关切。伊朗已开始允许该机构进入未受军事袭击影响的设施。",
+          "url": "https://flash.jin10.com/detail/20251112213100841800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 9,
       "titles": [
@@ -1052,6 +1213,103 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3,
+            2,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[09时14分 ~ 21时52分]"
+        },
+        {
+          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
+          "url": "https://www.cls.cn/detail/2197483",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 09时14分]"
+        },
+        {
+          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
+          "url": "https://wallstreetcn.com/livenews/3002949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 05时15分]"
+        },
+        {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            6,
+            8,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 21时52分]"
+        },
+        {
+          "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969152536956109880",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时14分 ~ 10时56分]"
+        },
+        {
+          "title": "苹果新配件iPhone Pocket1299元起售",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E9%85%8D%E4%BB%B6iPhone+Pocket1299%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
+        },
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -1141,91 +1399,6 @@
       ]
     },
     {
-      "keyword_group": "苹果",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            2,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时14分 ~ 21时32分]"
-        },
-        {
-          "title": "苹果推出新配件iPhone Pocket，售价1299元起",
-          "url": "https://www.cls.cn/detail/2197483",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 09时14分]"
-        },
-        {
-          "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
-          "url": "https://wallstreetcn.com/livenews/3002949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 05时15分]"
-        },
-        {
-          "title": "大哥路边卖苹果摆得整整齐齐",
-          "url": "https://www.toutiao.com/trending/7571416741918752810/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            6,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时46分 ~ 21时32分]"
-        },
-        {
-          "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1969152536956109880",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 10时56分]"
-        },
-        {
-          "title": "苹果新配件iPhone Pocket1299元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E9%85%8D%E4%BB%B6iPhone+Pocket1299%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1266,11 +1439,12 @@
             16,
             30,
             4,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 21时52分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1301,8 +1475,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[07时38分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[07时38分 ~ 21时52分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -1333,11 +1507,12 @@
           "url": "https://wallstreetcn.com/livenews/3003444",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时52分]"
         }
       ]
     },
@@ -1401,46 +1576,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
-          "url": "https://flash.jin10.com/detail/20251112004024574800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 01时42分]"
-        },
-        {
-          "title": "伊朗称：摧毁一个由美以领导的间谍网络",
-          "url": "https://wallstreetcn.com/livenews/3002889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时49分]"
-        },
-        {
-          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251112210345876800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 VIVO OPPO 小米",
       "match_count": 2,
       "titles": [
@@ -1500,8 +1635,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时21分 ~ 21时32分]"
+          "appearance_count": 45,
+          "time_info": "[00时21分 ~ 21时52分]"
         }
       ]
     }
