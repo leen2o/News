@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:18:00.903758+08:00",
-  "total_titles_processed": 2115,
+  "generated_at": "2025-11-12T22:45:26.864231+08:00",
+  "total_titles_processed": 2193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -316,11 +316,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时45分]"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -452,6 +453,19 @@
           "time_info": "[13时42分 ~ 14时52分]"
         },
         {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时45分]"
+        },
+        {
           "title": "美国交通部长Duffy：空管人员将在特朗普政府开门之后24-48（小时）获得以往薪酬的70%。 剩余30%将在那一周之后发放。",
           "url": "https://wallstreetcn.com/livenews/3002977",
           "source": "华尔街见闻-快讯",
@@ -525,18 +539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时23分]"
-        },
-        {
-          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
-          "url": "https://wallstreetcn.com/livenews/3003465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时18分]"
         },
         {
           "title": "特朗普宣称美国不再资助乌克兰",
@@ -687,6 +689,17 @@
           "time_info": "20时34分"
         },
         {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "特朗普：美国需要一些有才华的外国工人。",
           "url": "https://wallstreetcn.com/livenews/3003050",
           "source": "华尔街见闻-快讯",
@@ -704,7 +717,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -786,6 +799,17 @@
           "time_info": "20时34分"
         },
         {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -822,7 +846,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -987,6 +1011,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -1243,8 +1300,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时14分 ~ 22时18分]"
+          "appearance_count": 30,
+          "time_info": "[09时14分 ~ 22时45分]"
         },
         {
           "title": "苹果推出新配件iPhone Pocket，售价1299元起",
@@ -1294,11 +1351,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 22时45分]"
         },
         {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
@@ -1490,8 +1548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[07时38分 ~ 22时18分]"
+          "appearance_count": 31,
+          "time_info": "[07时38分 ~ 22时45分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -1651,8 +1709,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 47,
-          "time_info": "[00时21分 ~ 22时18分]"
+          "appearance_count": 48,
+          "time_info": "[00时21分 ~ 22时45分]"
         }
       ]
     }
