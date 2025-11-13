@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:41:46.227279+08:00",
-  "total_titles_processed": 2305,
+  "generated_at": "2025-11-13T23:20:12.636240+08:00",
+  "total_titles_processed": 2353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -216,17 +216,6 @@
           "time_info": "[03时15分 ~ 04时42分]"
         },
         {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
-          "url": "https://wallstreetcn.com/livenews/3004246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "洲际交易所（ICE）CEO参与组织美国总统特朗普的晚宴。 纽交所总裁料将出席。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3003567",
           "source": "华尔街见闻-快讯",
@@ -333,6 +322,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 18时46分]"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
+          "url": "https://wallstreetcn.com/livenews/3004246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时20分]"
         },
         {
           "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
@@ -664,6 +665,17 @@
           "time_info": "[03时38分 ~ 07时16分]"
         },
         {
+          "title": "房利美下跌12%，创8月8日以来盘中新低，美国总统特朗普近日提出50年其抵押贷款假想。",
+          "url": "https://wallstreetcn.com/livenews/3004257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普拟定数小时后正式结束政府停摆",
           "url": "https://flash.jin10.com/detail/20251113083457271800",
           "source": "金十数据",
@@ -730,6 +742,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
+          "url": "https://wallstreetcn.com/livenews/3004247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "特朗普问叙利亚领导人有几个老婆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%AE%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9C%89%E5%87%A0%E4%B8%AA%E8%80%81%E5%A9%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D20%26pos%3D20%26lcate%3D5001%26realpos%3D20%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2597%25AE%25E5%258F%2599%25E5%2588%25A9%25E4%25BA%259A%25E9%25A2%2586%25E5%25AF%25BC%25E4%25BA%25BA%25E6%259C%2589%25E5%2587%25A0%25E4%25B8%25AA%25E8%2580%2581%25E5%25A9%2586%2523%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1763007666%26pre_seqid%3D17630076662730113589702&launchid=10000360-page_H5",
           "source": "微博",
@@ -747,7 +770,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -822,8 +845,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时15分 ~ 22时41分]"
+          "appearance_count": 9,
+          "time_info": "[19时15分 ~ 23时20分]"
         },
         {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
@@ -832,11 +855,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时43分 ~ 22时41分]"
+          "appearance_count": 12,
+          "time_info": "[17时43分 ~ 23时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -851,6 +875,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时17分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时35分 ~ 23时20分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -890,19 +927,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时39分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时41分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -967,6 +991,18 @@
           "time_info": "[04时19分 ~ 04时42分]"
         },
         {
+          "title": "美股开盘，道指跌0.28%，标普500指数跌0.44%，纳指跌0.67%。阿里巴巴(BABA.N)涨3.75%，据悉其正筹备大幅改版AI应用，全面对标ChatGPT。京东(JD.O)涨0.13%，Q3营收超预期。思科(CSCO.O)涨6.8%，此前上调全年利润和收入预期。",
+          "url": "https://flash.jin10.com/detail/20251113223029807800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时20分]"
+        },
+        {
           "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。此前消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
           "url": "https://wallstreetcn.com/livenews/3003905",
           "source": "华尔街见闻-快讯",
@@ -998,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
-        },
-        {
-          "title": "美股开盘，道指跌0.28%，标普500指数跌0.44%，纳指跌0.67%。阿里巴巴(BABA.N)涨3.75%，据悉其正筹备大幅改版AI应用，全面对标ChatGPT。京东(JD.O)涨0.13%，Q3营收超预期。思科(CSCO.O)涨6.8%，此前上调全年利润和收入预期。",
-          "url": "https://flash.jin10.com/detail/20251113223029807800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         }
       ]
     },
@@ -1043,8 +1068,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时23分 ~ 22时41分]"
+          "appearance_count": 18,
+          "time_info": "[16时23分 ~ 23时20分]"
         },
         {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
@@ -1079,8 +1104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[20时35分 ~ 23时20分]"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
