@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T16:49:29.883467+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-13T17:20:10.950574+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时47分 ~ 16时49分]"
+          "appearance_count": 17,
+          "time_info": "[11时47分 ~ 17时20分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -28,8 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 16时49分]"
+          "appearance_count": 15,
+          "time_info": "[12时46分 ~ 17时20分]"
+        },
+        {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -45,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 40,
+          "time_info": "[01时16分 ~ 17时20分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -63,18 +75,6 @@
           "time_info": "[11时47分 ~ 15时39分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 16时49分]"
-        },
-        {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
           "url": "https://www.cls.cn/detail/2199299",
           "source": "财联社热门",
@@ -84,8 +84,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 16时49分]"
+          "appearance_count": 13,
+          "time_info": "[13时42分 ~ 17时20分]"
+        },
+        {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -126,17 +137,6 @@
           "time_info": "[09时15分 ~ 11时47分]"
         },
         {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 16时49分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
           "url": "https://wallstreetcn.com/livenews/3003597",
           "source": "华尔街见闻-快讯",
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时15分 ~ 05时16分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -324,17 +335,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时48分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 16时49分]"
         },
         {
           "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
@@ -736,8 +736,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 16时49分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 17时20分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -893,8 +893,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[00时22分 ~ 16时49分]"
+          "appearance_count": 44,
+          "time_info": "[00时22分 ~ 17时20分]"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -909,16 +921,16 @@
           "time_info": "[00时22分 ~ 07时39分]"
         },
         {
-          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
-          "url": "https://wallstreetcn.com/articles/3759220",
-          "source": "华尔街见闻",
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
           "ranks": [
-            9,
-            10
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
@@ -944,18 +956,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 16时49分]"
         },
         {
           "title": "大哥路边卖苹果摆得整整齐齐",
