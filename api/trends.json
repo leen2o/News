@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T01:42:53.686405+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-11-14T02:25:06.819824+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
+          "url": "https://wallstreetcn.com/livenews/3004325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
           "url": "https://wallstreetcn.com/livenews/3004279",
@@ -78,13 +89,46 @@
           "time_info": "00时21分"
         },
         {
+          "title": "据知情人士透露，欧洲官员们考虑集中美元（pooling dollar），从而降低对美联储的依赖程度。 欧洲官员的担忧大约在4月份有所上升，但由于美联储的保证，随后又有所消退。 集中美元的做法面临实际困难，可能不可行。 欧洲金融稳定官员正在讨论，是否要创建一个替代美联储的资金支持机制，将美国以外国家持有的美元集中起来。 在特朗普政府的领导下，各国央行试图减少对美国的依赖。 白宫发言人表示：“美国总统特朗普已经‘多次重申他致力于维持美元的强势和力量’。”（路透）",
+          "url": "https://wallstreetcn.com/livenews/3004319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
+          "url": "https://wallstreetcn.com/livenews/3004318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "美国加州民主党参议员亚当·希夫(Adam Schiff)正在试图通过一项新法案阻止特朗普从司法部获得款项。此前有报道称，特朗普要求司法部支付约2.3亿美元的赔偿金，以了结司法部对他进行的调查。",
+          "url": "https://flash.jin10.com/detail/20251114020236145800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
           "url": "https://flash.jin10.com/detail/20251114010952767800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         },
@@ -124,8 +168,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 01时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -136,8 +180,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 01时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "苹果腾讯敲定微信游戏抽成协议",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D26%26lcate%3D5001%26pos%3D25%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26band_rank%3D26%26c_type%3D31%26display_time%3D1763055535%26pre_seqid%3D17630555357410113808599&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 02时25分]"
         },
         {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
@@ -150,6 +205,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时17分]"
+        },
+        {
+          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
+          "url": "https://wallstreetcn.com/livenews/3004297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时25分]"
         },
         {
           "title": "特斯拉拟在测试完成后，于未来数月推出苹果(AAPL.O)车载系统。",
@@ -174,35 +241,13 @@
           "time_info": "[00时49分 ~ 01时17分]"
         },
         {
-          "title": "13F报告显示，荷兰养老金巨头Apg Asset Management NV三季度增持Tractor Supply 361万股，增持Ingrersoll-Rand I 140万股，增持英特尔124万股，并增持博通、Arista Networks、英伟达、腾讯音乐ADR等。 减持花旗集团、艾伯维、Palantir、沃尔玛、百时美施贵宝、Brookfield、辉瑞制药、Rollins等，减持苹果44万股。 重仓股包括英伟达（在投资组合占比8.630%），微软（8.379%），苹果（6.374%），博通、亚马逊、摩根大通、礼来制药。",
-          "url": "https://wallstreetcn.com/livenews/3004297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "苹果腾讯敲定微信游戏抽成协议",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E8%85%BE%E8%AE%AF%E6%95%B2%E5%AE%9A%E5%BE%AE%E4%BF%A1%E6%B8%B8%E6%88%8F%E6%8A%BD%E6%88%90%E5%8D%8F%E8%AE%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26realpos%3D26%26lcate%3D5001%26pos%3D25%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259C%25E8%2585%25BE%25E8%25AE%25AF%25E6%2595%25B2%25E5%25AE%259A%25E5%25BE%25AE%25E4%25BF%25A1%25E6%25B8%25B8%25E6%2588%258F%25E6%258A%25BD%25E6%2588%2590%25E5%258D%258F%25E8%25AE%25AE%2523%26dgr%3D0%26band_rank%3D26%26c_type%3D31%26display_time%3D1763055535%26pre_seqid%3D17630555357410113808599&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
           "title": "报道：特斯拉立场发生转变，正努力将苹果CarPlay集成到其电动汽车中",
           "url": "https://wallstreetcn.com/livenews/3004284",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -221,8 +266,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 01时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 02时25分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -232,8 +277,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 01时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 02时25分]"
         }
       ]
     },
@@ -247,11 +292,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 01时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 02时25分]"
         },
         {
           "title": "美元指数DXY跌破99，为10月30日以来首次，日内跌0.47%。",
@@ -260,7 +306,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
         }
@@ -275,11 +321,12 @@
           "url": "https://wallstreetcn.com/livenews/3004312",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时25分]"
         }
       ]
     }
