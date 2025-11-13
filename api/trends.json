@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T16:24:03.964789+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-11-13T16:49:29.883467+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时47分 ~ 16时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时47分 ~ 16时49分]"
         },
         {
           "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时46分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时46分 ~ 16时49分]"
         },
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[01时16分 ~ 16时24分]"
+          "appearance_count": 38,
+          "time_info": "[01时16分 ~ 16时49分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -63,6 +63,18 @@
           "time_info": "[11时47分 ~ 15时39分]"
         },
         {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 16时49分]"
+        },
+        {
           "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
           "url": "https://www.cls.cn/detail/2199299",
           "source": "财联社热门",
@@ -72,20 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时42分 ~ 16时24分]"
-        },
-        {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://news.ifeng.com/c/8oFRSvaH1ne",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时24分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 16时49分]"
         },
         {
           "title": "特朗普送叙政权领导人自产香水",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
+          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 16时49分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -273,17 +284,6 @@
           "time_info": "[11时47分 ~ 12时46分]"
         },
         {
-          "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
-          "url": "https://news.ifeng.com/c/8oFEfoIotGG",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时24分]"
-        },
-        {
           "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
           "url": "https://wallstreetcn.com/livenews/3003838",
           "source": "华尔街见闻-快讯",
@@ -324,6 +324,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时48分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普：美政府停摆损失1.5万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 16时49分]"
         },
         {
           "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
@@ -425,6 +436,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时42分]"
+        },
+        {
+          "title": "白宫称特朗普外部团队已起诉BBC",
+          "url": "https://wallstreetcn.com/livenews/3003989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时49分]"
         },
         {
           "title": "特朗普：政府绝不能再次关闭。",
@@ -589,28 +612,6 @@
           "time_info": "[03时38分 ~ 07时16分]"
         },
         {
-          "title": "特朗普：美政府停摆损失1.5万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8D%9F%E5%A4%B11.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "白宫称特朗普外部团队已起诉BBC",
-          "url": "https://wallstreetcn.com/livenews/3003989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
           "title": "特朗普拟定数小时后正式结束政府停摆",
           "url": "https://flash.jin10.com/detail/20251113083457271800",
           "source": "金十数据",
@@ -735,8 +736,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 16时49分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -888,11 +889,12 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 42,
+          "time_info": "[00时22分 ~ 16时49分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -915,8 +917,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 16时49分]"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
@@ -944,6 +946,18 @@
           "time_info": "[11时47分 ~ 12时46分]"
         },
         {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 16时49分]"
+        },
+        {
           "title": "大哥路边卖苹果摆得整整齐齐",
           "url": "https://www.toutiao.com/trending/7571416741918752810/",
           "source": "今日头条",
@@ -954,17 +968,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 03时15分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
@@ -979,6 +982,18 @@
           "time_info": "[15时17分 ~ 15时39分]"
         },
         {
+          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
+          "url": "https://wallstreetcn.com/livenews/3003985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时49分]"
+        },
+        {
           "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
           "url": "https://wallstreetcn.com/livenews/3003545",
           "source": "华尔街见闻-快讯",
@@ -989,17 +1004,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时41分]"
-        },
-        {
-          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
-          "url": "https://wallstreetcn.com/livenews/3003985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)推出数字身份证，这是一种在苹果钱包中创建和出示身份证的新方式。",
