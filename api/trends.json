@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:35:45.313553+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2025-11-13T21:31:24.274284+08:00",
+  "total_titles_processed": 2165,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[01时16分 ~ 20时35分]"
+          "appearance_count": 47,
+          "time_info": "[01时16分 ~ 21时31分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -104,6 +104,18 @@
           "time_info": "[16时23分 ~ 20时35分]"
         },
         {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
           "url": "https://news.ifeng.com/c/8oFEfoIotGG",
           "source": "凤凰网",
@@ -127,18 +139,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时22分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 20时35分]"
         },
         {
           "title": "瑞士商业代表团送特朗普金条和劳力士 或为换取低关税",
@@ -776,6 +776,206 @@
       ]
     },
     {
+      "keyword_group": "苹果",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 44,
+          "time_info": "[00时22分 ~ 17时20分]"
+        },
+        {
+          "title": "淄博卖苹果大哥是J人吧",
+          "url": "https://www.douyin.com/hot/2304052",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时23分 ~ 21时31分]"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 18时19分]"
+        },
+        {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 07时39分]"
+        },
+        {
+          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
+          "url": "https://wallstreetcn.com/livenews/3004217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
+          "url": "https://flash.jin10.com/detail/20251113000411182800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251113113051393800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 03时15分]"
+        },
+        {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时31分]"
+        },
+        {
+          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
+          "url": "https://wallstreetcn.com/livenews/3004146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 20时35分]"
+        },
+        {
+          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3003938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 15时39分]"
+        },
+        {
+          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
+          "url": "https://wallstreetcn.com/livenews/3003985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时49分]"
+        },
+        {
+          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
+          "url": "https://wallstreetcn.com/livenews/3003545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 01时41分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)推出数字身份证，这是一种在苹果钱包中创建和出示身份证的新方式。",
+          "url": "https://flash.jin10.com/detail/20251113003221987800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
+          "url": "https://flash.jin10.com/detail/20251113190559735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "苹果和腾讯同意对购买微信小游戏收取15%费用？腾讯回应",
+          "url": "https://wallstreetcn.com/livenews/3004198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 16,
       "titles": [
@@ -800,8 +1000,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 20时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 21时31分]"
+        },
+        {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 21时31分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -816,19 +1029,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时17分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 20时35分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -932,6 +1132,18 @@
           "time_info": "[04时19分 ~ 04时42分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时31分]"
+        },
+        {
           "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。此前消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
           "url": "https://wallstreetcn.com/livenews/3003905",
           "source": "华尔街见闻-快讯",
@@ -963,194 +1175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时22分 ~ 17时20分]"
-        },
-        {
-          "title": "淄博卖苹果大哥是J人吧",
-          "url": "https://www.douyin.com/hot/2304052",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时23分 ~ 20时35分]"
-        },
-        {
-          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
-          "url": "https://wallstreetcn.com/articles/3759220",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时25分 ~ 18时19分]"
-        },
-        {
-          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
-          "url": "https://www.zhihu.com/question/1971675577204306494",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 07时39分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
-          "url": "https://flash.jin10.com/detail/20251113000411182800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251113113051393800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时46分]"
-        },
-        {
-          "title": "大哥路边卖苹果摆得整整齐齐",
-          "url": "https://www.toutiao.com/trending/7571416741918752810/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 03时15分]"
-        },
-        {
-          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
-          "url": "https://wallstreetcn.com/livenews/3004146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时35分]"
-        },
-        {
-          "title": "商品期货收盘，沪银主力合约涨超5%，多晶硅、苹果涨超3%，苯乙烯、纯苯、沪锡涨超2%。LU燃油跌超4%，燃料油、原油跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3003938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 15时39分]"
-        },
-        {
-          "title": "苹果内部人士回应“未经授权电商平台合作禁止通告”",
-          "url": "https://wallstreetcn.com/livenews/3003985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时49分]"
-        },
-        {
-          "title": "苹果公司推出数字ID，用于在Apple Wallet（苹果钱包）中展示ID信息。",
-          "url": "https://wallstreetcn.com/livenews/3003545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时41分]"
-        },
-        {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)推出数字身份证，这是一种在苹果钱包中创建和出示身份证的新方式。",
-          "url": "https://flash.jin10.com/detail/20251113003221987800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
-          "url": "https://flash.jin10.com/detail/20251113190559735800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
         }
       ]
     },
@@ -1482,6 +1506,35 @@
       ]
     },
     {
+      "keyword_group": "Anthropic Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3003511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时51分]"
+        },
+        {
+          "title": "LMArena排行榜：Claude、GPT-5、智谱GLM-4.6排名并列全球第一",
+          "url": "https://wallstreetcn.com/livenews/3004194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "su7",
       "match_count": 1,
       "titles": [
@@ -1533,24 +1586,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时17分 ~ 14时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic承诺斥资500亿美元，在美国建设AI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3003511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时51分]"
         }
       ]
     }
