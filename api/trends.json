@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T10:57:53.891000+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-11-13T11:47:48.335984+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 32,
+      "match_count": 47,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -21,8 +21,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时16分 ~ 10时57分]"
+          "appearance_count": 24,
+          "time_info": "[01时16分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
+          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -46,7 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -74,6 +98,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 04时42分]"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普：共和党人从未希望政府停摆，并曾15次投票支持继续拨款。然而，对方政党的极端分子却执意制造美国历史上持续时间最长的政府停摆，他们这样做纯粹是出于政治原因。",
+          "url": "https://flash.jin10.com/detail/20251113112722111800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "洲际交易所（ICE）CEO参与组织美国总统特朗普的晚宴。 纽交所总裁料将出席。（CBS）",
@@ -130,18 +176,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 01时41分]"
-        },
-        {
-          "title": "特朗普罕见为中国留学生辩护",
-          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
         },
         {
           "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
@@ -298,6 +332,72 @@
           "time_info": "[03时38分 ~ 07时16分]"
         },
         {
+          "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
+          "url": "https://flash.jin10.com/detail/20251113112355110800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
+          "url": "https://wallstreetcn.com/livenews/3003838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普：今天，我们发出一个明确的信息，那就是我们绝不会屈服于“敲诈勒索”。",
+          "url": "https://flash.jin10.com/detail/20251113112217348800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁取消参议院冗长辩论规则。",
+          "url": "https://wallstreetcn.com/livenews/3003837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普：政府将恢复正常运作。",
+          "url": "https://flash.jin10.com/detail/20251113112133905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案，持续43天的美国政府史上最长“停摆”结束。",
+          "url": "https://wallstreetcn.com/livenews/3003836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "特朗普拟定数小时后正式结束政府停摆",
           "url": "https://flash.jin10.com/detail/20251113083457271800",
           "source": "金十数据",
@@ -307,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普：政府绝不能再次关闭。",
+          "url": "https://flash.jin10.com/detail/20251113112100845800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
@@ -320,6 +431,28 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普：我要感谢那8位做了正确事情的参议院民主党人。",
+          "url": "https://flash.jin10.com/detail/20251113112009111800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普：呼吁终止阻挠议事规则，以免此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20251113111854322800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美国总统特朗普：我很高兴宣布提名艾伦·彼得森（Aaron Peterson）担任美国阿拉斯加地区联邦地区法院的法官。",
           "url": "https://flash.jin10.com/detail/20251113015430870800",
           "source": "金十数据",
@@ -329,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "特朗普：真正计算出损失的总体影响需要数周甚至数月的时间。",
+          "url": "https://flash.jin10.com/detail/20251113111820386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特谈住房问题：不知道美国总统特朗普是否已决定推出50年期抵押贷款。",
@@ -342,6 +486,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普：民主党现在看起来很糟糕。",
+          "url": "https://flash.jin10.com/detail/20251113111707644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美国白宫更新了特朗普的日程安排：特朗普将于美国东部时间今天晚上9点45分（北京时间今日上午10:45）在椭圆形办公室签署临时拨款法案。",
           "url": "https://wallstreetcn.com/livenews/3003722",
           "source": "华尔街见闻-快讯",
@@ -351,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "特朗普：政府停摆造成了1.5万亿美元损失。",
+          "url": "https://flash.jin10.com/detail/20251113111539854800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "G7外长联合声明：重申强烈支持美国总统特朗普结束加沙冲突的计划，强调归还已故人质遗骸的紧迫性。",
@@ -381,7 +547,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -400,7 +566,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -413,8 +579,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时22分 ~ 10时57分]"
+          "appearance_count": 28,
+          "time_info": "[00时22分 ~ 11时47分]"
         },
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -427,6 +593,17 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时22分 ~ 07时39分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨超5%，多晶硅、碳酸锂涨超3%，纯苯、苯乙烯（EB）、苹果、沪锡涨超2%；跌幅方面，低硫燃料油（LU）、燃料油跌超4%，SC原油跌超3%，红枣跌近2%，集运欧线、鸡蛋、短纤跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251113113051393800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
@@ -479,19 +656,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "OpenAI发布GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 10时57分]"
-        },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://flash.jin10.com/detail/20251113060235382800",
@@ -505,6 +671,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时39分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 11时47分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -542,6 +720,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时42分]"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -605,6 +794,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时39分]"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时39分]"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
+          "url": "https://flash.jin10.com/detail/20251113110141972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -661,11 +891,12 @@
             19,
             20,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时22分 ~ 10时57分]"
+          "appearance_count": 28,
+          "time_info": "[00时22分 ~ 11时47分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -709,36 +940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时39分]"
-        },
-        {
-          "title": "渣打银行：2026年第一季度金价存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251113063512644800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时39分]"
         }
       ]
     },
