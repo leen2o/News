@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:15:44.780203+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2025-11-13T19:38:45.981773+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[01时16分 ~ 19时15分]"
+          "appearance_count": 45,
+          "time_info": "[01时16分 ~ 19时38分]"
         },
         {
           "title": "特朗普致信以总统求赦免内塔尼亚胡",
@@ -89,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时42分 ~ 19时15分]"
+          "appearance_count": 18,
+          "time_info": "[13时42分 ~ 19时38分]"
         },
         {
           "title": "特朗普：美政府停摆损失1.5万亿美元",
@@ -100,8 +100,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 19时38分]"
         },
         {
           "title": "特朗普致信以总统呼吁赦免以总理，以媒：以总统有权赦免",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 19时38分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -259,17 +270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时17分 ~ 14时52分]"
-        },
-        {
-          "title": "特朗普带记者逛白宫“总统星光大道”走廊：拜登最差，奥巴马第五差",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31951055",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时15分]"
         },
         {
           "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
@@ -685,6 +685,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "民调显示，特朗普支持率维持在40%，反对率攀升至58%。",
+          "url": "https://flash.jin10.com/detail/20251113190308610800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特谈住房问题：不知道美国总统特朗普是否已决定推出50年期抵押贷款。",
           "url": "https://flash.jin10.com/detail/20251113015411099800",
           "source": "金十数据",
@@ -795,6 +806,17 @@
           "time_info": "[09时15分 ~ 13时17分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时38分]"
+        },
+        {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
@@ -809,17 +831,6 @@
           "time_info": "[11时47分 ~ 13时43分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3003903",
           "source": "华尔街见闻-快讯",
@@ -829,6 +840,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 19时38分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -880,19 +904,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 15时17分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时15分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -956,7 +967,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -984,8 +995,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时23分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[16时23分 ~ 19时38分]"
         },
         {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
@@ -1085,6 +1096,17 @@
           "time_info": "[01时17分 ~ 01时41分]"
         },
         {
+          "title": "报道：苹果和腾讯敲定微信游戏15%的抽成协议",
+          "url": "https://wallstreetcn.com/livenews/3004146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)推出数字身份证，这是一种在苹果钱包中创建和出示身份证的新方式。",
           "url": "https://flash.jin10.com/detail/20251113003221987800",
           "source": "金十数据",
@@ -1094,6 +1116,115 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "腾讯与苹果达成微信游戏收入分成协议 苹果抽成15%",
+          "url": "https://flash.jin10.com/detail/20251113190559735800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
+          "url": "https://wallstreetcn.com/livenews/3004151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
+          "url": "https://flash.jin10.com/detail/20251113184640966800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时38分]"
+        },
+        {
+          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
+          "url": "https://flash.jin10.com/detail/20251113184617045800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时38分]"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时38分]"
+        },
+        {
+          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时24分]"
+        },
+        {
+          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3003554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
+          "url": "https://flash.jin10.com/detail/20251113191351975800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "谷歌面临欧盟反垄断调查 被怀疑不当降级新闻搜索结果",
+          "url": "https://flash.jin10.com/detail/20251113185348272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -1175,70 +1306,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
-          "url": "https://flash.jin10.com/detail/20251113184640966800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
-          "url": "https://flash.jin10.com/detail/20251113184617045800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
-          "url": "https://flash.jin10.com/detail/20251113184521825800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时24分]"
-        },
-        {
-          "title": "欧盟准备对谷歌展开新的调查。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3003554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -1292,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "美债波动率指数跳升至一个月高点 政府停摆结束并未终止不确定性",
+          "url": "https://flash.jin10.com/detail/20251113185757938800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
