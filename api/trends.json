@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:19:38.571632+08:00",
-  "total_titles_processed": 1833,
+  "generated_at": "2025-11-14T18:44:38.315028+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时44分 ~ 18时19分]"
+          "appearance_count": 19,
+          "time_info": "[11时44分 ~ 18时44分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 18时44分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -54,8 +54,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 18时44分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114180335424800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时44分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -94,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114180335424800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
@@ -591,8 +591,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 43,
-          "time_info": "[00时20分 ~ 18时19分]"
+          "appearance_count": 44,
+          "time_info": "[00时20分 ~ 18时44分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -610,6 +610,20 @@
           "time_info": "[00时20分 ~ 09时14分]"
         },
         {
+          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
+          "url": "https://www.cls.cn/detail/2200797",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 18时44分]"
+        },
+        {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
           "source": "澎湃新闻",
@@ -621,22 +635,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时14分 ~ 18时19分]"
-        },
-        {
-          "title": "苹果首次调整内地“苹果税”抽成 微信随即跟进 减免15%抽成为App生态带来哪些变化？",
-          "url": "https://www.cls.cn/detail/2200797",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[09时14分 ~ 18时44分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -891,11 +891,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 18时44分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
