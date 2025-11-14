@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T00:48:58.205403+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2025-11-15T01:15:18.174427+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -14,9 +14,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时15分]"
+        },
+        {
+          "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
+          "url": "https://wallstreetcn.com/livenews/3004972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
+          "url": "https://wallstreetcn.com/livenews/3004971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -26,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
@@ -35,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
@@ -50,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国总统特朗普：在特朗普政府的领导下，各项成本正在大幅下降，这在很大程度上得益于汽油和能源价格的下跌。",
@@ -62,8 +85,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -71,11 +94,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国总统特朗普寻求调查克林顿、萨默斯和爱泼斯坦的关系。",
@@ -86,8 +110,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "美国总统特朗普：要求司法部和美国联邦调查局（FBI）也调查摩根大通与爱泼斯坦的关系。",
@@ -98,8 +122,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
@@ -126,8 +150,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "骑手送苹果手机时人货全部失踪",
@@ -138,8 +162,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
@@ -155,8 +179,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时48分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
