@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T01:15:18.174427+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-11-15T01:40:49.761845+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -19,26 +19,38 @@
           "time_info": "[00时48分 ~ 01时15分]"
         },
         {
+          "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
+          "url": "https://wallstreetcn.com/livenews/3004988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：再次呼吁特朗普政府发布那些至关重要的经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3004985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
           "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
           "url": "https://wallstreetcn.com/livenews/3004972",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
-          "url": "https://wallstreetcn.com/livenews/3004971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时40分]"
         },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -48,8 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时40分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
+          "url": "https://wallstreetcn.com/livenews/3004971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时40分]"
         },
         {
           "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
@@ -126,6 +150,28 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "美国白宫：瑞士和列支敦士登打算与美国合作，以确保供应链安全。（外媒更正，非特朗普说话）",
+          "url": "https://flash.jin10.com/detail/20251115012824907800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "消息人士称，特朗普政府中负责能源和核事务的高级官员计划在未来几天与白宫和国家安全委员会会面，以劝阻美国总统特朗普恢复美国的核武器试验。",
+          "url": "https://flash.jin10.com/detail/20251115011647861800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3004925",
           "source": "华尔街见闻-快讯",
@@ -150,8 +196,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时40分]"
         },
         {
           "title": "骑手送苹果手机时人货全部失踪",
@@ -159,11 +205,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时40分]"
         }
       ]
     },
@@ -179,8 +226,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时40分]"
         }
       ]
     },
