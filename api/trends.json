@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T07:38:32.860574+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-11-14T09:14:33.102435+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -41,7 +41,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -65,7 +65,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -175,6 +175,18 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31955857",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 09时14分]"
+        },
+        {
           "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
           "url": "https://flash.jin10.com/detail/20251114004309713800",
           "source": "金十数据",
@@ -267,17 +279,6 @@
           "time_info": "[05时16分 ~ 05时36分]"
         },
         {
-          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31955857",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时38分]"
-        },
-        {
           "title": "特朗普计划出席明年达沃斯论坛 助推美瑞关系改善",
           "url": "https://flash.jin10.com/detail/20251114044532083800",
           "source": "金十数据",
@@ -328,9 +329,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国加州民主党参议员亚当·希夫(Adam Schiff)正在试图通过一项新法案阻止特朗普从司法部获得款项。此前有报道称，特朗普要求司法部支付约2.3亿美元的赔偿金，以了结司法部对他进行的调查。",
@@ -366,13 +378,35 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普政府考虑重新引入“食物金字塔”膳食指南",
+          "url": "https://flash.jin10.com/detail/20251114081415527800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "特朗普拟为中期选举造势 加码国内行程",
+          "url": "https://flash.jin10.com/detail/20251114081303300800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "特朗普送叙政权领导人自产香水",
           "url": "https://www.toutiao.com/trending/7572030694445272627/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -413,7 +447,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -425,8 +459,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 07时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 09时14分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -436,11 +470,12 @@
             7,
             5,
             6,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 07时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 09时14分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
@@ -578,6 +613,28 @@
           "time_info": "[00时49分 ~ 01时17分]"
         },
         {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "王自如不相信超薄手机安卓比苹果好",
+          "url": "https://www.toutiao.com/trending/7572111992778145855/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "报道：特斯拉立场发生转变，正努力将苹果CarPlay集成到其电动汽车中",
           "url": "https://wallstreetcn.com/livenews/3004284",
           "source": "华尔街见闻-快讯",
@@ -675,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 07时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 09时14分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -689,8 +746,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 07时38分]"
+          "appearance_count": 24,
+          "time_info": "[00时20分 ~ 09时14分]"
         },
         {
           "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
