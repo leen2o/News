@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T12:44:41.732465+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-11-14T13:17:08.042423+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
       "match_count": 42,
       "titles": [
+        {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时17分]"
+        },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
           "url": "https://wallstreetcn.com/livenews/3004325",
@@ -33,6 +46,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 05时16分]"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时17分]"
         },
         {
           "title": "特朗普政府取消阿拉斯加石油储备开采禁令",
@@ -68,18 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时44分]"
         },
         {
           "title": "特朗普顾问哈塞特：估计美国政府停摆造成6万人失业",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时16分 ~ 10时56分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时44分]"
         },
         {
           "title": "美国高级官员：瑞士有计划减少对美国的贸易逆差。如果特朗普接受这项协议，我们将看到瑞士进口商品关税降低。",
@@ -517,8 +518,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 30,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -536,6 +537,31 @@
           "time_info": "[00时20分 ~ 09时14分]"
         },
         {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 13时17分]"
+        },
+        {
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 13时17分]"
+        },
+        {
           "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
           "url": "https://wallstreetcn.com/livenews/3004409",
           "source": "华尔街见闻-快讯",
@@ -548,18 +574,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 07时38分]"
-        },
-        {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 12时44分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达 减持苹果",
@@ -586,18 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时43分]"
-        },
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时44分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
@@ -754,8 +756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 30,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -769,8 +771,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 30,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
