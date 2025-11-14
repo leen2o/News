@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T13:42:23.782478+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2025-11-14T14:25:36.493708+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时25分]"
         },
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 13时42分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 14时25分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -393,6 +393,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
+          "url": "https://flash.jin10.com/detail/20251114133112275800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "美国加州民主党参议员亚当·希夫(Adam Schiff)正在试图通过一项新法案阻止特朗普从司法部获得款项。此前有报道称，特朗普要求司法部支付约2.3亿美元的赔偿金，以了结司法部对他进行的调查。",
           "url": "https://flash.jin10.com/detail/20251114020236145800",
           "source": "金十数据",
@@ -518,8 +529,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -546,8 +557,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 13时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 14时25分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -756,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -768,11 +779,12 @@
             17,
             16,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时20分 ~ 13时42分]"
+          "appearance_count": 32,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
@@ -883,7 +895,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
@@ -911,6 +923,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
+          "url": "https://flash.jin10.com/detail/20251114140157691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
