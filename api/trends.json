@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T06:15:27.815246+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-11-15T06:41:20.006300+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 06时41分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -58,6 +58,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
+          "url": "https://flash.jin10.com/detail/20251115034601291800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时19分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普拟削减部分食品杂货的关税",
+          "url": "https://flash.jin10.com/detail/20251115032227823800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时19分 ~ 06时41分]"
         },
         {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
@@ -124,6 +148,20 @@
           "time_info": "[01时15分 ~ 02时50分]"
         },
         {
+          "title": "特朗普政府下调美国大豆出口前景预测",
+          "url": "https://wallstreetcn.com/livenews/3005036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 06时41分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3004990",
           "source": "华尔街见闻-快讯",
@@ -137,43 +175,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时23分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普政府下调美国大豆出口前景预测",
-          "url": "https://wallstreetcn.com/livenews/3005036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
@@ -358,7 +359,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -370,19 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 06时15分]"
-        },
-        {
-          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
-          "url": "https://wallstreetcn.com/livenews/3005054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 06时41分]"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
@@ -399,6 +389,20 @@
           "time_info": "[03时37分 ~ 05时15分]"
         },
         {
+          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
+          "url": "https://wallstreetcn.com/livenews/3005032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 06时41分]"
+        },
+        {
           "title": "巴菲特旗下伯克希尔三季度建仓谷歌母公司Alphabet，在仓位中位列第十大。",
           "url": "https://wallstreetcn.com/livenews/3005050",
           "source": "华尔街见闻-快讯",
@@ -411,17 +415,16 @@
           "time_info": "[05时38分 ~ 06时15分]"
         },
         {
-          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005032",
+          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
+          "url": "https://wallstreetcn.com/livenews/3005054",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            16,
-            20
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 06时15分]"
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时41分]"
         },
         {
           "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
@@ -429,17 +432,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 06时41分]"
+        },
+        {
+          "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
+          "url": "https://wallstreetcn.com/livenews/3005059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
     {
       "keyword_group": "苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "骑手送苹果手机时人货全部失踪",
@@ -455,8 +470,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 06时41分]"
         },
         {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
@@ -471,6 +486,17 @@
           "time_info": "[00时21分 ~ 06时15分]"
         },
         {
+          "title": "13F报告显示：Citadel Advisors LLC.三季度建仓壳牌与埃克森美孚等。 清仓iShares半导体ETF等。 增持Meta、微软、Visa、苹果、Norfolk、Southern。 减持德州仪器、亿滋国际、麦当劳、摩根大通等。 重仓微软、英伟达、Meta、苹果、Visa。",
+          "url": "https://wallstreetcn.com/livenews/3005065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "美国国际贸易委员会决定启动新程序，以确定更新版苹果手表的进口是否应被禁止",
           "url": "https://wallstreetcn.com/livenews/3005003",
           "source": "华尔街见闻-快讯",
@@ -483,6 +509,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时14分 ~ 04时41分]"
+        },
+        {
+          "title": "伯克希尔披露43亿美元新购Alphabet股份，并出售更多苹果公司股份",
+          "url": "https://wallstreetcn.com/livenews/3005050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "市场消息：苹果公司与美国职业足球大联盟的流媒体合作将于2029年到期。",
@@ -509,8 +546,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 06时41分]"
         }
       ]
     },
@@ -543,11 +580,12 @@
             1,
             7,
             18,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 06时41分]"
         }
       ]
     }
