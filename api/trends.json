@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T13:17:08.042423+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2025-11-14T13:42:23.782478+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 13时42分]"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 13时42分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -46,17 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 05时16分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时17分]"
         },
         {
           "title": "特朗普政府取消阿拉斯加石油储备开采禁令",
@@ -518,8 +518,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 31,
+          "time_info": "[00时20分 ~ 13时42分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -546,8 +546,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 13时42分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -558,8 +558,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 13时42分]"
         },
         {
           "title": "贝莱德三季度增持近1950万股英伟达，减持苹果",
@@ -756,8 +756,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 31,
+          "time_info": "[00时20分 ~ 13时42分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -771,8 +771,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时20分 ~ 13时17分]"
+          "appearance_count": 31,
+          "time_info": "[00时20分 ~ 13时42分]"
         },
         {
           "title": "市场消息：OpenAI前首席技术官Mira Murati的公司Thinking Machines Lab在融资谈判中估值达500亿美元。",
