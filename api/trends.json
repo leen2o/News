@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:47:50.301863+08:00",
-  "total_titles_processed": 2223,
+  "generated_at": "2025-11-14T22:17:15.748013+08:00",
+  "total_titles_processed": 2280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -40,11 +40,12 @@
           "url": "https://news.ifeng.com/c/8oGsK5I0blR",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时44分 ~ 21时47分]"
+          "appearance_count": 27,
+          "time_info": "[11时44分 ~ 22时17分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "瑞士政府：感谢特朗普的建设性接触。",
+          "url": "https://flash.jin10.com/detail/20251114220851366800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
@@ -638,8 +650,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时14分 ~ 21时47分]"
+          "appearance_count": 29,
+          "time_info": "[09时14分 ~ 22时17分]"
         },
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -861,7 +873,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌向欧盟提交整改方案，回应反垄断罚款但拒绝拆分相关业务",
@@ -873,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
+          "url": "https://wallstreetcn.com/livenews/3004912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
@@ -915,6 +938,19 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时17分]"
+        },
+        {
           "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
           "url": "https://flash.jin10.com/detail/20251114140157691800",
           "source": "金十数据",
@@ -927,27 +963,16 @@
           "time_info": "[14时25分 ~ 14时52分]"
         },
         {
-          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3004877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时47分]"
-        },
-        {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩",
           "url": "https://wallstreetcn.com/livenews/3004901",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时17分]"
         }
       ]
     },
@@ -1076,6 +1101,19 @@
           "time_info": "[06时17分 ~ 07时38分]"
         },
         {
+          "title": "美元指数跌破99，日内跌0.19%。 美元兑日元下跌0.5%至153.78。",
+          "url": "https://wallstreetcn.com/livenews/3004887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时17分]"
+        },
+        {
           "title": "周四（11月13日）纽约尾盘，ICE美元指数下跌0.33%，报99.171点，日内交投区间为99.591-98.991点，北京时间15:00以来震荡下挫。 彭博美元指数跌0.19%，报1215.96点，日内交投区间为1219.36-1213.92点。",
           "url": "https://wallstreetcn.com/livenews/3004363",
           "source": "华尔街见闻-快讯",
@@ -1087,18 +1125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 05时36分]"
-        },
-        {
-          "title": "美元指数跌破99，日内跌0.19%。 美元兑日元下跌0.5%至153.78。",
-          "url": "https://wallstreetcn.com/livenews/3004887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时47分]"
         },
         {
           "title": "美元指数DXY跌破99，为10月30日以来首次，日内跌0.47%。",
@@ -1137,7 +1163,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
@@ -1149,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3004910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
@@ -1175,6 +1212,28 @@
           "time_info": "15时39分"
         },
         {
+          "title": "在伊朗伊斯兰共和国通讯社（IRNA）的报道中，其未指明被伊朗海军查扣的船只具体身份。",
+          "url": "https://flash.jin10.com/detail/20251114215003386800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗海军查获一艘走私燃料的船只。",
+          "url": "https://flash.jin10.com/detail/20251114214900466800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "报道：伊朗武装部队在阿曼湾扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251114193627539800",
           "source": "金十数据",
@@ -1189,7 +1248,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年11月14日（周五）上海金早盘价为955.38元/克，较国际金价(959.47元/克)，低4.09元/克",
@@ -1224,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时39分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D27%26stream_entry_id%3D31%26band_rank%3D27%26pos%3D27%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26display_time%3D1763129089%26pre_seqid%3D17631290890260330555447&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         }
       ]
     },
@@ -1262,8 +1332,19 @@
     },
     {
       "keyword_group": "美债 -杰富瑞",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达盘前跌超3%，币圈连崩，黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
         {
           "title": "中长期美债收益率涨超4个基点，投资者对美联储12月降息前景生疑",
           "url": "https://wallstreetcn.com/livenews/3004371",
