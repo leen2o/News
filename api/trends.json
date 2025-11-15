@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T22:14:35.785322+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2025-11-15T22:38:46.289864+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称将向BBC索赔10亿到50亿美元",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 22时14分]"
+          "appearance_count": 15,
+          "time_info": "[16时19分 ~ 22时38分]"
         },
         {
           "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
@@ -142,6 +142,25 @@
           "time_info": "[15时36分 ~ 19时12分]"
         },
         {
+          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
+          "url": "https://flash.jin10.com/detail/20251115180815888800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            8,
+            17,
+            23,
+            25,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 22时38分]"
+        },
+        {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
           "url": "https://flash.jin10.com/detail/20251115094016472800",
           "source": "金十数据",
@@ -158,6 +177,25 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时50分 ~ 15时14分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
+          "url": "https://flash.jin10.com/detail/20251115180113833800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            10,
+            19,
+            25,
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 22时38分]"
         },
         {
           "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
@@ -190,40 +228,19 @@
           "time_info": "[04时19分 ~ 09时12分]"
         },
         {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
+            2,
+            4,
             8,
-            17,
-            23,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 22时14分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
             9,
-            10,
-            19,
-            25,
-            27,
-            28,
-            29
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "特朗普拟削减部分食品杂货的关税",
@@ -238,18 +255,21 @@
           "time_info": "[04时19分 ~ 07时37分]"
         },
         {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4,
-            8,
-            9
+            1,
+            10,
+            16,
+            18,
+            19,
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[19时12分 ~ 22时38分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -279,20 +299,36 @@
           "time_info": "[10时50分 ~ 14时23分]"
         },
         {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
           "ranks": [
-            1,
-            10,
+            6,
+            12,
+            14,
+            15,
             16,
-            18,
-            19,
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时12分 ~ 22时14分]"
+          "time_info": "[19时37分 ~ 22时38分]"
+        },
+        {
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            16,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "特朗普抵制G20峰会 南非总统硬刚",
@@ -415,36 +451,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 02时50分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -646,6 +652,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
+          "url": "https://wallstreetcn.com/articles/3759457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
           "url": "https://wallstreetcn.com/livenews/3005094",
           "source": "华尔街见闻-快讯",
@@ -727,8 +744,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[11时38分 ~ 22时14分]"
+          "appearance_count": 28,
+          "time_info": "[11时38分 ~ 22时38分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -742,8 +759,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时49分 ~ 22时14分]"
+          "appearance_count": 30,
+          "time_info": "[10时49分 ~ 22时38分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -755,11 +772,12 @@
             8,
             7,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[14时22分 ~ 22时14分]"
+          "appearance_count": 20,
+          "time_info": "[14时22分 ~ 22时38分]"
         },
         {
           "title": "苹果公司正在加紧制定接班人计划，为蒂姆·库克（Tim Cook）最快于明年卸任首席执行官一职做准备。（英国金融时报）",
@@ -1221,11 +1239,12 @@
             1,
             3,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1236,11 +1255,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
@@ -1251,11 +1271,12 @@
             13,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
@@ -1266,11 +1287,12 @@
             15,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[19时37分 ~ 22时38分]"
         },
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
@@ -1280,8 +1302,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时38分]"
         }
       ]
     },
@@ -1347,11 +1369,12 @@
             13,
             15,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时15分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[17时15分 ~ 22时38分]"
         },
         {
           "title": "OPPO官方发布声明：OPPO Reno 15系列发布会为定向邀约制，不存在任何售票渠道。请大家理性甄别，避免上当受骗。",
@@ -1367,11 +1390,12 @@
             20,
             22,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时19分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[16时19分 ~ 22时38分]"
         }
       ]
     },
