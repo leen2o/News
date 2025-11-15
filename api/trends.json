@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T13:41:00.184391+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-11-15T14:23:18.353701+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时21分 ~ 13时41分]"
+          "appearance_count": 35,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -44,6 +44,22 @@
           "time_info": "[04时19分 ~ 07时37分]"
         },
         {
+          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
+          "url": "https://flash.jin10.com/detail/20251115094016472800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            10,
+            12,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时23分]"
+        },
+        {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
           "url": "https://flash.jin10.com/detail/20251115004419214800",
           "source": "金十数据",
@@ -55,32 +71,6 @@
           "time_info": "[00时48分 ~ 01时15分]"
         },
         {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            10,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时41分]"
-        },
-        {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
           "url": "https://flash.jin10.com/detail/20251115090032024800",
           "source": "金十数据",
@@ -89,11 +79,56 @@
             9,
             13,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            21,
+            23,
+            25,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普称将向BBC索赔10亿到50亿美元",
+          "url": "https://flash.jin10.com/detail/20251115132619706800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时23分]"
+        },
+        {
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
@@ -124,22 +159,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            21,
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时41分]"
         },
         {
           "title": "特朗普政府下调美国大豆出口前景预测",
@@ -179,18 +198,15 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
+          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
+          "url": "https://wallstreetcn.com/livenews/3005151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6,
-            8,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
@@ -479,7 +495,7 @@
     },
     {
       "keyword_group": "苹果",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -489,8 +505,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时38分 ~ 13时41分]"
+          "appearance_count": 10,
+          "time_info": "[11时38分 ~ 14时23分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -502,8 +518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 14时23分]"
         },
         {
           "title": "苹果“袜子手机袋”多款开售即告罄",
@@ -517,8 +533,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 14时23分]"
         },
         {
           "title": "骑手送苹果手机时人货全部失踪",
@@ -546,11 +562,12 @@
             16,
             17,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 14时23分]"
         },
         {
           "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
@@ -571,11 +588,12 @@
           "ranks": [
             1,
             3,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "苹果公司正在加紧制定接班人计划，为蒂姆·库克（Tim Cook）最快于明年卸任首席执行官一职做准备。（英国金融时报）",
@@ -585,11 +603,12 @@
             1,
             3,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)正为蒂姆·库克最快明年卸任首席执行官做准备，该公司硬件工程高级副总裁约翰·特纳斯（John Ternus）被广泛认为是库克最有可能的继任者。",
@@ -598,11 +617,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "据英国金融时报：苹果(AAPL.O)加紧为首席执行官蒂姆·库克的接班人做规划。",
@@ -611,11 +631,12 @@
           "ranks": [
             3,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "13F报告显示：Citadel Advisors LLC.三季度建仓壳牌与埃克森美孚等。 清仓iShares半导体ETF等。 增持Meta、微软、Visa、苹果、Norfolk、Southern。 减持德州仪器、亿滋国际、麦当劳、摩根大通等。 重仓微软、英伟达、Meta、苹果、Visa。",
@@ -642,6 +663,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时12分 ~ 12时19分]"
+        },
+        {
+          "title": "230美元iPhone Pocket上架即售罄 苹果最新跨界配件引热议",
+          "url": "https://www.cls.cn/detail/2201427",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时49分 ~ 14时23分]"
         },
         {
           "title": "美国国际贸易委员会决定启动新程序，以确定更新版苹果手表的进口是否应被禁止",
@@ -683,17 +715,6 @@
           "time_info": "[07时37分 ~ 09时12分]"
         },
         {
-          "title": "230美元iPhone Pocket上架即售罄 苹果最新跨界配件引热议",
-          "url": "https://www.cls.cn/detail/2201427",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 13时41分]"
-        },
-        {
           "title": "伯克希尔披露43亿美元新购Alphabet股份，并出售更多苹果公司股份",
           "url": "https://wallstreetcn.com/livenews/3005050",
           "source": "华尔街见闻-快讯",
@@ -728,6 +749,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 10时50分]"
+        },
+        {
+          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
+          "url": "https://www.zhihu.com/question/1972480723312181332",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
+          "title": "淄博苹果哥火了 各地商贩纷纷模仿",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E8%8B%B9%E6%9E%9C%E5%93%A5%E7%81%AB%E4%BA%86+%E5%90%84%E5%9C%B0%E5%95%86%E8%B4%A9%E7%BA%B7%E7%BA%B7%E6%A8%A1%E4%BB%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "彭博汇总的最新13F持仓数据显示，超过140家基金减持苹果，但也有114家增持。 CoreWeave被减持的股票市值58.3亿美元。",
@@ -769,8 +812,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时21分 ~ 13时41分]"
+          "appearance_count": 35,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -781,11 +824,12 @@
             8,
             12,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 14时23分]"
         },
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
@@ -885,11 +929,12 @@
             9,
             11,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 14时23分]"
         },
         {
           "title": "金价",
@@ -963,6 +1008,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic 的 Claude Code Agent 效果很好，有没有人深入分析其技术原理？",
+          "url": "https://www.zhihu.com/question/1920949805166858531",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         }
       ]
     }
