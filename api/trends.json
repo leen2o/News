@@ -1,413 +1,12 @@
 {
-  "generated_at": "2025-11-15T23:38:21.187623+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-11-16T00:17:53.699246+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 -军饷",
-      "match_count": 53,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            8,
-            9,
-            10,
-            12,
-            14,
-            20,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 18时40分]"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            8,
-            9,
-            13,
-            18,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时19分 ~ 16时44分]"
-        },
-        {
-          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
-          "url": "https://flash.jin10.com/detail/20251115141405832800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            7,
-            9,
-            11,
-            17,
-            21,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时47分 ~ 19时12分]"
-        },
-        {
-          "title": "美媒：特朗普政府内部曾讨论限制FDA局长职权",
-          "url": "https://flash.jin10.com/detail/20251115180815888800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            8,
-            17,
-            23,
-            25,
-            26,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时15分 ~ 23时14分]"
-        },
-        {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时19分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
-          "url": "https://wallstreetcn.com/livenews/3005151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16,
-            19,
-            22,
-            24,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时23分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普称对委内瑞拉“差不多下定决心”",
-          "url": "https://wallstreetcn.com/livenews/3005157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            14,
-            17,
-            19,
-            24,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时36分 ~ 21时02分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 41,
-          "time_info": "[00时21分 ~ 16时44分]"
-        },
-        {
-          "title": "特朗普称对委内瑞拉差不多下定决心",
-          "url": "https://flash.jin10.com/detail/20251115151858037800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            5,
-            11,
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时36分 ~ 19时12分]"
-        },
-        {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6,
-            10,
-            12,
-            14,
-            16,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 15时14分]"
-        },
-        {
-          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251115183418389800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            16,
-            18,
-            19,
-            20,
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时12分 ~ 23时38分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普的官员与小罗伯特·F·肯尼迪讨论过削减美国食品药品监督管理局（FDA）局长马卡里的职权。",
-          "url": "https://flash.jin10.com/detail/20251115180113833800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            10,
-            19,
-            25,
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时15分 ~ 22时38分]"
-        },
-        {
-          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3005184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            8,
-            9,
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            21,
-            23,
-            25,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
-          "url": "https://flash.jin10.com/detail/20251115034601291800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时19分 ~ 09时12分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
-          "url": "https://flash.jin10.com/detail/20251115190723061800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            14,
-            15,
-            16,
-            17,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
-          "url": "https://flash.jin10.com/detail/20251115185251753800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            16,
-            17,
-            18,
-            19,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "特朗普拟削减部分食品杂货的关税",
-          "url": "https://flash.jin10.com/detail/20251115032227823800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时19分 ~ 07时37分]"
-        },
-        {
-          "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
-          "url": "https://flash.jin10.com/detail/20251115004419214800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://flash.jin10.com/detail/20251115090032024800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9,
-            13,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普抵制G20峰会 南非总统硬刚",
-          "url": "https://www.toutiao.com/trending/7572836123530739748/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时19分 ~ 18时15分]"
-        },
-        {
-          "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
-          "url": "https://wallstreetcn.com/livenews/3004988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            12,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 03时37分]"
-        },
-        {
-          "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
-          "url": "https://wallstreetcn.com/livenews/3005021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            15,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 06时15分]"
-        },
-        {
-          "title": "特朗普政府下调美国大豆出口前景预测",
-          "url": "https://wallstreetcn.com/livenews/3005036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            18,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 07时15分]"
-        },
-        {
-          "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
-          "url": "https://flash.jin10.com/detail/20251115031611810800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
           "url": "https://flash.jin10.com/detail/20251115224710080800",
@@ -415,130 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：再次呼吁特朗普政府发布那些至关重要的经济数据。",
-          "url": "https://wallstreetcn.com/livenews/3004985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "00时17分"
         },
         {
-          "title": "美国官员们表示：各大航司施压总统特朗普的政府，要求结束政府停摆问题引发的“强制性航班削减”做法。",
-          "url": "https://wallstreetcn.com/livenews/3004972",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            17,
-            27,
-            28
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 02时50分]"
-        },
-        {
-          "title": "特朗普最新任命的美联储理事：根据滞后数据来制定政策和让就业市场走弱都是错误的",
-          "url": "https://wallstreetcn.com/livenews/3005014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时15分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
-          "url": "https://wallstreetcn.com/livenews/3004971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 02时50分]"
-        },
-        {
-          "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3004990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10,
-            16,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 04时19分]"
-        },
-        {
-          "title": "美国总统特朗普料将下调牛肉、西红柿、咖啡、香蕉关税。",
-          "url": "https://wallstreetcn.com/livenews/3005012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时15分]"
-        },
-        {
-          "title": "特朗普：给我查查克林顿",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%99%E6%88%91%E6%9F%A5%E6%9F%A5%E5%85%8B%E6%9E%97%E9%A1%BF",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://wallstreetcn.com/livenews/3005113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 12时43分]"
-        },
-        {
-          "title": "前美国财长萨默斯、高盛律师曾向爱泼斯坦吐槽特朗普：“粗俗”、“恶心”",
-          "url": "https://wallstreetcn.com/livenews/3004961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
           "title": "诡异的现象：特朗普反复强调降息，美联储新主席候选人却集体讨论“缩表”",
@@ -548,704 +37,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时38分 ~ 23时38分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
-          "title": "美国总统特朗普：今年感恩节的开销将比去年降低25%。",
-          "url": "https://flash.jin10.com/detail/20251114235126304800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "美国总统特朗普：在特朗普政府的领导下，各项成本正在大幅下降，这在很大程度上得益于汽油和能源价格的下跌。",
-          "url": "https://flash.jin10.com/detail/20251114235018798800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
-          "url": "https://wallstreetcn.com/livenews/3004952",
+          "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3005184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "民主党人要求特朗普政府解释削减航班的原因",
-          "url": "https://flash.jin10.com/detail/20251115015954513800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 03时14分]"
-        },
-        {
-          "title": "美国总统特朗普寻求调查克林顿、萨默斯和爱泼斯坦的关系。",
-          "url": "https://flash.jin10.com/detail/20251114234139157800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "美国能源部官员拟劝阻特朗普恢复爆炸性核试验",
-          "url": "https://flash.jin10.com/detail/20251115014832583800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 03时14分]"
-        },
-        {
-          "title": "美国总统特朗普：要求司法部和美国联邦调查局（FBI）也调查摩根大通与爱泼斯坦的关系。",
-          "url": "https://flash.jin10.com/detail/20251114233833371800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
-        },
-        {
-          "title": "专家谈特朗普重返白宫首次对台军售",
-          "url": "https://www.toutiao.com/trending/7571928334733541430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时40分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren再次呼吁特朗普政府发布那些至关重要的经济数据",
-          "url": "https://wallstreetcn.com/livenews/3004985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 02时50分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 12时19分]"
-        },
-        {
-          "title": "巴西最高法院小组已形成多数意见，将对议员爱德华多·博索纳罗进行审判，理由是他试图让美国总统特朗普介入前总统博索纳罗的刑事案件。",
-          "url": "https://flash.jin10.com/detail/20251115031502911800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
-          "url": "https://wallstreetcn.com/livenews/3005094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "特朗普：在委内瑞拉问题上取得了很大进展。",
-          "url": "https://wallstreetcn.com/livenews/3005093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "美国白宫：瑞士和列支敦士登打算与美国合作，以确保供应链安全。（外媒更正，非特朗普说话）",
-          "url": "https://flash.jin10.com/detail/20251115012824907800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "消息人士称，特朗普政府中负责能源和核事务的高级官员计划在未来几天与白宫和国家安全委员会会面，以劝阻美国总统特朗普恢复美国的核武器试验。",
-          "url": "https://flash.jin10.com/detail/20251115011647861800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普准备削减牛肉、西红柿、咖啡和香蕉的关税。",
-          "url": "https://flash.jin10.com/detail/20251115030538098800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3004925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "苹果",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[11时38分 ~ 23时38分]"
-        },
-        {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[10时49分 ~ 23时38分]"
-        },
-        {
-          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
-          "url": "https://www.zhihu.com/question/1972480723312181332",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            8,
-            7,
-            3,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[14时22分 ~ 23时38分]"
-        },
-        {
-          "title": "苹果公司正在加紧制定接班人计划，为蒂姆·库克（Tim Cook）最快于明年卸任首席执行官一职做准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3005144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            5,
-            6,
-            10,
-            15,
-            22,
-            25,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 17时37分]"
-        },
-        {
-          "title": "苹果为库克最快明年卸任CEO做准备 加紧推进接班人计划",
-          "url": "https://flash.jin10.com/detail/20251115113855991800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            3,
-            5,
-            7,
-            12,
-            13,
-            14,
-            16,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 17时37分]"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)正为蒂姆·库克最快明年卸任首席执行官做准备，该公司硬件工程高级副总裁约翰·特纳斯（John Ternus）被广泛认为是库克最有可能的继任者。",
-          "url": "https://flash.jin10.com/detail/20251115113351671800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            6,
-            8,
-            13,
-            14,
-            15,
-            17,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 17时37分]"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)加紧为首席执行官蒂姆·库克的接班人做规划。",
-          "url": "https://flash.jin10.com/detail/20251115113209881800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            7,
-            9,
-            14,
-            15,
-            16,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时19分 ~ 17时37分]"
-        },
-        {
-          "title": "淄博苹果哥火了 各地商贩纷纷模仿",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E8%8B%B9%E6%9E%9C%E5%93%A5%E7%81%AB%E4%BA%86+%E5%90%84%E5%9C%B0%E5%95%86%E8%B4%A9%E7%BA%B7%E7%BA%B7%E6%A8%A1%E4%BB%BF",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18,
-            13,
-            4,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时22分 ~ 18时15分]"
-        },
-        {
-          "title": "苹果“袜子手机袋”多款开售即告罄",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E2%80%9C%E8%A2%9C%E5%AD%90%E6%89%8B%E6%9C%BA%E8%A2%8B%E2%80%9D%E5%A4%9A%E6%AC%BE%E5%BC%80%E5%94%AE%E5%8D%B3%E5%91%8A%E7%BD%84",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13,
-            12,
-            15,
-            18,
-            23,
-            24,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时49分 ~ 17时15分]"
-        },
-        {
-          "title": "骑手送苹果手机时人货全部失踪",
-          "url": "https://www.baidu.com/s?wd=%E9%AA%91%E6%89%8B%E9%80%81%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%97%B6%E4%BA%BA%E8%B4%A7%E5%85%A8%E9%83%A8%E5%A4%B1%E8%B8%AA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18,
-            19,
-            12,
-            13,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "1299元起的苹果手机袋值不值",
-          "url": "https://www.toutiao.com/trending/7572527631750217766/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            17,
-            12,
-            13,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时49分 ~ 23时38分]"
-        },
-        {
-          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
-          "title": "230美元iPhone Pocket上架即售罄 苹果最新跨界配件引热议",
-          "url": "https://www.cls.cn/detail/2201427",
-          "source": "财联社热门",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
+          "url": "https://flash.jin10.com/detail/20251115190723061800",
+          "source": "金十数据",
           "ranks": [
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 15时14分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
-          "title": "淄博“苹果哥”走红 本人回应",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%84%E5%8D%9A%E2%80%9C%E8%8B%B9%E6%9E%9C%E5%93%A5%E2%80%9D%E8%B5%B0%E7%BA%A2+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "美媒：特朗普集团正与沙特政府就房地产交易进行谈判",
+          "url": "https://flash.jin10.com/detail/20251115185251753800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            19,
-            23,
-            21
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时40分 ~ 22时14分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         },
         {
-          "title": "13F报告显示：Citadel Advisors LLC.三季度建仓壳牌与埃克森美孚等。 清仓iShares半导体ETF等。 增持Meta、微软、Visa、苹果、Norfolk、Southern。 减持德州仪器、亿滋国际、麦当劳、摩根大通等。 重仓微软、英伟达、Meta、苹果、Visa。",
-          "url": "https://wallstreetcn.com/livenews/3005065",
-          "source": "华尔街见闻-快讯",
+          "title": "据纽约时报：特朗普集团正与沙特政府就房地产交易进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251115183418389800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时37分]"
-        },
-        {
-          "title": "骑手送6台苹果手机半路失联",
-          "url": "https://www.toutiao.com/trending/7571639541745074217/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18,
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 12时19分]"
-        },
-        {
-          "title": "美国国际贸易委员会决定启动新程序，以确定更新版苹果手表的进口是否应被禁止",
-          "url": "https://wallstreetcn.com/livenews/3005003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 04时41分]"
-        },
-        {
-          "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时12分]"
-        },
-        {
-          "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
-          "url": "https://wallstreetcn.com/livenews/3005075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时12分]"
-        },
-        {
-          "title": "伯克希尔披露43亿美元新购Alphabet股份，并出售更多苹果公司股份",
-          "url": "https://wallstreetcn.com/livenews/3005050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时37分]"
-        },
-        {
-          "title": "苹果针织手机包开售半小时内抢光",
-          "url": "https://www.toutiao.com/trending/7572583491100049414/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 10时50分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
-          "title": "彭博汇总的最新13F持仓数据显示，超过140家基金减持苹果，但也有114家增持。 CoreWeave被减持的股票市值58.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3005083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "市场消息：苹果公司与美国职业足球大联盟的流媒体合作将于2029年到期。",
-          "url": "https://flash.jin10.com/detail/20251115025439104800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
-          "url": "https://wallstreetcn.com/articles/3759409",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 49,
-          "time_info": "[00时21分 ~ 20时29分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
-          "url": "https://flash.jin10.com/detail/20251115093238774800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8,
-            12,
-            14,
-            16,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时50分 ~ 14时47分]"
-        },
-        {
-          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
-          "url": "https://flash.jin10.com/detail/20251115162742778800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            11,
-            17,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 19时37分]"
-        },
-        {
-          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            20,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 07时15分]"
-        },
-        {
-          "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3005015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时15分]"
-        },
-        {
-          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
-          "url": "https://wallstreetcn.com/livenews/3005054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时15分 ~ 07时37分]"
-        },
-        {
-          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
-          "url": "https://wallstreetcn.com/livenews/3005043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            21,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时38分 ~ 07时37分]"
-        },
-        {
-          "title": "巴菲特旗下伯克希尔三季度建仓谷歌母公司Alphabet，在仓位中位列第十大。",
-          "url": "https://wallstreetcn.com/livenews/3005050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时15分]"
-        },
-        {
-          "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
-          "url": "https://wallstreetcn.com/livenews/3005059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 07时37分]"
+          "time_info": "00时17分"
         }
       ]
     },
@@ -1255,261 +92,114 @@
       "titles": [
         {
           "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3005185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            7,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
-          "url": "https://flash.jin10.com/detail/20251115192311079800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            9,
-            10,
-            11,
-            12,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
-          "url": "https://flash.jin10.com/detail/20251115185701821800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            15,
-            16,
-            17,
-            18,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
-          "url": "https://flash.jin10.com/detail/20251115183803555800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            17,
-            18,
-            19,
-            20,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时37分 ~ 23时38分]"
-        },
-        {
-          "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
           "url": "https://news.ifeng.com/c/8oJ3nKHKexL",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时29分 ~ 23时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
         {
-          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
-          "url": "https://wallstreetcn.com/livenews/3005134",
+          "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3005185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9,
-            11,
-            13,
-            14,
-            18,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时38分 ~ 16时19分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26stream_entry_id%3D31%26pos%3D30%26realpos%3D30%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26flag%3D0%26cate%3D5001%26display_time%3D1763146666%26pre_seqid%3D17631466660710330674316&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时41分]"
-        },
-        {
-          "title": "国际金价深夜跳水",
-          "url": "https://www.toutiao.com/trending/7572870687719689754/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 VIVO OPPO 小米",
-      "match_count": 2,
-      "titles": [
+          "time_info": "00时17分"
+        },
         {
-          "title": "东风与华为合作的汽车品牌将于11月20日发布",
-          "url": "https://wallstreetcn.com/livenews/3005173",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称在该国南部波斯湾海域扣押一艘油轮",
+          "url": "https://flash.jin10.com/detail/20251115192311079800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            10,
-            11,
-            13,
-            15,
-            19,
-            20,
-            22,
-            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "伊朗革命卫队：我们根据法院命令查封了“塔拉拉”号油轮，该油轮载有未经授权的货物。",
+          "url": "https://flash.jin10.com/detail/20251115185701821800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗革命卫队扣押了一艘正驶往新加坡、装载石化工品的油轮。",
+          "url": "https://flash.jin10.com/detail/20251115183803555800",
+          "source": "金十数据",
+          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时15分 ~ 23时38分]"
-        },
-        {
-          "title": "OPPO官方发布声明：OPPO Reno 15系列发布会为定向邀约制，不存在任何售票渠道。请大家理性甄别，避免上当受骗。",
-          "url": "https://wallstreetcn.com/livenews/3005165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            12,
-            17,
-            18,
-            20,
-            22,
-            26,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时19分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
     {
-      "keyword_group": "美债 -杰富瑞",
-      "match_count": 2,
+      "keyword_group": "苹果",
+      "match_count": 3,
       "titles": [
         {
-          "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3759354",
+          "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
+          "url": "https://www.zhihu.com/question/1972480723312181332",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时17分"
         },
         {
-          "title": "美债收益率本周普遍涨超4个基点",
-          "url": "https://wallstreetcn.com/livenews/3005071",
-          "source": "华尔街见闻-快讯",
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            28
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时12分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数本周跌0.3%",
-          "url": "https://wallstreetcn.com/livenews/3005030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            18,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时41分 ~ 06时41分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
-          "url": "https://wallstreetcn.com/livenews/3005073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic Claude",
+      "keyword_group": "iPhone 华为 VIVO OPPO 小米",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic 的 Claude Code Agent 效果很好，有没有人深入分析其技术原理？",
-          "url": "https://www.zhihu.com/question/1920949805166858531",
-          "source": "知乎",
+          "title": "东风与华为合作的汽车品牌将于11月20日发布",
+          "url": "https://wallstreetcn.com/livenews/3005173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            16,
-            20
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 16时44分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
